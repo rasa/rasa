@@ -7,7 +7,7 @@
 - 💬 Ask me about my two years studying yoga in India.
 - 📫 How to reach me: beep me.
 - 😄 Pronouns: he/his.
-- ⚡ Fun fact: lived in a Sausalito houseboat at 12, a 1947 Dodge schoolbus at 15, a former Army chapel at 16, and a teepee at 17, when I hand raised an infant deer.
+- ⚡ Fun facts: lived in a Sausalito houseboat at 12, a 1947 Dodge schoolbus at 15, a former Army chapel at 16, and a teepee at 17, when I hand raised an infant deer.
 
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=rasa&show_icons=true&theme=)](https://github.com/rasa)
 <!--
