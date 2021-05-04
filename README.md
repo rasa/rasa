@@ -17,3 +17,5 @@
 --------|-------
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rasa&repo=rasa&theme=vue)](https://github.com/rasa/rasa) 
 -->
+
+For the Rasa open-source machine learning framework, visit [github.com/RasaHQ](https://github.com/RasaHQ).
