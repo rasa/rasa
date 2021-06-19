@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on teaching my dog not to bark so much.
 - 🌱 I’m currently learning acoustic guitar.
-- 👯 I’m looking to collaborate on [Scoop](https://scoop.sh).
+- 👯 I’m looking to collaborate on [ranked voting](https://en.m.wikipedia.org/wiki/Ranked_voting).
 - 🤔 <s>I’m looking for help getting Bluetooth drivers working on a Lenovo X1 Carbon Gen 5 with Windows 10 1908.</s> Solved by upgrading to Windows 10 2004.
 - 💬 Ask me about my two years studying yoga in India.
 - 📫 How to reach me: beep me.
