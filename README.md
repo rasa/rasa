@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning acoustic guitar.
 - 👯 I’m looking to collaborate on [ranked voting](https://en.m.wikipedia.org/wiki/Ranked_voting).
 - 🤔 I’m looking for help getting [ranked voting](https://en.m.wikipedia.org/wiki/Ranked_voting) implemented in more locations.
-- 💬 Ask me about my two years studying yoga in India.
+- 💬 Ask me about my studying yoga for over two years in Pune and Mysuru (née Mysore) India.
 - 📫 How to reach me: beep me.
 - 😄 Pronouns: he/his.
 - ⚡ Fun facts: I lived in a Sausalito houseboat named *The Tursiops* at 12-years-old, a 1947 Dodge school bus at 15, an old Army chapel at 16, and a 20' tipi at 17, when I hand raised an infant deer, whose mother had been hit by a car and died giving birth.
