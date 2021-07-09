@@ -7,7 +7,7 @@
 - 💬 Ask me about my studying yoga for over two years in Pune and Mysuru (née Mysore) India.
 - 📫 How to reach me: beep me.
 - 😄 Pronouns: he/his.
-- ⚡ Fun facts: I lived in a Sausalito houseboat named *The Tursiops* at 12-years-old, a 1947 Dodge school bus at 15, an old Army chapel at 16, and a 20' tipi at 17, when I hand raised an infant deer, whose mother had been hit by a car and died giving birth.
+- ⚡ Fun facts: I lived in a Sausalito houseboat named *The Tursiops* at 12-years-old, a tricked out 1947 Dodge school bus at 15, an old Army chapel at 16, and a 20' tipi at 17, when I hand raised an infant deer, whose mother had been hit by a car and died giving birth.
 
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=rasa&show_icons=true&theme=)](https://github.com/rasa)
 <!--
