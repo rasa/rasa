@@ -9,10 +9,11 @@
 - 😄 Pronouns: he/his.
 - ⚡ Fun facts: At 12-years-old, I lived in Sausalito, CA on a [hippie houseboat](https://roadtrippers.com/magazine/sausalito-floating-homes-california/) named *The Tursiops*; at 15, in [Byron Hot Springs](https://en.m.wikipedia.org/wiki/Byron,_California#Byron_Hot_Springs) in a tricked out 1947 Dodge school bus; at 16, in an old Army chapel; and at 17, outside Ukiah, CA, in a 20' tipi, when I hand raised a newborn fawn, whose mother had been hit by a car and died giving birth.
 
-<img src="https://rt-homepage.roadtrippers.com/wp-content/uploads/2019/11/sausalito-floating-homes-12.jpg" width="300"/>&nbsp;
+<img src="https://rt-homepage.roadtrippers.com/wp-content/uploads/2019/11/sausalito-floating-homes-12.jpg" height="300"/>&nbsp;
 <img src="https://s.hdnux.com/photos/72/27/11/15299191/3/1200x0.jpg" height="300"/>&nbsp;
-<img src="https://topworldauto.com/pics/Dodge/dodge-school-bus-02.jpg" width="300"/>&nbsp;
+<img src="https://topworldauto.com/pics/Dodge/dodge-school-bus-02.jpg" height="300"/>&nbsp;
 <img src="https://www.ualberta.ca/augustana/media-library/aso/mikiwahp3.jpg" height="300"/>
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLW3l_KOE-DAHyZnfpqQjqkDzV0jAkcNZS6p4z2wdhoUfusJBNowMrr_b5rQ4hNTDpR0X21ZiEPPykuCqdPyJsTdP-Fkya4S2vn0DMns4aVIiZQcNMe8QiZ25Kj-yLPifqvMaImfeY7aGd7CiGFgzvWwvg=w1358-h1810-no" height="300"/>
 
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=rasa&show_icons=true&theme=)](https://github.com/rasa)
 <!--
