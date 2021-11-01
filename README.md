@@ -11,7 +11,7 @@
 
 <img src="https://rt-homepage.roadtrippers.com/wp-content/uploads/2019/11/sausalito-floating-homes-12.jpg" height="300"/>&nbsp;
 <img src="https://s.hdnux.com/photos/72/27/11/15299191/3/1200x0.jpg" height="300"/>&nbsp;
-<img src="https://topworldauto.com/pics/Dodge/dodge-school-bus-02.jpg" height="300"/>&nbsp;
+<img src="http://2.bp.blogspot.com/-A9pnqiKKmM0/TsG7sKa1HPI/AAAAAAAAABc/bbLB-UZ7TCY/s1600/images.jpg" height="300"/>&nbsp;
 <img src="https://www.ualberta.ca/augustana/media-library/aso/mikiwahp3.jpg" height="300"/>
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLW3l_KOE-DAHyZnfpqQjqkDzV0jAkcNZS6p4z2wdhoUfusJBNowMrr_b5rQ4hNTDpR0X21ZiEPPykuCqdPyJsTdP-Fkya4S2vn0DMns4aVIiZQcNMe8QiZ25Kj-yLPifqvMaImfeY7aGd7CiGFgzvWwvg=w1358-h1810-no" height="300"/>
 
