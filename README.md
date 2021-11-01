@@ -7,7 +7,7 @@
 - 💬 Ask me about my studying yoga for over two years in [Pune](https://wikipedia.org/wiki/Pune) and [Mysuru](https://wikipedia.org/wiki/Mysuru) (née Mysore) India.
 - 📫 How to reach me: beep me.
 - 😄 Pronouns: he/his.
-- ⚡ Fun facts: At 12-years-old, I lived in Sausalito, CA at the end of Gate 5 on a [houseboat](https://roadtrippers.com/magazine/sausalito-floating-homes-california/) named *The Tursiops*; at 15, at [Byron Hot Springs](https://en.m.wikipedia.org/wiki/Byron,_California#Byron_Hot_Springs) in a tricked out 1947 Dodge school bus; at 16, in an old Army chapel; and at 17, outside Ukiah, CA, in a 20' tipi, when I hand raised a newborn fawn, whose mother had just given birth caused by being fatally struck by a car.
+- ⚡ Fun facts: At 12-years-old, I lived in Sausalito, CA at the end of [Gate 5](https://exhibits.library.ucsc.edu/exhibits/show/activism-in-the-archives/baruch-jones/gate-five) on a [houseboat](https://roadtrippers.com/magazine/sausalito-floating-homes-california/) named *The Tursiops*; at 15, at [Byron Hot Springs](https://en.m.wikipedia.org/wiki/Byron,_California#Byron_Hot_Springs) in a tricked out 1947 Dodge school bus; at 16, in an old Army chapel; and at 17, outside Ukiah, CA, in a 20' tipi, when I hand raised a newborn fawn, whose mother had just given birth caused by being fatally struck by a car.
 
 <img src="https://images.squarespace-cdn.com/content/56097a22e4b0a94b03e5c183/1512679720658-VSP6XA3HAIOMR98C9JMK/Santa+BF+12+17.jpg?format=1500w&content-type=image%2Fjpeg" height="300"/>&nbsp;
 <img src="https://s.hdnux.com/photos/72/27/11/15299191/3/1200x0.jpg" height="300"/>&nbsp;
