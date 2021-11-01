@@ -7,7 +7,7 @@
 - 💬 Ask me about my studying yoga for over two years in [Pune](https://wikipedia.org/wiki/Pune) and [Mysuru](https://wikipedia.org/wiki/Mysuru) (née Mysore) India.
 - 📫 How to reach me: beep me.
 - 😄 Pronouns: he/his.
-- ⚡ Fun facts: At 12-years-old, I lived in Sausalito, CA on a [hippie houseboat](https://roadtrippers.com/magazine/sausalito-floating-homes-california/) named *The Tursiops*; at 15, in [Byron Hot Springs](https://en.m.wikipedia.org/wiki/Byron,_California#Byron_Hot_Springs) in a tricked out 1947 Dodge school bus; at 16, in an old Army chapel; and at 17, outside Ukiah, CA, in a 20' tipi, when I hand raised a newborn fawn, whose mother had been hit by a car and died giving birth.
+- ⚡ Fun facts: At 12-years-old, I lived in Sausalito, CA at the end of Gate 5 on a [houseboat](https://roadtrippers.com/magazine/sausalito-floating-homes-california/) named *The Tursiops*; at 15, at [Byron Hot Springs](https://en.m.wikipedia.org/wiki/Byron,_California#Byron_Hot_Springs) in a tricked out 1947 Dodge school bus; at 16, in an old Army chapel; and at 17, outside Ukiah, CA, in a 20' tipi, when I hand raised a newborn fawn, whose mother had been hit by a car and died giving birth.
 
 <img src="https://rt-homepage.roadtrippers.com/wp-content/uploads/2019/11/sausalito-floating-homes-12.jpg" height="300"/>&nbsp;
 <img src="https://s.hdnux.com/photos/72/27/11/15299191/3/1200x0.jpg" height="300"/>&nbsp;
