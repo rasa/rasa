@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/his.
 - ⚡ Fun facts: At 12-years-old, I lived in Sausalito, CA at the end of Gate 5 on a [houseboat](https://roadtrippers.com/magazine/sausalito-floating-homes-california/) named *The Tursiops*; at 15, at [Byron Hot Springs](https://en.m.wikipedia.org/wiki/Byron,_California#Byron_Hot_Springs) in a tricked out 1947 Dodge school bus; at 16, in an old Army chapel; and at 17, outside Ukiah, CA, in a 20' tipi, when I hand raised a newborn fawn, whose mother had been hit by a car and died giving birth.
 
-<img src="https://rt-homepage.roadtrippers.com/wp-content/uploads/2019/11/sausalito-floating-homes-12.jpg" height="300"/>&nbsp;
+<img src="https://images.squarespace-cdn.com/content/56097a22e4b0a94b03e5c183/1512679720658-VSP6XA3HAIOMR98C9JMK/Santa+BF+12+17.jpg?format=1500w&content-type=image%2Fjpeg" height="300"/>&nbsp;
 <img src="https://s.hdnux.com/photos/72/27/11/15299191/3/1200x0.jpg" height="300"/>&nbsp;
 <img src="http://2.bp.blogspot.com/-A9pnqiKKmM0/TsG7sKa1HPI/AAAAAAAAABc/bbLB-UZ7TCY/s1600/images.jpg" height="300"/>&nbsp;
 <img src="https://www.ualberta.ca/augustana/media-library/aso/mikiwahp3.jpg" height="300"/>
