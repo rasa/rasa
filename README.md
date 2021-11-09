@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning acoustic guitar.
 - 👯 I’m looking to collaborate on [ranked voting](https://wikipedia.org/wiki/Ranked_voting).
 - 🤔 I’m looking for help getting [ranked voting](https://wikipedia.org/wiki/Ranked_voting) implemented in more locations.
-- 💬 Ask me about my studying yoga for over two years in [Pune](https://wikipedia.org/wiki/Pune) and [Mysuru](https://wikipedia.org/wiki/Mysuru) (née Mysore) India.
+- 💬 Ask me about my studying Iyengar and Aṣṭāṅga yoga for over two years in [Pune](https://wikipedia.org/wiki/Pune) and [Mysuru](https://wikipedia.org/wiki/Mysuru) (née Mysore) India.
 - 📫 How to reach me: beep me.
 - 😄 Pronouns: he/his.
 - ⚡ Fun facts: At 12-years-old, I lived in Sausalito, CA at the end of [Gate 5](https://exhibits.library.ucsc.edu/exhibits/show/activism-in-the-archives/baruch-jones/gate-five) on a [houseboat](https://roadtrippers.com/magazine/sausalito-floating-homes-california/) named *The Tursiops*; at 15, at [Byron Hot Springs](https://en.m.wikipedia.org/wiki/Byron,_California#Byron_Hot_Springs) in a tricked out 1947 Dodge school bus; at 16, in an old Army chapel; and at 17, outside Ukiah, CA, in a 20' tipi, when I hand raised a newborn fawn, whose mother had just given birth caused by being fatally struck by a car.
