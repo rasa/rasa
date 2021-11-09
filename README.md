@@ -1,4 +1,4 @@
-### rasa - a yummy [polysemic](https://sanskritdictionary.com/?iencoding=iast&q=rasa&lang=sans&action=Search) Sanskrit word.
+### रस (rasa) - a yummy [polysemic](https://sanskritdictionary.com/?iencoding=iast&q=rasa&lang=sans&action=Search) Sanskrit word.
 
 - 🔭 I’m currently working on teaching my dog not to bark so much.
 - 🌱 I’m currently learning acoustic guitar.
