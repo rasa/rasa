@@ -15,7 +15,14 @@
 <img src="https://www.ualberta.ca/augustana/media-library/aso/mikiwahp3.jpg" height="300"/>
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLW3l_KOE-DAHyZnfpqQjqkDzV0jAkcNZS6p4z2wdhoUfusJBNowMrr_b5rQ4hNTDpR0X21ZiEPPykuCqdPyJsTdP-Fkya4S2vn0DMns4aVIiZQcNMe8QiZ25Kj-yLPifqvMaImfeY7aGd7CiGFgzvWwvg=w1358-h1810-no" height="300"/>
 
-[![inhere's github stats](https://github-readme-stats.vercel.app/api?username=rasa&show_icons=true&theme=)](https://github.com/rasa)
+[![rasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)](https://github.com/rasa/)
+
+[![rasa's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rasa&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445)](https://github.com/rasa/)
+
+[![rasa's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rasa&layout=compact&theme=dark&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)](https://wakatime.com/@rasa)
+
+For the Rasa open-source machine learning framework, visit [github.com/RasaHQ](https://github.com/RasaHQ).
+
 <!--
 ## Pinned Projects
 
@@ -23,5 +30,3 @@
 --------|-------
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rasa&repo=rasa&theme=vue)](https://github.com/rasa/rasa) 
 -->
-
-For the Rasa open-source machine learning framework, visit [github.com/RasaHQ](https://github.com/RasaHQ).
