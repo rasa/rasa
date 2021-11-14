@@ -18,9 +18,9 @@
 [![rasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)](https://github.com/rasa/)
 
 [![rasa's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rasa&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445)](https://github.com/rasa/)
-
+<!--
 [![rasa's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rasa&layout=compact&theme=dark&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)](https://wakatime.com/@rasa)
-
+-->
 For the Rasa open-source machine learning framework, visit [github.com/RasaHQ](https://github.com/RasaHQ).
 
 <!--
