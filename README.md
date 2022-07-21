@@ -16,7 +16,7 @@
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLW3l_KOE-DAHyZnfpqQjqkDzV0jAkcNZS6p4z2wdhoUfusJBNowMrr_b5rQ4hNTDpR0X21ZiEPPykuCqdPyJsTdP-Fkya4S2vn0DMns4aVIiZQcNMe8QiZ25Kj-yLPifqvMaImfeY7aGd7CiGFgzvWwvg=w1358-h1810-no" height="300"/>
 <img src="https://josephgreco.weebly.com/uploads/1/7/3/2/1732235/vallejo2_orig.jpg" height="300"/>
 
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%"/>
 
 <!--
 [![rasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasa)](https://github.com/rasa/)
