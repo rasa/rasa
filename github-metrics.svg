@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1848" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2198" class="columns">
     <defs>
         <style/>
     </defs>
@@ -1368,6 +1368,177 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 60 commits in
+                                        <span class="repo">rasa/syncthing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fs/add-encoder</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7e26f74</div>
+                                        <div class="message">lib/config: Remove unnecessary use of `fmt.Sprintf` (#8458)
+
+Co-authored-by: deepsource-autofix[bot] &lt;62050782+deepsource-autofix[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bdd0d5</div>
+                                        <div class="message">lib/model: Replace `for` loop with `append` (#8457)
+
+Co-authored-by: deepsource-autofix[bot] &lt;62050782+deepsource-autofix[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80ec4ac</div>
+                                        <div class="message">all: Fix check for empty string (#8456)
+
+Co-authored-by: deepsource-autofix[bot] &lt;62050782+deepsource-autofix[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2c5d90</div>
+                                        <div class="message">cmd/syncthing, lib/config: Remove restartOnWakeup option &amp; functionality (fixes #8448) (#8449)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b575b4</div>
+                                        <div class="message">gui: Remove blank meta tags (#8362)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6a319d</div>
+                                        <div class="message">gui: Add device sync status (fixes #7981) (#8401)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f4d23c</div>
+                                        <div class="message">gui: Fix detailed staggered versioning information in folder info (ref #8348) (#8433)
+
+Currently, there are two issues with the detailed staggered versioning
+information displayed in the folder info. Firstly, the maxAge value of
+365d is displayed despite matching the default. Secondly, there is no
+consideration for the special case of maxAge equal to 0, meaning that
+versions are kept forever.
+
+This commit fixes both of those issues, so that the default maxAge is
+not displayed and its value of 0 is displayed as "forever".
+
+Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adce6fa</div>
+                                        <div class="message">all: Support syncing ownership (fixes #1329) (#8434)
+
+This adds support for syncing ownership on Unixes and on Windows. The
+scanner always picks up ownership information, but it is not applied
+unless the new folder option "Sync Ownership" is set.
+
+Ownership data is stored in a new FileInfo field called "platform data". This
+is intended to hold further platform-specific data in the future
+(specifically, extended attributes), which is why the whole design is a
+bit overkill for just ownership.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34a5f08</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6dba7c</div>
+                                        <div class="message">lib/model, lib/config: Apply sensible defaults for auto-accepted encrypted folder (fixes #8296) (#8427)
+
+* lib/model: Override scan config for auto-accepted encrypted folders.
+
+Encrypted folders should not have the fs watcher enabled and rarely
+benefit from a scheduled rescan.  The GUI adjusts the suggested
+settings (watcher disabled, one day rescan interval) when accepting a
+receive-encrypted folder.  Mirror that behavior to the auto-accept
+case where the GUI is not involved.
+
+Versioning also does not work well for encrypted folders, same
+treatment.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eabc79</div>
+                                        <div class="message">gui: Move filesystem watcher explanation from tooltip to help block (#8432)
+
+Currently, the filesystem watcher explanation in the Advanced tab in the
+Edit Folder modal window is split into two parts. The first is location
+in a tooltip that is visible only when hovering the mouse over the small
+checkbox, which makes it not easily accessible, e.g. for new or touch
+screen users.
+
+No other settings in the Edit Folder window have their explanation
+presentend like that. When needed, it is always displayed in their
+respective help blocks, which are always visible on the screen. Thus,
+move the filesystem watcher explanation from the tooltip to the help
+block, merging it with the other part of the explanation in the process.
+
+Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c2428c</div>
+                                        <div class="message">gui: Use discovered IDs from cache when adding a new remote device (#8382)
+
+* gui: Use discovered IDs from cache when adding a new remote device.
+
+The GUI already does refreshDiscoveryCache() when it comes online and
+on every 10 second refresh cycle.  Querying the same information
+freshly in addDevice() seems unnecessary and adds some more round-trip
+delay on a possibly slow network link.  Instead use the IDs from the
+existing discoveryCache property to populate the suggested ID list.
+
+* Increase maximum suggested device ID count to 100.
+
+For the auto-completion list, which is hidden by default and filtered
+by the browser, we can offer more discovered device IDs without
+causing much confusion.  The list of suggested "nearby" devices is
+still limited to the first five.
+
+* Rename $scope.discoveryUnknown.
+
+The old name "discovery" was pretty ambiguous..</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b390f1</div>
+                                        <div class="message">build: Update goleveldb (#8440)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c06a169</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4335285</div>
+                                        <div class="message">cmd/syncthing/cli: Add show discovery command (fixes #8007) (#8378)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34c05be</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cb8af9</div>
+                                        <div class="message">lib/osutil: Only announce address of interfaces which are up (fixes #7458) (#8422)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8facaf5</div>
+                                        <div class="message">gui: Fix missing span end tag and missing nbsp semicolon in HTML (#8419)
+
+Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abea3d7</div>
+                                        <div class="message">cmd/syncthing: Apply file permissions and modtimes when decrypting (#8412)
+
+Directories are not represented in the encrypted storagage so they get
+to keep default permissions...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13d545c</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 9 commits in
                                         <span class="repo">rasa/editorconfig-checker</span>
                                     </div>
@@ -1639,22 +1810,6 @@ to keep default permissions...</div>
                                     <div class="commit">
                                         <div class="sha">#13d545c</div>
                                         <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/github_actions/oxsecurity/megalinter-6.4.0</span>
-                                        in
-                                        <span class="repo">rasa/law-scraper</span>
                                     </div>
                                 </div>
                             </section>
@@ -2218,7 +2373,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="45.36333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="45.46666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2240,7 +2395,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1439 times</div>
+                                <div class="text">Repositories have been deployed 1440 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2664,7 +2819,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2022, 17:25:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 15 Aug 2022, 18:36:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
