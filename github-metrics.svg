@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1721" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2354" class="columns">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,16 +31,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            55 Issues opened
+                            56 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    3.90 GB used
+                                    3.89 GB used
                                 </div>
                             </section>
                             <section>
@@ -633,6 +633,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1124,75 +1125,75 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">2.09k</span>
+                                <span class="value">2.10k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                16
+                                17
                                 <div class="bottom">July</div>
                             </div>
                             <div class="entry">
-                                <span class="value">2.10k</span>
-                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                17
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 18
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 19
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value">2.10k</span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 12px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">2.10k</span>
-                                <div class="bar" style="height: 26.249999999999996px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 21.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">2.10k</span>
-                                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 31px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value">2.10k</span>
-                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value">2.10k</span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 28
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 29
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                30
                             </div>
                         </div>
                     </section>
@@ -1200,15 +1201,10 @@
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                16
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value">+1</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 17
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1269,6 +1265,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 29
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                30
                             </div>
                         </div>
                     </section>
@@ -1340,332 +1341,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 79 commits in
-                                        <span class="repo">rasa/PyDrive2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c67c8e0</div>
-                                        <div class="message">auth: rename client_creds_dict -&gt; client_json_dict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9948238</div>
-                                        <div class="message">setup: bump to 1.11.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39e42c0</div>
-                                        <div class="message">settings: don't forget to specify struct for save_credentials_dict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88877cc</div>
-                                        <div class="message"> setup: bump to 1.11.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#439ce59</div>
-                                        <div class="message">auth: validate dictionary backend settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37abe56</div>
-                                        <div class="message">setup: bump to 1.11.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90d1d8e</div>
-                                        <div class="message">auth: add dictionary storage
-
-Allows not to save anything to disk, which is useful overall but especially
-useful when working with env vars, which could be sensitive so saving their
-value to disk is undesirable.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fd1aa7</div>
-                                        <div class="message">tests: switch to macOS 11 in os matrix
-
-https://github.com/actions/virtual-environments/issues/5583</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b043e2e</div>
-                                        <div class="message">add authorize dependency to tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41aaf6e</div>
-                                        <div class="message">update tests workflow to run on external PRs
-
-pull_request_target - workflow runs in the context of the target branch, abusing environment to introduce an approval process</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3940d7b</div>
-                                        <div class="message">gha: publish: run on release and workflow_dispatch
-
-Fixes https://github.com/iterative/PyDrive2/commit/b4b804c96b04f65eb2ed89371941027a205c950a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95722c8</div>
-                                        <div class="message">setup: bump to 1.10.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57a074c</div>
-                                        <div class="message">auth: support passing settings dict to GoogleAuth
-
-This allows programmatic use without having to create a settings file
-or barbarically modifying `GoogleAuth.DEFAULT_SETTINGS`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad7e726</div>
-                                        <div class="message">auth: add client_creds_dict
-
-This allows programmatic use without having to create a temporary file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c60051d</div>
-                                        <div class="message">Bump actions/checkout from 2 to 3 (#199)
-
-Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v2...v3)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Ruslan Kuprieiev &lt;kupruser@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7996b3b</div>
-                                        <div class="message">Bump actions/setup-python from 2 to 4 (#198)
-
-Bumps [actions/setup-python](https://github.com/actions/setup-python) from 2 to 4.
-- [Release notes](https://github.com/actions/setup-python/releases)
-- [Commits](https://github.com/actions/setup-python/compare/v2...v4)
-
----
-updated-dependencies:
-- dependency-name: actions/setup-python
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#445ed28</div>
-                                        <div class="message">Bump pre-commit/action from 2.0.0 to 3.0.0 (#201)
-
-Bumps [pre-commit/action](https://github.com/pre-commit/action) from 2.0.0 to 3.0.0.
-- [Release notes](https://github.com/pre-commit/action/releases)
-- [Commits](https://github.com/pre-commit/action/compare/v2.0.0...v3.0.0)
-
----
-updated-dependencies:
-- dependency-name: pre-commit/action
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4b804c</div>
-                                        <div class="message">restrict publish to run on the main branch only</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9efee2</div>
-                                        <div class="message">enable dependabot updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01d9082</div>
-                                        <div class="message">make checksum optional in GDriveFileSystem (#195)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 79 commits in
-                                        <span class="repo">rasa/PyDrive2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c67c8e0</div>
-                                        <div class="message">auth: rename client_creds_dict -&gt; client_json_dict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9948238</div>
-                                        <div class="message">setup: bump to 1.11.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39e42c0</div>
-                                        <div class="message">settings: don't forget to specify struct for save_credentials_dict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88877cc</div>
-                                        <div class="message"> setup: bump to 1.11.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#439ce59</div>
-                                        <div class="message">auth: validate dictionary backend settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37abe56</div>
-                                        <div class="message">setup: bump to 1.11.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90d1d8e</div>
-                                        <div class="message">auth: add dictionary storage
-
-Allows not to save anything to disk, which is useful overall but especially
-useful when working with env vars, which could be sensitive so saving their
-value to disk is undesirable.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fd1aa7</div>
-                                        <div class="message">tests: switch to macOS 11 in os matrix
-
-https://github.com/actions/virtual-environments/issues/5583</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b043e2e</div>
-                                        <div class="message">add authorize dependency to tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41aaf6e</div>
-                                        <div class="message">update tests workflow to run on external PRs
-
-pull_request_target - workflow runs in the context of the target branch, abusing environment to introduce an approval process</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3940d7b</div>
-                                        <div class="message">gha: publish: run on release and workflow_dispatch
-
-Fixes https://github.com/iterative/PyDrive2/commit/b4b804c96b04f65eb2ed89371941027a205c950a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95722c8</div>
-                                        <div class="message">setup: bump to 1.10.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57a074c</div>
-                                        <div class="message">auth: support passing settings dict to GoogleAuth
-
-This allows programmatic use without having to create a settings file
-or barbarically modifying `GoogleAuth.DEFAULT_SETTINGS`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad7e726</div>
-                                        <div class="message">auth: add client_creds_dict
-
-This allows programmatic use without having to create a temporary file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c60051d</div>
-                                        <div class="message">Bump actions/checkout from 2 to 3 (#199)
-
-Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v2...v3)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Ruslan Kuprieiev &lt;kupruser@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7996b3b</div>
-                                        <div class="message">Bump actions/setup-python from 2 to 4 (#198)
-
-Bumps [actions/setup-python](https://github.com/actions/setup-python) from 2 to 4.
-- [Release notes](https://github.com/actions/setup-python/releases)
-- [Commits](https://github.com/actions/setup-python/compare/v2...v4)
-
----
-updated-dependencies:
-- dependency-name: actions/setup-python
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#445ed28</div>
-                                        <div class="message">Bump pre-commit/action from 2.0.0 to 3.0.0 (#201)
-
-Bumps [pre-commit/action](https://github.com/pre-commit/action) from 2.0.0 to 3.0.0.
-- [Release notes](https://github.com/pre-commit/action/releases)
-- [Commits](https://github.com/pre-commit/action/compare/v2.0.0...v3.0.0)
-
----
-updated-dependencies:
-- dependency-name: pre-commit/action
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4b804c</div>
-                                        <div class="message">restrict publish to run on the main branch only</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9efee2</div>
-                                        <div class="message">enable dependabot updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01d9082</div>
-                                        <div class="message">make checksum optional in GDriveFileSystem (#195)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4981 [Bug]: Update chromedriver to v115</span>
+                                        <span class="issue">#720 Exception: you forgot parenthesis in the command decorator for `subcommand`</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">ScoopInstaller/Main</span></div>
+                                    <div>opened  in <span class="repo">kdeldycke/click-extra</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1676,15 +1361,127 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">rasa/law-scraper</span>
+                                        Pushed 49 commits in
+                                        <span class="repo">rasa/syncthing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b35a6e1</div>
-                                        <div class="message">Update .cspell.json</div>
+                                        <div class="sha">#cf68dfa</div>
+                                        <div class="message">build: Build Docker image for plain 32 bit arm (fixes #8973)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c44de2c</div>
+                                        <div class="message">lib/fs: Clarify errors for Windows filenames (fixes #8968) (#8969)
+
+With this change, error messages include the offending characters or
+name parts. Examples:
+
+    nul.txt: name is invalid, contains Windows reserved name: "nul"
+    foo&gt;bar.txt: name is invalid, contains Windows reserved character: "&gt;"
+    foo \bar.txt: name is invalid, must not end in space or period on Windows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ff5ed6</div>
+                                        <div class="message">gui: Avoid spurious comma in shared-with device list (fixes #8967) (#8970)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25ec2b6</div>
+                                        <div class="message">cmd/ursrv: Summarize tiny fraction items into Other</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5ab71d</div>
+                                        <div class="message">cmd/ursrv: Update distributions list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fc4c9d</div>
+                                        <div class="message">build: Only push releases to cloud storage, and also use `latest`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bebf2c2</div>
+                                        <div class="message">readme: Remove outdated build badges/links</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7d5269</div>
+                                        <div class="message">build: Push to correct Docker images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92917c9</div>
+                                        <div class="message">Merge branch 'release'
+
+* release:
+  build: Build and publish Docker images for relay and discovery server (fixes #8691, fixes #8960)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdde05c</div>
+                                        <div class="message">build: Build and publish Docker images for relay and discovery server (fixes #8691, fixes #8960)
+
+This adds builds for the discovery and relay servers in the same manner
+as Syncthing, so that Docker images are kept up to date with releases.
+
+Inspired by and closes #8834.
+
+Co-authored-by: Migelo &lt;miha@filetki.si&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7d7325</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4658232</div>
+                                        <div class="message">build: Build and publish Docker images for relay and discovery server (fixes #8691, fixes #8960)
+
+This adds builds for the discovery and relay servers in the same manner
+as Syncthing, so that Docker images are kept up to date with releases.
+
+Inspired by and closes #8834.
+
+Co-authored-by: Migelo &lt;miha@filetki.si&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a1f996</div>
+                                        <div class="message">build: Build infrastructure images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#229b6a2</div>
+                                        <div class="message">cmd/stcrashreceiver: Add /ping endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c84e47a</div>
+                                        <div class="message">build: Update dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#daf7baa</div>
+                                        <div class="message">etc: Update sysctl configs (#8955)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4a1231</div>
+                                        <div class="message">gui: Remove tilde auto-expansions (fixes #8890) (#8954)
+
+This removes the tilde expansion we had in the GUI. I'm not sure why we
+had it, but there are valid reasons to have a folder path with tilde in
+it in the config, and it was previously impossible to enter one of
+those.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b99dee3</div>
+                                        <div class="message">cmd/syncthing: Add environment variables for --home, --conf, and --data (fixes #8957) (#8952)
+
+This allows environment overrides for our directories. This is
+advantageous because, apart from the obvious, it means we can set it in
+the Docker file and not add command line options there. Having the
+command line option as we did meant that it was impossible to use the
+Docker image for other commands than `serve` (because that is implied
+when we see other options on the command line).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89fc692</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d421d66</div>
+                                        <div class="message">build: Docker images should have auto upgrade disabled...</div>
                                     </div>
                                 </div>
                             </section>
@@ -1696,15 +1493,443 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">rasa/law-scraper</span>
+                                        Pushed 49 commits in
+                                        <span class="repo">rasa/syncthing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cf68dfa</div>
+                                        <div class="message">build: Build Docker image for plain 32 bit arm (fixes #8973)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c44de2c</div>
+                                        <div class="message">lib/fs: Clarify errors for Windows filenames (fixes #8968) (#8969)
+
+With this change, error messages include the offending characters or
+name parts. Examples:
+
+    nul.txt: name is invalid, contains Windows reserved name: "nul"
+    foo&gt;bar.txt: name is invalid, contains Windows reserved character: "&gt;"
+    foo \bar.txt: name is invalid, must not end in space or period on Windows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ff5ed6</div>
+                                        <div class="message">gui: Avoid spurious comma in shared-with device list (fixes #8967) (#8970)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25ec2b6</div>
+                                        <div class="message">cmd/ursrv: Summarize tiny fraction items into Other</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5ab71d</div>
+                                        <div class="message">cmd/ursrv: Update distributions list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fc4c9d</div>
+                                        <div class="message">build: Only push releases to cloud storage, and also use `latest`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bebf2c2</div>
+                                        <div class="message">readme: Remove outdated build badges/links</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7d5269</div>
+                                        <div class="message">build: Push to correct Docker images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92917c9</div>
+                                        <div class="message">Merge branch 'release'
+
+* release:
+  build: Build and publish Docker images for relay and discovery server (fixes #8691, fixes #8960)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdde05c</div>
+                                        <div class="message">build: Build and publish Docker images for relay and discovery server (fixes #8691, fixes #8960)
+
+This adds builds for the discovery and relay servers in the same manner
+as Syncthing, so that Docker images are kept up to date with releases.
+
+Inspired by and closes #8834.
+
+Co-authored-by: Migelo &lt;miha@filetki.si&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7d7325</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4658232</div>
+                                        <div class="message">build: Build and publish Docker images for relay and discovery server (fixes #8691, fixes #8960)
+
+This adds builds for the discovery and relay servers in the same manner
+as Syncthing, so that Docker images are kept up to date with releases.
+
+Inspired by and closes #8834.
+
+Co-authored-by: Migelo &lt;miha@filetki.si&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a1f996</div>
+                                        <div class="message">build: Build infrastructure images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#229b6a2</div>
+                                        <div class="message">cmd/stcrashreceiver: Add /ping endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c84e47a</div>
+                                        <div class="message">build: Update dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#daf7baa</div>
+                                        <div class="message">etc: Update sysctl configs (#8955)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4a1231</div>
+                                        <div class="message">gui: Remove tilde auto-expansions (fixes #8890) (#8954)
+
+This removes the tilde expansion we had in the GUI. I'm not sure why we
+had it, but there are valid reasons to have a folder path with tilde in
+it in the config, and it was previously impossible to enter one of
+those.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b99dee3</div>
+                                        <div class="message">cmd/syncthing: Add environment variables for --home, --conf, and --data (fixes #8957) (#8952)
+
+This allows environment overrides for our directories. This is
+advantageous because, apart from the obvious, it means we can set it in
+the Docker file and not add command line options there. Having the
+command line option as we did meant that it was impossible to use the
+Docker image for other commands than `serve` (because that is implied
+when we see other options on the command line).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89fc692</div>
+                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d421d66</div>
+                                        <div class="message">build: Docker images should have auto upgrade disabled...</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 79 commits in
+                                        <span class="repo">rasa/PyDrive2</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#605f249</div>
-                                        <div class="message">Update scraper.py</div>
+                                        <div class="sha">#c67c8e0</div>
+                                        <div class="message">auth: rename client_creds_dict -&gt; client_json_dict</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9948238</div>
+                                        <div class="message">setup: bump to 1.11.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e42c0</div>
+                                        <div class="message">settings: don't forget to specify struct for save_credentials_dict</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88877cc</div>
+                                        <div class="message"> setup: bump to 1.11.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#439ce59</div>
+                                        <div class="message">auth: validate dictionary backend settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37abe56</div>
+                                        <div class="message">setup: bump to 1.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90d1d8e</div>
+                                        <div class="message">auth: add dictionary storage
+
+Allows not to save anything to disk, which is useful overall but especially
+useful when working with env vars, which could be sensitive so saving their
+value to disk is undesirable.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fd1aa7</div>
+                                        <div class="message">tests: switch to macOS 11 in os matrix
+
+https://github.com/actions/virtual-environments/issues/5583</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b043e2e</div>
+                                        <div class="message">add authorize dependency to tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41aaf6e</div>
+                                        <div class="message">update tests workflow to run on external PRs
+
+pull_request_target - workflow runs in the context of the target branch, abusing environment to introduce an approval process</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3940d7b</div>
+                                        <div class="message">gha: publish: run on release and workflow_dispatch
+
+Fixes https://github.com/iterative/PyDrive2/commit/b4b804c96b04f65eb2ed89371941027a205c950a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95722c8</div>
+                                        <div class="message">setup: bump to 1.10.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57a074c</div>
+                                        <div class="message">auth: support passing settings dict to GoogleAuth
+
+This allows programmatic use without having to create a settings file
+or barbarically modifying `GoogleAuth.DEFAULT_SETTINGS`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad7e726</div>
+                                        <div class="message">auth: add client_creds_dict
+
+This allows programmatic use without having to create a temporary file.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c60051d</div>
+                                        <div class="message">Bump actions/checkout from 2 to 3 (#199)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Ruslan Kuprieiev &lt;kupruser@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7996b3b</div>
+                                        <div class="message">Bump actions/setup-python from 2 to 4 (#198)
+
+Bumps [actions/setup-python](https://github.com/actions/setup-python) from 2 to 4.
+- [Release notes](https://github.com/actions/setup-python/releases)
+- [Commits](https://github.com/actions/setup-python/compare/v2...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-python
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#445ed28</div>
+                                        <div class="message">Bump pre-commit/action from 2.0.0 to 3.0.0 (#201)
+
+Bumps [pre-commit/action](https://github.com/pre-commit/action) from 2.0.0 to 3.0.0.
+- [Release notes](https://github.com/pre-commit/action/releases)
+- [Commits](https://github.com/pre-commit/action/compare/v2.0.0...v3.0.0)
+
+---
+updated-dependencies:
+- dependency-name: pre-commit/action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4b804c</div>
+                                        <div class="message">restrict publish to run on the main branch only</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9efee2</div>
+                                        <div class="message">enable dependabot updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01d9082</div>
+                                        <div class="message">make checksum optional in GDriveFileSystem (#195)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 79 commits in
+                                        <span class="repo">rasa/PyDrive2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c67c8e0</div>
+                                        <div class="message">auth: rename client_creds_dict -&gt; client_json_dict</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9948238</div>
+                                        <div class="message">setup: bump to 1.11.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e42c0</div>
+                                        <div class="message">settings: don't forget to specify struct for save_credentials_dict</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88877cc</div>
+                                        <div class="message"> setup: bump to 1.11.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#439ce59</div>
+                                        <div class="message">auth: validate dictionary backend settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37abe56</div>
+                                        <div class="message">setup: bump to 1.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90d1d8e</div>
+                                        <div class="message">auth: add dictionary storage
+
+Allows not to save anything to disk, which is useful overall but especially
+useful when working with env vars, which could be sensitive so saving their
+value to disk is undesirable.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fd1aa7</div>
+                                        <div class="message">tests: switch to macOS 11 in os matrix
+
+https://github.com/actions/virtual-environments/issues/5583</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b043e2e</div>
+                                        <div class="message">add authorize dependency to tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41aaf6e</div>
+                                        <div class="message">update tests workflow to run on external PRs
+
+pull_request_target - workflow runs in the context of the target branch, abusing environment to introduce an approval process</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3940d7b</div>
+                                        <div class="message">gha: publish: run on release and workflow_dispatch
+
+Fixes https://github.com/iterative/PyDrive2/commit/b4b804c96b04f65eb2ed89371941027a205c950a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95722c8</div>
+                                        <div class="message">setup: bump to 1.10.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57a074c</div>
+                                        <div class="message">auth: support passing settings dict to GoogleAuth
+
+This allows programmatic use without having to create a settings file
+or barbarically modifying `GoogleAuth.DEFAULT_SETTINGS`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad7e726</div>
+                                        <div class="message">auth: add client_creds_dict
+
+This allows programmatic use without having to create a temporary file.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c60051d</div>
+                                        <div class="message">Bump actions/checkout from 2 to 3 (#199)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Ruslan Kuprieiev &lt;kupruser@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7996b3b</div>
+                                        <div class="message">Bump actions/setup-python from 2 to 4 (#198)
+
+Bumps [actions/setup-python](https://github.com/actions/setup-python) from 2 to 4.
+- [Release notes](https://github.com/actions/setup-python/releases)
+- [Commits](https://github.com/actions/setup-python/compare/v2...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-python
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#445ed28</div>
+                                        <div class="message">Bump pre-commit/action from 2.0.0 to 3.0.0 (#201)
+
+Bumps [pre-commit/action](https://github.com/pre-commit/action) from 2.0.0 to 3.0.0.
+- [Release notes](https://github.com/pre-commit/action/releases)
+- [Commits](https://github.com/pre-commit/action/compare/v2.0.0...v3.0.0)
+
+---
+updated-dependencies:
+- dependency-name: pre-commit/action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4b804c</div>
+                                        <div class="message">restrict publish to run on the main branch only</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9efee2</div>
+                                        <div class="message">enable dependabot updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01d9082</div>
+                                        <div class="message">make checksum optional in GDriveFileSystem (#195)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1726,14 +1951,14 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.811965811965812 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.9166666666666665 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.63247863247864 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="274.1666666666667 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
@@ -1752,28 +1977,28 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.623931623931624 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.833333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.623931623931624 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.833333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.05982905982906 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.583333333333332 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.247863247863249 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.666666666666666 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                 </div>
@@ -2084,7 +2309,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jul 2023, 17:21:01 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jul 2023, 17:23:42 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
