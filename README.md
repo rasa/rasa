@@ -1,5 +1,6 @@
 ### रस (rasa) - a yummy [polysemic](https://sanskritdictionary.com/?iencoding=iast&q=rasa&lang=sans&action=Search) Saṃskṛt (Sanskrit) word.
 
+- 🎲 I've been active on GitHub since [2012]([url](https://firstcommit.is/rasa))
 - 🔭 I’m currently working on teaching my dog not to bark so much.
 - 🌱 I’m currently learning acoustic guitar.
 - 👯 I’m looking to collaborate on [ranked voting](https://wikipedia.org/wiki/Ranked_voting).
