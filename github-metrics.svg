@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1953" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1605" class="columns">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.number{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    2168 Stargazers
+                                    2169 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -499,6 +499,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(225, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                             <g transform="translate(0, 144)">
                                 <text x="0" y="0">2023</text>
@@ -542,19 +545,19 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(75, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(90, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -570,7 +573,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
@@ -989,73 +992,73 @@
                             <div class="entry">
                                 <span class="value">2.16k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                1
+                                2
                                 <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                2
-                            </div>
-                            <div class="entry">
                                 <span class="value">2.16k</span>
-                                <div class="bar" style="height: 12px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 3
                             </div>
                             <div class="entry">
                                 <span class="value">2.17k</span>
-                                <div class="bar" style="height: 21.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 4
                             </div>
                             <div class="entry">
                                 <span class="value">2.17k</span>
-                                <div class="bar" style="height: 31px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26.249999999999996px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 5
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 31px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26.249999999999996px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 6
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 31px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26.249999999999996px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 7
                             </div>
                             <div class="entry">
                                 <span class="value">2.17k</span>
-                                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 8
                             </div>
                             <div class="entry">
                                 <span class="value">2.17k</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 9
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 10
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 11
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 12
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 13
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">2.17k</span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 14
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                15
                             </div>
                         </div>
                     </section>
@@ -1065,13 +1068,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                1
-                                <div class="bottom">Apr.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 2
+                                <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
                                 <span class="value">+1</span>
@@ -1129,9 +1127,14 @@
                                 13
                             </div>
                             <div class="entry">
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                14
+                            </div>
+                            <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                14
+                                15
                             </div>
                         </div>
                     </section>
@@ -1212,456 +1215,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by niheaven in <span class="repo">ScoopInstaller/Scoop</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">rasa/syncthing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release-nightly</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bdfd0f0</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d27185</div>
-                                        <div class="message">Removed no longer relevant Bountysource link (#9480)
-
-### Purpose
-
-Bountysource no longer exists and the readme link 404s. This removes the
-Bountysource link and corresponding readme section.
-
-Perhaps the section should instead be replaced by other instructions for
-voting on features.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dfb9d7</div>
-                                        <div class="message">lib/api: Missing return after HTTP error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f15670</div>
-                                        <div class="message">lib/api: Extract session store (#9425)
-
-This is an extract from PR #9175, which can be reviewed in isolation to
-reduce the volume of changes to review all at once in #9175. There are
-about to be several services and API handlers that read and set cookies
-and session state, so this abstraction will prove helpful.
-
-In particular a motivating cause for this is that with the current
-architecture in PR #9175, in `api.go` the [`webauthnService` needs to
-access the
-session](https://github.com/syncthing/syncthing/pull/9175/files#diff-e2e14f22d818b8e635572ef0ee7718dee875c365e07225d760a6faae8be7772dR309-R310)
-for authentication purposes but needs to be instantiated before the
-`configMuxBuilder` for config purposes, because the WebAuthn additions
-to config management need to perform WebAuthn registration ceremonies,
-but currently the session management is embedded in the
-`basicAuthAndSessionMiddleware` which is [instantiated much
-later](https://github.com/syncthing/syncthing/pull/9175/files#diff-e2e14f22d818b8e635572ef0ee7718dee875c365e07225d760a6faae8be7772dL371-R380)
-and only if authentication is enabled in `guiCfg`. This refactorization
-extracts the session management out from `basicAuthAndSessionMiddleware`
-so that `basicAuthAndSessionMiddleware` and `webauthnService` can both
-use the same shared session management service to perform session
-management logic.
-
-### Testing
-
-This is a refactorization intended to not change any externally
-observable behaviour, so existing tests (e.g., `api_auth_test.go`)
-should cover this where appropriate. I have manually verified that:
-
-- Appending `+ "foo"` to the cookie name in `createSession` causes
-`TestHtmlFormLogin/invalid_URL_returns_403_before_auth_and_404_after_auth`
-and `TestHtmlFormLogin/UTF-8_auth_works` to fail
-- Inverting the return value of `hasValidSession` cases a whole bunch of
-tests in `TestHTTPLogin` and `TestHtmlFormLogin` to fail
-- (Fixed) Changing the cookie to `MaxAge: 1000` in `destroySession` does
-NOT cause any tests to fail!
-- Added tests `TestHtmlFormLogin/Logout_removes_the_session_cookie`,
-`TestHTTPLogin/*/Logout_removes_the_session_cookie`,
-`TestHtmlFormLogin/Session_cookie_is_invalid_after_logout` and
-`TestHTTPLogin/200_path#01/Session_cookie_is_invalid_after_logout` to
-cover this.
-- Manually verified that these tests pass both before and after the
-changes in this PR, and that changing the cookie to `MaxAge: 1000` or
-not calling `m.tokens.Delete(cookie.Value)` in `destroySession` makes
-the respective pair of tests fail.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b49137c</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e4e65e</div>
-                                        <div class="message">gui: Open devices on click in Shared With list in folder info (fixes #8972) (#9472)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c8167a</div>
-                                        <div class="message">lib/model: Don't bump seq on error in index handler (#9459)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73cc555</div>
-                                        <div class="message">lib/model: Prevent infinite index sending loop (fixes #9407) (#9458)
-
-Explanation of what/why in a code comment.
-
-Fixes https://github.com/syncthing/syncthing/issues/9407</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ab2488</div>
-                                        <div class="message">lib/scanner: Fix ticker leak in scanner (fixes #9417) (#9451)
-
-Move the ticker closer to where it's used and defer stop it to avoid
-missing a branch.
-
-Fixes regression introduced in
-https://github.com/syncthing/syncthing/commit/2f3eacdb6c1c33650ccdd91f42e842c116200d92
-
-Fixes https://github.com/syncthing/syncthing/issues/9417</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb9cd36</div>
-                                        <div class="message">build: Update dependencies (#9448)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fe3906</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fdab1b</div>
-                                        <div class="message">gui: Show encryption status for devices sharing folder (ref #8808) (#9355)
-
-This re-implements the stalled enhancement from #8808. Thanks @Craeckie
-for the idea and first implementation draft!
-
-If a folder is shared to a device with encryption, add a lock icon in
-front of the device name under "Shared With" in the folder details
-panel. Be careful not to add whitespace caused by line wraps in HTML
-source code, which would defeat the purpose of keeping the icon glued to
-the name by a non-breaking space.
-
-Apply the same lock icon for the list of folders shared with a device.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13a6d43</div>
-                                        <div class="message">gui: Fix wrapping in "Shared With" / "Folders" lists. (#9438)
-
-This change was split off from #9355 as an independent clean-up / fix.
-See that PR for review discussion, testing, and screenshots.
-
-Improve the wrapping of folder labels / device names by going back to
-word-wrapping, but making sure other spans, such as the trailing comma,
-do not get separated from the label span.
-
-* Avoid adding whitespace caused by line wraps in HTML source code.
-
-The different cases within the ng-switch block are separated by
-newlines for readability, but that gets parsed as whitespace.  For
-wrapping purposes, this should not happen, because then there is no
-way to keep other HTML parts glued to the name / label in each list
-entry.
-
-* Simplify redundant conditional comma code.
-
-The separating comma after a device name or folder label (all but the
-last) should always stick to it.  Use the HTML comment trick to avoid
-whitespace and therefore a wrapping opportunity caused by the code
-formatting newline.  Thus the conditional comma only needs to be
-defined once, not in each ng-switch case.
-
-* Wrap at word boundaries and only break up words if necessary.
-
-Use the overflow-wrap: break-word; style instead of word-break:
-break-all;.  While the latter is suitable for longish paths, breaking
-device names or folder labels arbitrarily within words is ugly.
-
-This also makes the the &lt;sup&gt; numbers actually stay glued to their
-respective neighboring words.
-
-Include legacy CSS alias "word-wrap" in the class definition.
-
-* Fix indentation (unrelated).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac942e2</div>
-                                        <div class="message">github: Convert issue templates into forms (fixes #9442)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbd2a7f</div>
-                                        <div class="message">lib/model: Ignore difference in extended attributes &amp; ownership when deleting (fixes #9371) (#9430)
-
-Adds a bool flag to `scanIfItemChanged()` to indicate when the scan was initiated from a delete function, and if so, tell `IsEquivalentOptional()` to ignore Xattrs and Ownership regardless of the global setting.
-
-I tested this with my sledgehammer and it seems to pass.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07a9fa2</div>
-                                        <div class="message">all: Use own automaxprocs package that doesn't log (ref #9436) (#9437)
-
-### Purpose
-
-🤫</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa559bf</div>
-                                        <div class="message">all: Use Linux container CPU quota (fixes #9357, fixes #9435) (#9436)
-
-Go is not cgroup aware and by default will set GOMAXPROCS to the number
-of available threads, regardless of whether it is within the allocated
-quota. This behaviour causes high amount of CPU throttling and degraded
-application performance.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d968d4</div>
-                                        <div class="message">cmd/syncthing: Remove legacy GOMAXPROCS handling (ref #9436)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86c4caf</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4dfb66</div>
-                                        <div class="message">docker: Add support for setting umask (#9429)
-
-Add support for setting umask value in the Docker `entrypoint.sh`
-script. This is useful when
-not syncing permissions and working with groups, and needing umask
-values like `002` instead of `022`.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">rasa/syncthing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bdfd0f0</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d27185</div>
-                                        <div class="message">Removed no longer relevant Bountysource link (#9480)
-
-### Purpose
-
-Bountysource no longer exists and the readme link 404s. This removes the
-Bountysource link and corresponding readme section.
-
-Perhaps the section should instead be replaced by other instructions for
-voting on features.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dfb9d7</div>
-                                        <div class="message">lib/api: Missing return after HTTP error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f15670</div>
-                                        <div class="message">lib/api: Extract session store (#9425)
-
-This is an extract from PR #9175, which can be reviewed in isolation to
-reduce the volume of changes to review all at once in #9175. There are
-about to be several services and API handlers that read and set cookies
-and session state, so this abstraction will prove helpful.
-
-In particular a motivating cause for this is that with the current
-architecture in PR #9175, in `api.go` the [`webauthnService` needs to
-access the
-session](https://github.com/syncthing/syncthing/pull/9175/files#diff-e2e14f22d818b8e635572ef0ee7718dee875c365e07225d760a6faae8be7772dR309-R310)
-for authentication purposes but needs to be instantiated before the
-`configMuxBuilder` for config purposes, because the WebAuthn additions
-to config management need to perform WebAuthn registration ceremonies,
-but currently the session management is embedded in the
-`basicAuthAndSessionMiddleware` which is [instantiated much
-later](https://github.com/syncthing/syncthing/pull/9175/files#diff-e2e14f22d818b8e635572ef0ee7718dee875c365e07225d760a6faae8be7772dL371-R380)
-and only if authentication is enabled in `guiCfg`. This refactorization
-extracts the session management out from `basicAuthAndSessionMiddleware`
-so that `basicAuthAndSessionMiddleware` and `webauthnService` can both
-use the same shared session management service to perform session
-management logic.
-
-### Testing
-
-This is a refactorization intended to not change any externally
-observable behaviour, so existing tests (e.g., `api_auth_test.go`)
-should cover this where appropriate. I have manually verified that:
-
-- Appending `+ "foo"` to the cookie name in `createSession` causes
-`TestHtmlFormLogin/invalid_URL_returns_403_before_auth_and_404_after_auth`
-and `TestHtmlFormLogin/UTF-8_auth_works` to fail
-- Inverting the return value of `hasValidSession` cases a whole bunch of
-tests in `TestHTTPLogin` and `TestHtmlFormLogin` to fail
-- (Fixed) Changing the cookie to `MaxAge: 1000` in `destroySession` does
-NOT cause any tests to fail!
-- Added tests `TestHtmlFormLogin/Logout_removes_the_session_cookie`,
-`TestHTTPLogin/*/Logout_removes_the_session_cookie`,
-`TestHtmlFormLogin/Session_cookie_is_invalid_after_logout` and
-`TestHTTPLogin/200_path#01/Session_cookie_is_invalid_after_logout` to
-cover this.
-- Manually verified that these tests pass both before and after the
-changes in this PR, and that changing the cookie to `MaxAge: 1000` or
-not calling `m.tokens.Delete(cookie.Value)` in `destroySession` makes
-the respective pair of tests fail.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b49137c</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e4e65e</div>
-                                        <div class="message">gui: Open devices on click in Shared With list in folder info (fixes #8972) (#9472)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c8167a</div>
-                                        <div class="message">lib/model: Don't bump seq on error in index handler (#9459)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73cc555</div>
-                                        <div class="message">lib/model: Prevent infinite index sending loop (fixes #9407) (#9458)
-
-Explanation of what/why in a code comment.
-
-Fixes https://github.com/syncthing/syncthing/issues/9407</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ab2488</div>
-                                        <div class="message">lib/scanner: Fix ticker leak in scanner (fixes #9417) (#9451)
-
-Move the ticker closer to where it's used and defer stop it to avoid
-missing a branch.
-
-Fixes regression introduced in
-https://github.com/syncthing/syncthing/commit/2f3eacdb6c1c33650ccdd91f42e842c116200d92
-
-Fixes https://github.com/syncthing/syncthing/issues/9417</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb9cd36</div>
-                                        <div class="message">build: Update dependencies (#9448)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fe3906</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fdab1b</div>
-                                        <div class="message">gui: Show encryption status for devices sharing folder (ref #8808) (#9355)
-
-This re-implements the stalled enhancement from #8808. Thanks @Craeckie
-for the idea and first implementation draft!
-
-If a folder is shared to a device with encryption, add a lock icon in
-front of the device name under "Shared With" in the folder details
-panel. Be careful not to add whitespace caused by line wraps in HTML
-source code, which would defeat the purpose of keeping the icon glued to
-the name by a non-breaking space.
-
-Apply the same lock icon for the list of folders shared with a device.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13a6d43</div>
-                                        <div class="message">gui: Fix wrapping in "Shared With" / "Folders" lists. (#9438)
-
-This change was split off from #9355 as an independent clean-up / fix.
-See that PR for review discussion, testing, and screenshots.
-
-Improve the wrapping of folder labels / device names by going back to
-word-wrapping, but making sure other spans, such as the trailing comma,
-do not get separated from the label span.
-
-* Avoid adding whitespace caused by line wraps in HTML source code.
-
-The different cases within the ng-switch block are separated by
-newlines for readability, but that gets parsed as whitespace.  For
-wrapping purposes, this should not happen, because then there is no
-way to keep other HTML parts glued to the name / label in each list
-entry.
-
-* Simplify redundant conditional comma code.
-
-The separating comma after a device name or folder label (all but the
-last) should always stick to it.  Use the HTML comment trick to avoid
-whitespace and therefore a wrapping opportunity caused by the code
-formatting newline.  Thus the conditional comma only needs to be
-defined once, not in each ng-switch case.
-
-* Wrap at word boundaries and only break up words if necessary.
-
-Use the overflow-wrap: break-word; style instead of word-break:
-break-all;.  While the latter is suitable for longish paths, breaking
-device names or folder labels arbitrarily within words is ugly.
-
-This also makes the the &lt;sup&gt; numbers actually stay glued to their
-respective neighboring words.
-
-Include legacy CSS alias "word-wrap" in the class definition.
-
-* Fix indentation (unrelated).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac942e2</div>
-                                        <div class="message">github: Convert issue templates into forms (fixes #9442)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbd2a7f</div>
-                                        <div class="message">lib/model: Ignore difference in extended attributes &amp; ownership when deleting (fixes #9371) (#9430)
-
-Adds a bool flag to `scanIfItemChanged()` to indicate when the scan was initiated from a delete function, and if so, tell `IsEquivalentOptional()` to ignore Xattrs and Ownership regardless of the global setting.
-
-I tested this with my sledgehammer and it seems to pass.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07a9fa2</div>
-                                        <div class="message">all: Use own automaxprocs package that doesn't log (ref #9436) (#9437)
-
-### Purpose
-
-🤫</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa559bf</div>
-                                        <div class="message">all: Use Linux container CPU quota (fixes #9357, fixes #9435) (#9436)
-
-Go is not cgroup aware and by default will set GOMAXPROCS to the number
-of available threads, regardless of whether it is within the allocated
-quota. This behaviour causes high amount of CPU throttling and degraded
-application performance.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d968d4</div>
-                                        <div class="message">cmd/syncthing: Remove legacy GOMAXPROCS handling (ref #9436)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86c4caf</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4dfb66</div>
-                                        <div class="message">docker: Add support for setting umask (#9429)
-
-Add support for setting umask value in the Docker `entrypoint.sh`
-script. This is useful when
-not syncing permissions and working with groups, and needing umask
-values like `002` instead of `022`.</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2078,7 +1631,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="195.92000000000002 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="196.1266666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2100,7 +1653,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2896 times</div>
+                                <div class="text">Repositories have been deployed 2898 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2113,7 +1666,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.25462012320331 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.33949349760438 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2189,7 +1742,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="100.94633333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="101.04966666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2212,9 +1765,9 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 1.30k out of 197m repositories</span>
+                                    <span class="gh">ranked 1.30k out of 204m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 19769 stars</div>
+                                <div class="text">Maintaining a repository with 19779 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2399,7 +1952,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 58.1k out of 197m repositories</span>
+                                    <span class="gh">ranked 58.1k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 209 times</div>
                             </div>
@@ -2451,7 +2004,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 76.9k out of 134m users</span>
+                                    <span class="gh">ranked 77k out of 134m users</span>
                                 </div>
                                 <div class="text">Followed by 132 users</div>
                             </div>
@@ -2705,7 +2258,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Apr 2024, 17:24:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2024, 19:37:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
