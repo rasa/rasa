@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1605" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1607" class="columns">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .largeable-align-start{align-items:flex-start}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}.markdown blockquote{border-left:4px solid #7777771f;color:#777;margin:0;padding-left:16px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.boolean,.token.number,.token.string{color:#2777aa}.token.property{color:#48428a}.token.trimmed{font-style:italic;color:#77777760}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,16 +31,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 96 repositories
+                            Contributed to 94 repositories
                         </div>
                     </section>
                 </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2830 issue comments
+                            2834 issue comments
                         </div>
                     </section>
                     <section>
@@ -607,6 +607,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(405, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                </g>
                             </g>
                             <g transform="translate(0, 144)">
                                 <text x="0" y="0">2023</text>
@@ -1097,13 +1100,8 @@
                             <div class="entry">
                                 <span class="value">2.19k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                24
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 25
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1166,21 +1164,21 @@
                                 <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 7
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                8
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">+1</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                24
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 25
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1242,6 +1240,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 7
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                8
                             </div>
                         </div>
                     </section>
@@ -1313,6 +1316,185 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">add-encoder-fs-with-integration-tests</span>
+                                        in
+                                        <span class="repo">rasa/syncthing</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#9266 test: Obliterate &amp; revive integration tests (fixes #8071)</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by calmh in <span class="repo">syncthing/syncthing</span></div>
+                                    <div class="comment">
+                                        @calm So I tried again to cleanly merge main into this PR with
+                                        <code class="language-multiline language-bash" xml:space="preserve">gh <span class="token function">pr</span> checkout <span class="token number">9266</span> <span class="token parameter variable">--repo</span> syncthing/syncthing
+<span class="token function">git</span> merge <span class="token parameter variable">--squash</span> upstream/main
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        , but the number of changed files again increased from 47 to 216. So I backed out that change.
+Can we simply merge this PR into main? I've been using this code to develop another integration test, and it's rock solid. And since the current integration tests are broken, why not retire that code now, so we can move cleanly forward?
+Or should I add more of the existing integration tests to it first? If so, which ones? Here's a list:
+                                        <code class="language-multiline" xml:space="preserve">cli_test.go:TestCLIReset
+cli_test.go:TestCLIGenerate
+<span class="token trimmed">(35 more lines were trimmed)</span></code>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">calmh/syncthing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">integrationtests</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#199e176</div>
+                                        <div class="message">Merge branch 'main' into integrationtests
+* main: (89 commits)
+    lib/ignore: Remove unused patterns in cache (#9601)
+    lib/ignore: Fix caching of filenames with path separators on windows (#9600)
+    gui, man, authors: Update docs, translations, and contributors
+    gui: Add Filipino (fil) translation template (#9599)
+    gui, man, authors: Update docs, translations, and contributors
+    gui, man, authors: Update docs, translations, and contributors
+    gui, man, authors: Update docs, translations, and contributors
+    gui: Use localised time in duration (#9552)
+    build: Skip autoprocs for build script
+    build: Update dependencies (#9565)
+    Merge branch 'infrastructure'
+    cmd/stupgrades: Basic process metrics
+    cmd/stcrashreceiver: Ignore patterns, improve metrics
+    cmd/strelaypoolsrv: More compact response, improved metrics
+    cmd/stdiscosrv: Add AMQP replication
+    gui, man, authors: Update docs, translations, and contributors
+    build: Add missing region attribute for uploads
+    build: Generalise S3 push options
+    gui, man, authors: Update docs, translations, and contributors
+    lib/config: Add file inside folder marker directory (#9525)
+    lib/config, lib/watchaggregator: Add config for max FS watcher delay (#9558)
+    lib/fs: Watcher should react to xattr-only events on Darwin
+    build: Update dependencies (#9553)
+    gui, man, authors: Update docs, translations, and contributors
+    lib/geoip, cmd/relaypoolsrv, cmd/ursrv: Automatically manage GeoIP updates (#9342)
+    lib/db: Correct function name in comments (#9520)
+    lib/connections: Use proper errors.Is check (#9538)
+    build(deps): bump github.com/quic-go/quic-go from 0.42.0 to 0.43.0 (#9522)
+    gui, man, authors: Update docs, translations, and contributors
+    build: Use Go 1.22.3 at minimum
+    gui: Add Hindi (hi) translation template (#9530)
+    gui, man, authors: Update docs, translations, and contributors
+    lib/connections: Add syncthing_connections_active metric (fixes #9527) (#9528)
+    etc: Use 7MiB buffer size (#9524)
+    gui: Fix Firefox bookmark favicon (fixes #9506) (#9507)
+    gui, man, authors: Update docs, translations, and contributors
+    gui, man, authors: Update docs, translations, and contributors
+    gui, man, authors: Update docs, translations, and contributors
+    lib/nat: Don't crash on empty address list (fixes #9503) (#9504)
+    lib/db: Drop indexes for outgoing data to force refresh (ref #9496) (#9502)
+    gui: Fix missing link to device editor for names with superscript (ref #9472) (#9494)
+    lib/db: Hold update lock while taking snapshot (#9496)
+    build: Update dependencies (#9497)
+    gui, man, authors: Update docs, translations, and contributors
+    gui, man, authors: Update docs, translations, and contributors
+    Removed no longer relevant Bountysource link (#9480)
+    lib/api: Missing return after HTTP error
+    lib/api: Extract session store (#9425)
+    gui, man, authors: Update docs, translations, and contributors
+    gui: Open devices on click in Shared With list in folder info (fixes #8972) (#9472)
+    lib/model: Don't bump seq on error in index handler (#9459)
+    lib/model: Prevent infinite index sending loop (fixes #9407) (#9458)
+    lib/scanner: Fix ticker leak in scanner (fixes #9417) (#9451)
+    build: Update dependencies (#9448)
+    gui, man, authors: Update docs, translations, and contributors
+    gui: Show encryption status for devices sharing folder (ref #8808) (#9355)
+    gui: Fix wrapping in "Shared With" / "Folders" lists. (#9438)
+    github: Convert issue templates into forms (fixes #9442)
+    lib/model: Ignore difference in extended attributes &amp; ownership when deleting (fixes #9371) (#9430)
+    all: Use own automaxprocs package that doesn't log (ref #9436) (#9437)
+    all: Use Linux container CPU quota (fixes #9357, fixes #9435) (#9436)
+    cmd/syncthing: Remove legacy GOMAXPROCS handling (ref #9436)
+    gui, man, authors: Update docs, translations, and contributors
+    docker: Add support for setting umask (#9429)
+    gui, man, authors: Update docs, translations, and contributors
+    gui, man, authors: Update docs, translations, and contributors
+    build: Use correct Go version also for script runs (#9414)
+    lib/api: Deflake TestAPIServiceRequests (#9413)
+    lib/model: Deflake new IndexHandlerTest (#9412)
+    all: Use some Go 1.21 features (#9409)
+    lib/model, lib/protocol: Remove FileInfoBatch reuse behavior (#9399)
+    build: Use Go 1.22, minimum is Go 1.21 (#9408)
+    lib/logger: Reduce API surface (#9404)
+    lib/logger: Split STTRACE into list of strings (#9402)
+    gui, man, authors: Update docs, translations, and contributors
+    lib/model: Typo in method name (fixes #9389)
+    lib/model: Typo in debug print (fixes #9386)
+    build: Update dependencies (#9379)
+    build(deps): bump actions/cache from 3 to 4 (#9363)
+    lib/protocol: Refactor interface (#9375)
+    gui, man, authors: Update docs, translations, and contributors
+    lib/fs: Add invalid UTF-8 guards to watcher (fixes #9369) (#9372)
+    lib/api: Remove remnants of CSRF tokens file mentions (ref #9284)
+    gui, man, authors: Update docs, translations, and contributors
+    gui: Remove non-functional HTML from External Versioning tooltip (ref #8923) (#9358)
+    cmd/ursrv: Add FreeBSD detection  (#9351)
+    cmd/ursrv: Fix Arch detection (#9350)
+    lib/ignore: Optimise ignoring directories for filesystem watcher (fixes #9339) (#9340)
+    gui, man, authors: Update docs, translations, and contributors</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#29 Winget?</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by sebtech33 in <span class="repo">okibcn/nano-for-windows</span></div>
+                                    <div class="comment">
+                                        <i>Not having any modern nano version in winget has been driving me slightly insane for years</i>
+                                        I think that's a great idea. I'd say go for it.
+But note that if you're willing to pollute your path with all that git offers, you can install a recent nano with WinGet:
+                                        <code class="language-multiline language-cmd" xml:space="preserve">winget install --id Git.Git
+set "path=%path%;C:\Program Files\Git\usr\bin"
+<span class="token trimmed">(4 more lines were trimmed)</span></code>
+                                        But that nano doesn't have all the features of this build.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1321,94 +1503,1522 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-encoder-fs</span></div>
+                                    <div>on branch <span class="code">integrationtests</span></div>
                                     <div class="commit">
-                                        <div class="sha">#85628ff</div>
-                                        <div class="message">encoderfs.go: fix underlying() for real</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">rasa/syncthing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-encoder-fs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e1613e6</div>
-                                        <div class="message">encoderfs.go: fix underlying()</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">rasa/workflows</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0b1cfbf</div>
-                                        <div class="message">🔄 synced local '.github/workflows/clean-logs.yml' with remote '.github/workflows/clean-logs.yml'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">rasa/law-scraper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86d3bca</div>
-                                        <div class="message">🔄 synced local '.github/workflows/clean-logs.yml' with remote '.github/workflows/clean-logs.yml'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">rasa/syncthing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-encoder-fs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#91f1bc7</div>
-                                        <div class="message">encoding/fat: Add Must* functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4fc8cb</div>
-                                        <div class="message">folderconfiguration.go: don't overwrite EncoderType</div>
+                                        <div class="sha">#685d17e</div>
+                                        <div class="message">Merge branch 'main' into integrationtests
+
+Squashed commit of the following:
+
+commit aea7fa5f22924fed75571cd07564f9e057c7f64f
+Author: Simon Frei &lt;freisim93@gmail.com&gt;
+Date:   Tue Jul 2 13:01:00 2024 +0200
+
+    lib/ignore: Remove unused patterns in cache (#9601)
+
+    Tiny cleanup I noticed while trying to fix/test another issue
+    (https://github.com/syncthing/syncthing/pull/9600). I shortly tried to
+    figure out what it was used for in the past, but gave up without
+    results.
+
+commit 403ce7e597c3b425f6e35bc479dba8292e908094
+Author: Simon Frei &lt;freisim93@gmail.com&gt;
+Date:   Tue Jul 2 12:58:06 2024 +0200
+
+    lib/ignore: Fix caching of filenames with path separators on windows (#9600)
+
+    Previously we queried cache with backslashes, and stored entries with
+    slashes. As in no cache hits ever for non-toplevel files. I also
+    eventually remembered that cache is disabled by default, so this is a
+    bit pointless, but still right :P
+
+commit 4704d3bc48761d89c2eafadf79f5d268631a063d
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jul 1 03:45:16 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 2794b04243b2ada2367cb68452d17d49f3536b3f
+Author: André Colomb &lt;src@andre.colomb.de&gt;
+Date:   Sat Jun 29 17:53:32 2024 +0200
+
+    gui: Add Filipino (fil) translation template (#9599)
+
+commit 1ce64971fd2321ded8b1aa2b67583c695aab2ebb
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jun 24 03:45:42 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit eb6d80eac48969754d1e0cf1ba3434b19093fc2e
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jun 17 03:45:27 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit a8db3351ae920a27b4c0ed1f9fe6da1e80a2b8e6
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jun 10 03:45:25 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 23a900e09609dba6c3254eaffff3ae088e87dd87
+Author: Ross Smith II &lt;ross@smithii.com&gt;
+Date:   Wed Jun 5 03:05:51 2024 -0700
+
+    gui: Use localised time in duration (#9552)
+
+    https://github.com/syncthing/syncthing/pull/8291 inpired me to develop
+    this. I tested it with all the languages Syncthing currently supports,
+    and they all work.
+
+    The only issue is that when you change the language in the GUI, you have
+    to either refresh the page, or wait a few seconds for the page to
+    refresh by itself, before the duration is translated into the new
+    language.
+
+    ### Screenshots
+
+    ![2024-05-20_21-47-58](https://github.com/syncthing/syncthing/assets/220772/7e3b371e-3495-4e3e-853a-b5a41215e6c7)
+
+    ### Documentation
+
+    The documentation for the translation widget is at
+    https://github.com/EvanHahn/HumanizeDuration.js/blob/main/README.md
+
+commit 5a304cf2958435aca91438ee8b1b1265363ac7b4
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Tue Jun 4 08:55:37 2024 -0400
+
+    build: Skip autoprocs for build script
+
+commit 136b3742bf4cc89ea4365d8b732281a2052f4cc3
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Tue Jun 4 13:58:49 2024 +0200
+
+    build: Update dependencies (#9565)
+
+commit 21e0f98fe266964765fcfee4b1b109b47a810410
+Merge: 495809ac9 2bb5b2244
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Tue Jun 4 07:18:35 2024 -0400
+
+    Merge branch 'infrastructure'
+
+    * infrastructure:
+      cmd/stupgrades: Basic process metrics
+      cmd/stcrashreceiver: Ignore patterns, improve metrics
+      cmd/strelaypoolsrv: More compact response, improved metrics
+      cmd/stdiscosrv: Add AMQP replication
+
+commit 2bb5b2244ba38c279d1bac6afaea463f67fce2b0
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Jun 3 07:17:32 2024 +0200
+
+    cmd/stupgrades: Basic process metrics
+
+commit 2f281799c16ac9f32563e6fba513e3a0b846bad6
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Jun 3 07:16:56 2024 +0200
+
+    cmd/stcrashreceiver: Ignore patterns, improve metrics
+
+commit 18a58a2ddc51b36ef204bb6d4e19a2b904a80498
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Jun 3 07:14:45 2024 +0200
+
+    cmd/strelaypoolsrv: More compact response, improved metrics
+
+commit f283215fce1660753fba9e213a5fee8820137c0c
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Jun 3 07:13:21 2024 +0200
+
+    cmd/stdiscosrv: Add AMQP replication
+
+commit 495809ac9ecb0bffd4045d164021f2b4ed235ecc
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jun 3 03:45:18 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 9ca8addcf70ab7fcd92f01ee73b04530e0f382df
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Thu May 30 10:48:55 2024 +0200
+
+    build: Add missing region attribute for uploads
+
+commit 94181ade230f252e2f7a51cb7f4fd0c757c086da
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon May 27 13:56:32 2024 +0200
+
+    build: Generalise S3 push options
+
+commit e50933433e1e12cde5e15071768ab7a53eeed940
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon May 27 03:45:21 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit a2b8f2361ec0ccc07f46a19ed6dcc338cc96bf9a
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Fri May 24 08:51:02 2024 +0200
+
+    lib/config: Add file inside folder marker directory (#9525)
+
+    ### Purpose
+
+    Avoid the issue where the folder marker is deleted by overzealous
+    cleanup tools because it's just a useless, empty directory.
+
+    We create a small file containing a an admonishment to not delete the
+    directory, and some metadata that is just for human consumption at the
+    moment. (But it would parse as a valid yaml file if we wanted to read
+    this, at some point.)
+
+    This will only apply when _creating_ a folder marker, that is, existing
+    setups will not gain the file automatically. Obviously, when using a
+    custom folder marker none of this applies.
+
+    Also, slightly adjust the permission bits for the folder marker directory and file on Unixes, making sure the group &amp; write bits are unset.
+
+    ### Testing
+
+    I've created and deleted a few folders and it appears to behave as I
+    expect.
+
+    ### Screenshots
+
+    ```
+    jb@ok:~/somefolder % ls -la
+    total 0
+    drwxr-xr-x   3 jb  staff   96 May  1 08:52 ./
+    drwx------  12 jb  staff  384 May  1 08:52 ../
+    drwxr-xr-x   3 jb  staff   96 May  1 08:52 .stfolder/
+    jb@ok:~/somefolder % ls -l .stfolder
+    total 8
+    -rw-r--r--  1 jb  staff  122 May  1 08:52 syncthing-folder-39a4b0.txt
+    jb@ok:~/somefolder % cat .stfolder/syncthing-folder-39a4b0.txt
+    # This directory is a Syncthing folder marker.
+    # Do not delete.
+
+    folderID: xtdca-cudyf
+    created: 2024-05-01T08:52:49+02:00
+    ```
+
+commit 4b60e86d0247fcca5c2117f4a1ed8eb1f9ff5d94
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Thu May 23 16:21:00 2024 +0200
+
+    lib/config, lib/watchaggregator: Add config for max FS watcher delay (#9558)
+
+    Currently the maximum delay is always derived automatically from the
+    initial delay. This is fine in most cases, but for some use cases (large
+    files that take a long time to write) we need to be able to set a longer
+    max delay than the computed value (e.g., 15s delay with 10min timeout).
+
+commit d6b5676603c4325874345ce07fb3ef07c403dd32
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Thu May 23 09:39:10 2024 +0200
+
+    lib/fs: Watcher should react to xattr-only events on Darwin
+
+commit 3821b6ceee2767dd12bea21a59ea82676e8a5305
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Tue May 21 13:37:43 2024 +0300
+
+    build: Update dependencies (#9553)
+
+commit 973585e97dbde730742095004f4263b5cc28e24c
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon May 20 03:45:15 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit ba6ac2f604eb1cd27764460b687537c5e40aaaf8
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Sat May 18 19:31:49 2024 +0200
+
+    lib/geoip, cmd/relaypoolsrv, cmd/ursrv: Automatically manage GeoIP updates (#9342)
+
+    This adds a small package `geoip` which knows how to download and manage
+    the Maxmind GeoLite2 database we use. This removes the need for various
+    scripts to download and manage the geoip database, something that today
+    happens on Docker startup for the relay pool server and using various
+    hand written hacks for the usage reporting server.
+
+    The database is downloaded when needed and then refreshed on a
+    best-effort basis weekly.
+
+commit 57d399317e050189d76068872cf791f1cd1c0e24
+Author: luchenhan &lt;168071714+luchenhan@users.noreply.github.com&gt;
+Date:   Thu May 16 15:02:57 2024 +0800
+
+    lib/db: Correct function name in comments (#9520)
+
+commit f2d6722348d8ba51b4e7b11ad1176f73cb75a3b1
+Author: WangXi &lt;xib1102@icloud.com&gt;
+Date:   Thu May 16 15:01:16 2024 +0800
+
+    lib/connections: Use proper errors.Is check (#9538)
+
+commit 7b1b77e50da147fb6ec8e461d8c049588adf4b7f
+Author: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Date:   Thu May 16 08:56:44 2024 +0200
+
+    build(deps): bump github.com/quic-go/quic-go from 0.42.0 to 0.43.0 (#9522)
+
+    Bumps [github.com/quic-go/quic-go](https://github.com/quic-go/quic-go)
+    from 0.42.0 to 0.43.0.
+    &lt;details&gt;
+    &lt;summary&gt;Release notes&lt;/summary&gt;
+    &lt;p&gt;&lt;em&gt;Sourced from &lt;a
+    href="https://github.com/quic-go/quic-go/releases"&gt;github.com/quic-go/quic-go's
+    releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+    &lt;blockquote&gt;
+    &lt;h2&gt;v0.43.0&lt;/h2&gt;
+    &lt;h2&gt;&lt;em&gt;quic-go.net&lt;/em&gt;: Launching a new Documentation Site&lt;/h2&gt;
+    &lt;p&gt;With this release, we're launching a new documentation site for the
+    quic-go projects (quic-go itself, HTTP/3, webtransport-go, and soon,
+    masque-go): &lt;a href="https://quic-go.net"&gt;quic-go.net&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;The documentation site aims to explain QUIC concepts and how they are
+    made accessible using quic-go's API. This site replaces the wiki, and
+    the ever-growing README files.&lt;/p&gt;
+    &lt;p&gt;A lot of work has gone into the documentation already, but we're by
+    no means done yet. The entire source is public in &lt;a
+    href="https://github.com/quic-go/docs/"&gt;https://github.com/quic-go/docs/&lt;/a&gt;,
+    and we're happy about community contributions.&lt;/p&gt;
+    &lt;h2&gt;HTTP Datagrams (RFC 9297)&lt;/h2&gt;
+    &lt;p&gt;This release adds support for HTTP Datagrams (&lt;a
+    href="https://datatracker.ietf.org/doc/html/rfc9297"&gt;RFC 9297&lt;/a&gt;), both
+    on the client and on the server side (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4452"&gt;#4452&lt;/a&gt;).
+    HTTP Datagrams are used in WebTransport in CONNECT-UDP (&lt;a
+    href="https://datatracker.ietf.org/doc/html/rfc9298"&gt;RFC 9298&lt;/a&gt;),
+    among others.&lt;/p&gt;
+    &lt;p&gt;The new API for HTTP Datagrams is described on the new documentation
+    page: &lt;a href="https://quic-go.net/docs/http3/datagrams/"&gt;HTTP
+    Datagrams&lt;/a&gt;. The integration of HTTP Datagram support necessitated a
+    comprehensive refactor of the HTTP/3 package, resulting in several
+    breaking API changes listed below.&lt;/p&gt;
+    &lt;h2&gt;Breaking Changes&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;quicvarint: functions now return an &lt;code&gt;int&lt;/code&gt; instead the
+    internal &lt;code&gt;protocol.ByteCount&lt;/code&gt; (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4365"&gt;#4365&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: &lt;code&gt;Server.SetQuicHeaders&lt;/code&gt; was renamed to
+    &lt;code&gt;SetQUICHeaders&lt;/code&gt; (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4377"&gt;#4377&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: &lt;code&gt;Server.QuicConfig&lt;/code&gt; was renamed to
+    &lt;code&gt;QUICConfig&lt;/code&gt; (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4384"&gt;#4384&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: &lt;code&gt;RoundTripper.QuicConfig&lt;/code&gt; was renamed to
+    &lt;code&gt;QUICConfig&lt;/code&gt; (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4385"&gt;#4385&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: &lt;code&gt;RoundTripOpt.CheckSettings&lt;/code&gt; was removed (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4416"&gt;#4416&lt;/a&gt;).
+    Use the new&lt;code&gt;SingleDestinationRoundTripper&lt;/code&gt; API instead.&lt;/li&gt;
+    &lt;li&gt;http3: the &lt;code&gt;HTTPStreamer&lt;/code&gt; interface is now implemented by
+    the &lt;code&gt;http.ResponseWriter&lt;/code&gt; (and not the
+    &lt;code&gt;http.Request.Body&lt;/code&gt;) (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4469"&gt;#4469&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;include the maximum payload size in the
+    &lt;code&gt;DatagramTooLargeError&lt;/code&gt; (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4470"&gt;#4470&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h2&gt;Other Notable Changes&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;GSO and ECN is disabled on kernel versions older than 5 (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4456"&gt;#4456&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: logging can be controlled using an &lt;code&gt;slog.Logger&lt;/code&gt;
+    (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4449"&gt;#4449&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: HEAD requests can now be sent in 0-RTT (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4378"&gt;#4378&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: duplicate QPACK encoder and decoder streams are not rejected
+    as required by the RFC (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4388"&gt;#4388&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: Extended CONNECT are blocked until the server's SETTINGS are
+    received, as required by the RFC (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4450"&gt;#4450&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;http3: HTTP/3 client connections aren't removed if
+    &lt;code&gt;RoundTrip&lt;/code&gt; errors due to a cancelled context (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4448"&gt;#4448&lt;/a&gt;).
+    Thanks to &lt;a
+    href="https://github.com/GeorgeMac"&gt;&lt;code&gt;@​GeorgeMac&lt;/code&gt;&lt;/a&gt;!&lt;/li&gt;
+    &lt;li&gt;http3: sniff Content-Type when flushing the ResponseWriter (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4412"&gt;#4412&lt;/a&gt;).
+    Thanks to &lt;a
+    href="https://github.com/WeidiDeng"&gt;&lt;code&gt;@​WeidiDeng&lt;/code&gt;&lt;/a&gt;!&lt;/li&gt;
+    &lt;li&gt;The &lt;code&gt;Context&lt;/code&gt; exposed on the &lt;code&gt;quic.Stream&lt;/code&gt; is
+    now derived from the connection's context (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4414"&gt;#4414&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;The UDP send and receive buffer size was increased to 7 MiB (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4455"&gt;#4455&lt;/a&gt;).
+    Thanks to &lt;a
+    href="https://github.com/bt90"&gt;&lt;code&gt;@​bt90&lt;/code&gt;&lt;/a&gt;!&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h2&gt;Clarifications on the QUIC Stream State Machine&lt;/h2&gt;
+    &lt;h3&gt;Calling CancelWrite after Close&lt;/h3&gt;
+    &lt;p&gt;After a long and fruitful discussion (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4404"&gt;#4404&lt;/a&gt;),
+    we decided to clarify that calling &lt;code&gt;CancelWrite&lt;/code&gt; after
+    &lt;code&gt;Close&lt;/code&gt; on a &lt;code&gt;SendStream&lt;/code&gt; (or a bidirectional
+    stream) should cause a state transition from the &amp;quot;Data Sent&amp;quot;
+    to the &amp;quot;Reset Sent&amp;quot; state, as described in &lt;a
+    href="https://datatracker.ietf.org/doc/html/rfc9000#section-3.1"&gt;section
+    3.1 of RFC 9000&lt;/a&gt;. This matches the current behavior of quic-go,
+    however, it didn't match the API documentation (fixed in &lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4419"&gt;#4419&lt;/a&gt;).&lt;/p&gt;
+    &lt;p&gt;This means that stream data will not be delivered reliably if
+    &lt;code&gt;CancelWrite&lt;/code&gt; is called, and that this applies even if
+    &lt;code&gt;Close&lt;/code&gt; was called before.&lt;/p&gt;
+    &lt;h3&gt;Garbage Collection of Streams&lt;/h3&gt;
+    &lt;p&gt;This release also changes the way streams are garbage-collected (and
+    the peer is granted additional limit to open a new stream), once they're
+    not needed anymore, in a subtle way:&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;for the send direction of streams: &lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4445"&gt;#4445&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;!-- raw HTML omitted --&gt;
+    &lt;/blockquote&gt;
+    &lt;p&gt;... (truncated)&lt;/p&gt;
+    &lt;/details&gt;
+    &lt;details&gt;
+    &lt;summary&gt;Commits&lt;/summary&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/93c4785521c0622e7c4e04d681404f1c802e18c4"&gt;&lt;code&gt;93c4785&lt;/code&gt;&lt;/a&gt;
+    http3: sniff Content-Type when flushing the ResponseWriter (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4412"&gt;#4412&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/c0250ce82459ebdc60cc95c39dffed7ee0c0ec6b"&gt;&lt;code&gt;c0250ce&lt;/code&gt;&lt;/a&gt;
+    include the maximum payload size in the DatagramTooLargeError (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4470"&gt;#4470&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/34f4d1443f97c3b09e34023cbb912a8a803829a6"&gt;&lt;code&gt;34f4d14&lt;/code&gt;&lt;/a&gt;
+    http3: implement on the HTTPStreamer on the ResponseWriter, flush header
+    (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4469"&gt;#4469&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/083ceb42f29c7d25d86e221e5a7a22eb6af1c006"&gt;&lt;code&gt;083ceb4&lt;/code&gt;&lt;/a&gt;
+    http3: rename Settings.EnableDatagram to EnableDatagrams (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4466"&gt;#4466&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/e1e5b6294d2cca73f0664f879889780cfa2ae51d"&gt;&lt;code&gt;e1e5b62&lt;/code&gt;&lt;/a&gt;
+    README: link to the new documentation site (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4464"&gt;#4464&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/2a37c531438f0d1512f39be9c768c363389be1ae"&gt;&lt;code&gt;2a37c53&lt;/code&gt;&lt;/a&gt;
+    http3: add support for HTTP Datagrams (RFC 9297) (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4452"&gt;#4452&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/11b11594b249517098aeabfebb3797e85719dd25"&gt;&lt;code&gt;11b1159&lt;/code&gt;&lt;/a&gt;
+    http3: fix race condition in client unit test (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4463"&gt;#4463&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/4b87539b1efd2ffd05996fb2b9a7519a9cdb9cd2"&gt;&lt;code&gt;4b87539&lt;/code&gt;&lt;/a&gt;
+    delay completion of the receive stream until the reset error was read
+    (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4460"&gt;#4460&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/bff131e546ad5861fa1ae77766776d08bec9f3bc"&gt;&lt;code&gt;bff131e&lt;/code&gt;&lt;/a&gt;
+    delay completion of the send stream until the reset error was delivered
+    (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4445"&gt;#4445&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/quic-go/quic-go/commit/12aa63824c7f91d7925bfc0bdb78ae0ad942b3bf"&gt;&lt;code&gt;12aa638&lt;/code&gt;&lt;/a&gt;
+    disable GSO and ECN on kernels older than version 5 (&lt;a
+    href="https://redirect.github.com/quic-go/quic-go/issues/4456"&gt;#4456&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;Additional commits viewable in &lt;a
+    href="https://github.com/quic-go/quic-go/compare/v0.42.0...v0.43.0"&gt;compare
+    view&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/details&gt;
+    &lt;br /&gt;
+
+    [![Dependabot compatibility
+    score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github.com/quic-go/quic-go&amp;package-manager=go_modules&amp;previous-version=0.42.0&amp;new-version=0.43.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+    Dependabot will resolve any conflicts with this PR as long as you don't
+    alter it yourself. You can also trigger a rebase manually by commenting
+    `@dependabot rebase`.
+
+    [//]: # (dependabot-automerge-start)
+    [//]: # (dependabot-automerge-end)
+
+    ---
+
+    &lt;details&gt;
+    &lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+    &lt;br /&gt;
+
+    You can trigger Dependabot actions by commenting on this PR:
+    - `@dependabot rebase` will rebase this PR
+    - `@dependabot recreate` will recreate this PR, overwriting any edits
+    that have been made to it
+    - `@dependabot merge` will merge this PR after your CI passes on it
+    - `@dependabot squash and merge` will squash and merge this PR after
+    your CI passes on it
+    - `@dependabot cancel merge` will cancel a previously requested merge
+    and block automerging
+    - `@dependabot reopen` will reopen this PR if it is closed
+    - `@dependabot close` will close this PR and stop Dependabot recreating
+    it. You can achieve the same result by closing it manually
+    - `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+    of the ignore conditions of the specified dependency
+    - `@dependabot ignore this major version` will close this PR and stop
+    Dependabot creating any more for this major version (unless you reopen
+    the PR or upgrade to it yourself)
+    - `@dependabot ignore this minor version` will close this PR and stop
+    Dependabot creating any more for this minor version (unless you reopen
+    the PR or upgrade to it yourself)
+    - `@dependabot ignore this dependency` will close this PR and stop
+    Dependabot creating any more for this dependency (unless you reopen the
+    PR or upgrade to it yourself)
+
+    &lt;/details&gt;
+
+    Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+    Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+
+commit 06914b872b806eb06fe8382344b9c4d6c1eee30d
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon May 13 03:45:18 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit f6df8b40b4207f71bba73be641110b648959ad54
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Wed May 8 08:01:46 2024 +0200
+
+    build: Use Go 1.22.3 at minimum
+
+commit e057f5ee9a4f4f7a45cd91734ee085306971ff42
+Author: André Colomb &lt;src@andre.colomb.de&gt;
+Date:   Tue May 7 10:29:42 2024 +0200
+
+    gui: Add Hindi (hi) translation template (#9530)
+
+    Based on user request from Weblate, user @Scrambled777.
+
+    Looks promising based on the profile:
+    https://hosted.weblate.org/user/Scrambled777/
+
+commit a5bf110d90117eb2e81fb65b6c1e4bc8d53131ea
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon May 6 03:45:24 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit debbe726e0e7f90b96022659b72d7991cf501a18
+Author: DerRockWolf &lt;50499906+DerRockWolf@users.noreply.github.com&gt;
+Date:   Sat May 4 22:31:37 2024 +0200
+
+    lib/connections: Add syncthing_connections_active metric (fixes #9527) (#9528)
+
+    ### Purpose
+
+    Adds a new metric `syncthing_connections_active` which equals to the
+    amount of active connections per device.
+
+    Fixes #9527
+
+    &lt;!--
+    Describe the purpose of this change. If there is an existing issue that
+    is
+    resolved by this pull request, ensure that the commit subject is on the
+    form
+    `Some short description (fixes #1234)` where 1234 is the issue number.
+    --&gt;
+
+    ### Testing
+
+    I've manually tested it by running syncthing with these changes locally
+    and examining the returned metrics from `/metrics`.
+    I've done the following things:
+    - Connect &amp; disconnect a device
+    - Increase &amp; decrease the number of connections and verify that the
+    value of the metric matches with the amount displayed in the GUI.
+
+    ### Documentation
+
+    https://github.com/syncthing/docs/blob/main/includes/metrics-list.rst
+    needs to be regenerated with
+    [find-metrics.go](https://github.com/syncthing/docs/blob/main/_script/find-metrics/find-metrics.go)
+
+    ## Authorship
+
+    Your name and email will be added automatically to the AUTHORS file
+    based on the commit metadata.
+
+    ---------
+
+    Co-authored-by: Jakob Borg &lt;jakob@kastelo.net&gt;
+
+commit ec3e474a53201f508e07f14a8fe409fe1879327a
+Author: otbutz &lt;tbutz@optitool.de&gt;
+Date:   Wed May 1 10:03:07 2024 +0200
+
+    etc: Use 7MiB buffer size (#9524)
+
+    ### Purpose
+
+    In preparation for quic-go v0.43.0. see
+    https://github.com/quic-go/quic-go/pull/4455
+
+commit ebb1edc652b284c85c5952208b7bdfd279d32189
+Author: Severin von Wnuck-Lipinski &lt;ss7@live.de&gt;
+Date:   Wed May 1 09:00:36 2024 +0200
+
+    gui: Fix Firefox bookmark favicon (fixes #9506) (#9507)
+
+    ### Purpose
+
+    Firefox uses the last specified favicon link for bookmarks, but only if
+    it is available on initial page load.
+    Remove the second link and use ng-href to change the icon instead.
+
+    I'm not really familiar with AngularJS, feel free to offer suggestions
+    for improvements.
+
+    ### Testing
+
+    Briefly tested on Firefox 124.0.2 and Chrome 123.0.6312.105.
+
+commit 6204670c663338be519d3cb96fd9232752e08294
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Apr 29 03:45:25 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit ff9b24f388ea21f15954cf33d123aa3d34759d23
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Apr 22 03:45:18 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 01b820dc78e1d8240485fa79fdbd12160ffb4fa6
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Apr 15 04:10:05 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 79ae24df7688c37a7a897218c87bff412a887b9d
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Thu Apr 11 13:23:29 2024 +0200
+
+    lib/nat: Don't crash on empty address list (fixes #9503) (#9504)
+
+commit 61b94b9ea51d2591145e07361f2a1816a480b6bf
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Apr 8 11:14:27 2024 +0200
+
+    lib/db: Drop indexes for outgoing data to force refresh (ref #9496) (#9502)
+
+    ### Purpose
+
+    Resend our indexes since we fixed that index-sending issue.
+
+    I made a new thing to only drop the non-local-device index IDs, i.e.,
+    those for other devices. This means we will see a mismatch and resend
+    all indexes, but they will not. This is somewhat cleaner as it avoids
+    resending everything twice when two devices are upgraded, and in any
+    case, we have no reason to force a resend of incoming indexes here.
+
+    ### Testing
+
+    It happens on my computer...
+
+commit 6fb3c5ccf2ed2b94ebdedf1bdaadc8d50d8d1dd3
+Author: tomasz1986 &lt;twilczynski@naver.com&gt;
+Date:   Sun Apr 7 21:37:31 2024 +0200
+
+    gui: Fix missing link to device editor for names with superscript (ref #9472) (#9494)
+
+    The commit 7e4e65ebf53dd98f0fee3f021c399b12f5966f12 added links to
+    devices listed in the Shared With list in the folder info. However, it
+    only added them to those that had no superscript next to them.
+
+    With this change, the links are added to all devices regardless of
+    whether they have the superscript next to their names or not. The commit
+    also simplifies the code by using anchors directly instead of wrapping
+    them in spans.
+
+    Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;
+
+commit 2e7c03420fc56f7f7c9a5590efdfaf69d8049fbf
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Fri Apr 5 21:32:43 2024 +0200
+
+    lib/db: Hold update lock while taking snapshot (#9496)
+
+commit faa56b4bb7e085fee4e8021dfbc995627dc069c1
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Fri Apr 5 16:13:20 2024 +0200
+
+    build: Update dependencies (#9497)
+
+commit d7ba5316b8f084472d3987adbeabfb256aad1b0e
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Apr 1 03:45:41 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit bdfd0f0548d2f6fc4b5500690dbd383baa3b0561
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Mar 25 03:45:14 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 5d27185083d1acfc91b0b33438876313283cca88
+Author: Tim Nordenfur &lt;tim@gurka.se&gt;
+Date:   Sat Mar 23 00:23:02 2024 +0100
+
+    Removed no longer relevant Bountysource link (#9480)
+
+    ### Purpose
+
+    Bountysource no longer exists and the readme link 404s. This removes the
+    Bountysource link and corresponding readme section.
+
+    Perhaps the section should instead be replaced by other instructions for
+    voting on features.
+
+commit 4dfb9d7c83ed172f12ae19408517961f4a49beeb
+Author: Jakob Borg &lt;jborg@coreweave.com&gt;
+Date:   Thu Mar 21 08:57:43 2024 -0400
+
+    lib/api: Missing return after HTTP error
+
+commit 2f15670094146ecb326610b2ff5b165b70410f3e
+Author: Emil Lundberg &lt;emil@emlun.se&gt;
+Date:   Thu Mar 21 13:09:47 2024 +0100
+
+    lib/api: Extract session store (#9425)
+
+    This is an extract from PR #9175, which can be reviewed in isolation to
+    reduce the volume of changes to review all at once in #9175. There are
+    about to be several services and API handlers that read and set cookies
+    and session state, so this abstraction will prove helpful.
+
+    In particular a motivating cause for this is that with the current
+    architecture in PR #9175, in `api.go` the [`webauthnService` needs to
+    access the
+    session](https://github.com/syncthing/syncthing/pull/9175/files#diff-e2e14f22d818b8e635572ef0ee7718dee875c365e07225d760a6faae8be7772dR309-R310)
+    for authentication purposes but needs to be instantiated before the
+    `configMuxBuilder` for config purposes, because the WebAuthn additions
+    to config management need to perform WebAuthn registration ceremonies,
+    but currently the session management is embedded in the
+    `basicAuthAndSessionMiddleware` which is [instantiated much
+    later](https://github.com/syncthing/syncthing/pull/9175/files#diff-e2e14f22d818b8e635572ef0ee7718dee875c365e07225d760a6faae8be7772dL371-R380)
+    and only if authentication is enabled in `guiCfg`. This refactorization
+    extracts the session management out from `basicAuthAndSessionMiddleware`
+    so that `basicAuthAndSessionMiddleware` and `webauthnService` can both
+    use the same shared session management service to perform session
+    management logic.
+
+    ### Testing
+
+    This is a refactorization intended to not change any externally
+    observable behaviour, so existing tests (e.g., `api_auth_test.go`)
+    should cover this where appropriate. I have manually verified that:
+
+    - Appending `+ "foo"` to the cookie name in `createSession` causes
+    `TestHtmlFormLogin/invalid_URL_returns_403_before_auth_and_404_after_auth`
+    and `TestHtmlFormLogin/UTF-8_auth_works` to fail
+    - Inverting the return value of `hasValidSession` cases a whole bunch of
+    tests in `TestHTTPLogin` and `TestHtmlFormLogin` to fail
+    - (Fixed) Changing the cookie to `MaxAge: 1000` in `destroySession` does
+    NOT cause any tests to fail!
+    - Added tests `TestHtmlFormLogin/Logout_removes_the_session_cookie`,
+    `TestHTTPLogin/*/Logout_removes_the_session_cookie`,
+    `TestHtmlFormLogin/Session_cookie_is_invalid_after_logout` and
+    `TestHTTPLogin/200_path#01/Session_cookie_is_invalid_after_logout` to
+    cover this.
+    - Manually verified that these tests pass both before and after the
+    changes in this PR, and that changing the cookie to `MaxAge: 1000` or
+    not calling `m.tokens.Delete(cookie.Value)` in `destroySession` makes
+    the respective pair of tests fail.
+
+commit b49137ce36e57455935f9bc3aa98a1a27723b470
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Mar 18 03:45:22 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 7e4e65ebf53dd98f0fee3f021c399b12f5966f12
+Author: Jaspitta &lt;ste.scarpitta@gmail.com&gt;
+Date:   Sun Mar 17 20:13:09 2024 +0100
+
+    gui: Open devices on click in Shared With list in folder info (fixes #8972) (#9472)
+
+commit 8c8167a4ab3130c69bebcd53e0c11934fbc8e939
+Author: Simon Frei &lt;freisim93@gmail.com&gt;
+Date:   Mon Mar 11 07:30:21 2024 +0100
+
+    lib/model: Don't bump seq on error in index handler (#9459)
+
+commit 73cc5553b623dbbe71b75ddd0add9b89dca6714a
+Author: Simon Frei &lt;freisim93@gmail.com&gt;
+Date:   Sun Mar 10 22:28:40 2024 +0100
+
+    lib/model: Prevent infinite index sending loop (fixes #9407) (#9458)
+
+    Explanation of what/why in a code comment.
+
+    Fixes https://github.com/syncthing/syncthing/issues/9407
+
+commit 2ab2488274a2a5a857402fd65c949bddadbd7fad
+Author: Simon Frei &lt;freisim93@gmail.com&gt;
+Date:   Tue Mar 5 19:04:26 2024 +0100
+
+    lib/scanner: Fix ticker leak in scanner (fixes #9417) (#9451)
+
+    Move the ticker closer to where it's used and defer stop it to avoid
+    missing a branch.
+
+    Fixes regression introduced in
+    https://github.com/syncthing/syncthing/commit/2f3eacdb6c1c33650ccdd91f42e842c116200d92
+
+    Fixes https://github.com/syncthing/syncthing/issues/9417
+
+commit eb9cd363d04997803beeb85d0ad6df0806a6537b
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Mar 4 20:39:43 2024 +0100
+
+    build: Update dependencies (#9448)
+
+commit 7fe390653452ad0e0714f2264abf7005ed8dccd2
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Mar 4 03:54:27 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 5fdab1bf1132817771db4159caba8d0380153460
+Author: André Colomb &lt;src@andre.colomb.de&gt;
+Date:   Sun Mar 3 21:09:57 2024 +0100
+
+    gui: Show encryption status for devices sharing folder (ref #8808) (#9355)
+
+    This re-implements the stalled enhancement from #8808. Thanks @Craeckie
+    for the idea and first implementation draft!
+
+    If a folder is shared to a device with encryption, add a lock icon in
+    front of the device name under "Shared With" in the folder details
+    panel. Be careful not to add whitespace caused by line wraps in HTML
+    source code, which would defeat the purpose of keeping the icon glued to
+    the name by a non-breaking space.
+
+    Apply the same lock icon for the list of folders shared with a device.
+
+commit 13a6d43f0b63faa5b55d357124401c854dbf0b30
+Author: André Colomb &lt;src@andre.colomb.de&gt;
+Date:   Sun Mar 3 20:55:09 2024 +0100
+
+    gui: Fix wrapping in "Shared With" / "Folders" lists. (#9438)
+
+    This change was split off from #9355 as an independent clean-up / fix.
+    See that PR for review discussion, testing, and screenshots.
+
+    Improve the wrapping of folder labels / device names by going back to
+    word-wrapping, but making sure other spans, such as the trailing comma,
+    do not get separated from the label span.
+
+    * Avoid adding whitespace caused by line wraps in HTML source code.
+
+    The different cases within the ng-switch block are separated by
+    newlines for readability, but that gets parsed as whitespace.  For
+    wrapping purposes, this should not happen, because then there is no
+    way to keep other HTML parts glued to the name / label in each list
+    entry.
+
+    * Simplify redundant conditional comma code.
+
+    The separating comma after a device name or folder label (all but the
+    last) should always stick to it.  Use the HTML comment trick to avoid
+    whitespace and therefore a wrapping opportunity caused by the code
+    formatting newline.  Thus the conditional comma only needs to be
+    defined once, not in each ng-switch case.
+
+    * Wrap at word boundaries and only break up words if necessary.
+
+    Use the overflow-wrap: break-word; style instead of word-break:
+    break-all;.  While the latter is suitable for longish paths, breaking
+    device names or folder labels arbitrarily within words is ugly.
+
+    This also makes the the &lt;sup&gt; numbers actually stay glued to their
+    respective neighboring words.
+
+    Include legacy CSS alias "word-wrap" in the class definition.
+
+    * Fix indentation (unrelated).
+
+commit ac942e2481fa0692f0a51bd9fd6b2a6b4142bd32
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Sat Mar 2 16:12:11 2024 +0100
+
+    github: Convert issue templates into forms (fixes #9442)
+
+commit bbd2a7fbc5029dd48bfd5b26f255028c2f7304da
+Author: Luke Hamburg &lt;1992842+luckman212@users.noreply.github.com&gt;
+Date:   Sat Mar 2 09:55:18 2024 -0500
+
+    lib/model: Ignore difference in extended attributes &amp; ownership when deleting (fixes #9371) (#9430)
+
+    Adds a bool flag to `scanIfItemChanged()` to indicate when the scan was initiated from a delete function, and if so, tell `IsEquivalentOptional()` to ignore Xattrs and Ownership regardless of the global setting.
+
+    I tested this with my sledgehammer and it seems to pass.
+
+commit 07a9fa2dbd60cdd2ee7f1a74324476547c65f76c
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Tue Feb 27 13:05:19 2024 +0100
+
+    all: Use own automaxprocs package that doesn't log (ref #9436) (#9437)
+
+    ### Purpose
+
+    🤫
+
+commit aa559bf49615e375b749c735afd97cb6a7fb6698
+Author: Thomas &lt;9749173+uhthomas@users.noreply.github.com&gt;
+Date:   Mon Feb 26 12:23:14 2024 +0000
+
+    all: Use Linux container CPU quota (fixes #9357, fixes #9435) (#9436)
+
+    Go is not cgroup aware and by default will set GOMAXPROCS to the number
+    of available threads, regardless of whether it is within the allocated
+    quota. This behaviour causes high amount of CPU throttling and degraded
+    application performance.
+
+commit 2d968d46b78b4a37e88ab17bdda5870d84e86aa4
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Feb 26 13:12:57 2024 +0100
+
+    cmd/syncthing: Remove legacy GOMAXPROCS handling (ref #9436)
+
+commit 86c4cafc96ecd935d2baf1947a238f280fb76e2c
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Feb 26 03:45:28 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit c4dfb66d8476d85124242d5d4d7c799567258278
+Author: Beat Reichenbach &lt;44111292+beatreichenbach@users.noreply.github.com&gt;
+Date:   Thu Feb 22 00:47:43 2024 -0800
+
+    docker: Add support for setting umask (#9429)
+
+    Add support for setting umask value in the Docker `entrypoint.sh`
+    script. This is useful when
+    not syncing permissions and working with groups, and needing umask
+    values like `002` instead of `022`.
+
+commit f4d160684bf36c67d39ea60b9244cdb4c1041d67
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Feb 19 03:45:23 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit b76e6ce70d8ac3fd235d2f71aef6704c7c65d77b
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Feb 12 03:45:25 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 6b4028eede0fbe1b15313343c227bfcdda420bc1
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Sun Feb 11 09:24:00 2024 +0100
+
+    build: Use correct Go version also for script runs (#9414)
+
+    The changes to go.mod in latest Go 1.21/1.22 are not fully understood by
+    older Go that might be pre-installed on builds, so make sure we always
+    have a modern one in place even for running small release scripts etc.
+
+commit ad81ac8da71bad17139ecd6c48eb461d484a5248
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Sun Feb 11 09:20:29 2024 +0100
+
+    lib/api: Deflake TestAPIServiceRequests (#9413)
+
+    Somewhere along the way, the non-parallel test became parallel, and at
+    that point, timeouts occurred. Parallel is better, so increase the
+    timeout on the offending call a bit...
+
+commit 7ebeaefe77d80df735622e4d8718a8c5614f0ecb
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Sun Feb 11 09:03:12 2024 +0100
+
+    lib/model: Deflake new IndexHandlerTest (#9412)
+
+    The new test has a flakiness factor on slow platforms, where the close
+    on the sending connection races with the last index message, potentially
+    messing up the count. This adds a wait to ensure that all sent messages
+    are received, or the test will eventually fail with a timeout.
+
+commit e1dd36561d51589a76c5db08664a7dbbc343382d
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Sat Feb 10 21:02:42 2024 +0100
+
+    all: Use some Go 1.21 features (#9409)
+
+commit 96c30f83870f12ad35477cf440cf57206324e0d3
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Sat Feb 10 19:16:27 2024 +0100
+
+    lib/model, lib/protocol: Remove FileInfoBatch reuse behavior (#9399)
+
+commit fc8b353011c1cd8b5bd6216fcdc60e3777a00c64
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Fri Feb 9 16:35:29 2024 +0100
+
+    build: Use Go 1.22, minimum is Go 1.21 (#9408)
+
+    Also updated dependencies, and an adjustment to build tags for how those
+    are handled and how irrelevant go1.15 is nowadays...
+
+commit 416b9e8924a99a01520aaa08ee60050eaf200dc8
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Fri Feb 9 11:17:44 2024 +0100
+
+    lib/logger: Reduce API surface (#9404)
+
+    There is no need to expose the IsTraced() thing; it's just used in
+    initialisation, and thereafter ShouldDebug() is the corresponding
+    correct call.
+
+commit 9f6d732587b26f507916e26e2f5c57e331b1492c
+Author: gudvinr &lt;gudvinr@gmail.com&gt;
+Date:   Tue Feb 6 16:07:59 2024 +0300
+
+    lib/logger: Split STTRACE into list of strings (#9402)
+
+    Currently `IsTraced("xyz")` will return true for
+    any inclusion of "xyz" in string.
+
+    This change splits `STTRACE` using `','`, `' '` and `';'`
+    as delimiters. That makes facilities separation
+    more clear.
+
+commit f2f5786b3368a42120a255b70e410bb1cd4c4dbd
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Feb 5 03:45:33 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit eb617865d2430de378e28b9bde83cd5a17796aa8
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Thu Feb 1 15:13:33 2024 +0100
+
+    lib/model: Typo in method name (fixes #9389)
+
+commit a49e318d25cd4fa20cbab4f57483c23ff756ec90
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Thu Feb 1 15:11:09 2024 +0100
+
+    lib/model: Typo in debug print (fixes #9386)
+
+commit e74674a019fd6289c312dc9b94bd547eb180aeac
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Wed Jan 31 09:11:04 2024 +0100
+
+    build: Update dependencies (#9379)
+
+commit d98fa474aebe472498d2f1c151a296d3731f4666
+Author: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Date:   Wed Jan 31 08:33:02 2024 +0100
+
+    build(deps): bump actions/cache from 3 to 4 (#9363)
+
+    Bumps [actions/cache](https://github.com/actions/cache) from 3 to 4.
+    &lt;details&gt;
+    &lt;summary&gt;Release notes&lt;/summary&gt;
+    &lt;p&gt;&lt;em&gt;Sourced from &lt;a
+    href="https://github.com/actions/cache/releases"&gt;actions/cache's
+    releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+    &lt;blockquote&gt;
+    &lt;h2&gt;v4.0.0&lt;/h2&gt;
+    &lt;h2&gt;What's Changed&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Update action to node20 by &lt;a
+    href="https://github.com/takost"&gt;&lt;code&gt;@​takost&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1284"&gt;actions/cache#1284&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;feat: save-always flag by &lt;a
+    href="https://github.com/to-s"&gt;&lt;code&gt;@​to-s&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1242"&gt;actions/cache#1242&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h2&gt;New Contributors&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/takost"&gt;&lt;code&gt;@​takost&lt;/code&gt;&lt;/a&gt; made
+    their first contribution in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1284"&gt;actions/cache#1284&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/to-s"&gt;&lt;code&gt;@​to-s&lt;/code&gt;&lt;/a&gt; made their
+    first contribution in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1242"&gt;actions/cache#1242&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+    href="https://github.com/actions/cache/compare/v3...v4.0.0"&gt;https://github.com/actions/cache/compare/v3...v4.0.0&lt;/a&gt;&lt;/p&gt;
+    &lt;h2&gt;v3.3.3&lt;/h2&gt;
+    &lt;h2&gt;What's Changed&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Cache v3.3.3 by &lt;a
+    href="https://github.com/robherley"&gt;&lt;code&gt;@​robherley&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1302"&gt;actions/cache#1302&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h2&gt;New Contributors&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/robherley"&gt;&lt;code&gt;@​robherley&lt;/code&gt;&lt;/a&gt;
+    made their first contribution in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1302"&gt;actions/cache#1302&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+    href="https://github.com/actions/cache/compare/v3...v3.3.3"&gt;https://github.com/actions/cache/compare/v3...v3.3.3&lt;/a&gt;&lt;/p&gt;
+    &lt;h2&gt;v3.3.2&lt;/h2&gt;
+    &lt;h2&gt;What's Changed&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Fixed readme with new segment timeout values by &lt;a
+    href="https://github.com/kotewar"&gt;&lt;code&gt;@​kotewar&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1133"&gt;actions/cache#1133&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Readme fixes by &lt;a
+    href="https://github.com/kotewar"&gt;&lt;code&gt;@​kotewar&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1134"&gt;actions/cache#1134&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Updated description of the lookup-only input for main action by &lt;a
+    href="https://github.com/kotewar"&gt;&lt;code&gt;@​kotewar&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1130"&gt;actions/cache#1130&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Change two new actions mention as quoted text by &lt;a
+    href="https://github.com/bishal-pdMSFT"&gt;&lt;code&gt;@​bishal-pdMSFT&lt;/code&gt;&lt;/a&gt;
+    in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1131"&gt;actions/cache#1131&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Update Cross-OS Caching tips by &lt;a
+    href="https://github.com/pdotl"&gt;&lt;code&gt;@​pdotl&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1122"&gt;actions/cache#1122&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Bazel example (Take &lt;a
+    href="https://redirect.github.com/actions/cache/issues/2"&gt;#2&lt;/a&gt;️⃣) by
+    &lt;a href="https://github.com/vorburger"&gt;&lt;code&gt;@​vorburger&lt;/code&gt;&lt;/a&gt; in
+    &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1132"&gt;actions/cache#1132&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Remove actions to add new PRs and issues to a project board by &lt;a
+    href="https://github.com/jorendorff"&gt;&lt;code&gt;@​jorendorff&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1187"&gt;actions/cache#1187&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Consume latest toolkit and fix dangling promise bug by &lt;a
+    href="https://github.com/chkimes"&gt;&lt;code&gt;@​chkimes&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1217"&gt;actions/cache#1217&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Bump action version to 3.3.2 by &lt;a
+    href="https://github.com/bethanyj28"&gt;&lt;code&gt;@​bethanyj28&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1236"&gt;actions/cache#1236&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h2&gt;New Contributors&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/vorburger"&gt;&lt;code&gt;@​vorburger&lt;/code&gt;&lt;/a&gt;
+    made their first contribution in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1132"&gt;actions/cache#1132&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/jorendorff"&gt;&lt;code&gt;@​jorendorff&lt;/code&gt;&lt;/a&gt; made
+    their first contribution in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1187"&gt;actions/cache#1187&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/chkimes"&gt;&lt;code&gt;@​chkimes&lt;/code&gt;&lt;/a&gt; made
+    their first contribution in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1217"&gt;actions/cache#1217&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/bethanyj28"&gt;&lt;code&gt;@​bethanyj28&lt;/code&gt;&lt;/a&gt; made
+    their first contribution in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1236"&gt;actions/cache#1236&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+    href="https://github.com/actions/cache/compare/v3...v3.3.2"&gt;https://github.com/actions/cache/compare/v3...v3.3.2&lt;/a&gt;&lt;/p&gt;
+    &lt;h2&gt;v3.3.1&lt;/h2&gt;
+    &lt;h2&gt;What's Changed&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Reduced download segment size to 128 MB and timeout to 10 minutes by
+    &lt;a href="https://github.com/kotewar"&gt;&lt;code&gt;@​kotewar&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1129"&gt;actions/cache#1129&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+    href="https://github.com/actions/cache/compare/v3...v3.3.1"&gt;https://github.com/actions/cache/compare/v3...v3.3.1&lt;/a&gt;&lt;/p&gt;
+    &lt;h2&gt;v3.3.0&lt;/h2&gt;
+    &lt;h2&gt;What's Changed&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Bug: Permission is missing in cache delete example by &lt;a
+    href="https://github.com/kotokaze"&gt;&lt;code&gt;@​kotokaze&lt;/code&gt;&lt;/a&gt; in &lt;a
+    href="https://redirect.github.com/actions/cache/pull/1123"&gt;actions/cache#1123&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;!-- raw HTML omitted --&gt;
+    &lt;/blockquote&gt;
+    &lt;p&gt;... (truncated)&lt;/p&gt;
+    &lt;/details&gt;
+    &lt;details&gt;
+    &lt;summary&gt;Changelog&lt;/summary&gt;
+    &lt;p&gt;&lt;em&gt;Sourced from &lt;a
+    href="https://github.com/actions/cache/blob/main/RELEASES.md"&gt;actions/cache's
+    changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+    &lt;blockquote&gt;
+    &lt;h1&gt;Releases&lt;/h1&gt;
+    &lt;h3&gt;3.0.0&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Updated minimum runner version support from node 12 -&amp;gt; node
+    16&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.1&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Added support for caching from GHES 3.5.&lt;/li&gt;
+    &lt;li&gt;Fixed download issue for files &amp;gt; 2GB during restore.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.2&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Added support for dynamic cache size cap on GHES.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.3&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Fixed avoiding empty cache save when no files are available for
+    caching. (&lt;a
+    href="https://redirect.github.com/actions/cache/issues/624"&gt;issue&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.4&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Fixed tar creation error while trying to create tar with path as
+    &lt;code&gt;~/&lt;/code&gt; home folder on &lt;code&gt;ubuntu-latest&lt;/code&gt;. (&lt;a
+    href="https://redirect.github.com/actions/cache/issues/689"&gt;issue&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.5&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Removed error handling by consuming actions/cache 3.0 toolkit, Now
+    cache server error handling will be done by toolkit. (&lt;a
+    href="https://redirect.github.com/actions/cache/pull/834"&gt;PR&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.6&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Fixed &lt;a
+    href="https://redirect.github.com/actions/cache/issues/809"&gt;#809&lt;/a&gt; -
+    zstd -d: no such file or directory error&lt;/li&gt;
+    &lt;li&gt;Fixed &lt;a
+    href="https://redirect.github.com/actions/cache/issues/833"&gt;#833&lt;/a&gt; -
+    cache doesn't work with github workspace directory&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.7&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Fixed &lt;a
+    href="https://redirect.github.com/actions/cache/issues/810"&gt;#810&lt;/a&gt; -
+    download stuck issue. A new timeout is introduced in the download
+    process to abort the download if it gets stuck and doesn't finish within
+    an hour.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.8&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Fix zstd not working for windows on gnu tar in issues &lt;a
+    href="https://redirect.github.com/actions/cache/issues/888"&gt;#888&lt;/a&gt; and
+    &lt;a
+    href="https://redirect.github.com/actions/cache/issues/891"&gt;#891&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;Allowing users to provide a custom timeout as input for aborting
+    download of a cache segment using an environment variable
+    &lt;code&gt;SEGMENT_DOWNLOAD_TIMEOUT_MINS&lt;/code&gt;. Default is 60 minutes.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.9&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Enhanced the warning message for cache unavailablity in case of
+    GHES.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h3&gt;3.0.10&lt;/h3&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Fix a bug with sorting inputs.&lt;/li&gt;
+    &lt;li&gt;Update definition for restore-keys in README.md&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;!-- raw HTML omitted --&gt;
+    &lt;/blockquote&gt;
+    &lt;p&gt;... (truncated)&lt;/p&gt;
+    &lt;/details&gt;
+    &lt;details&gt;
+    &lt;summary&gt;Commits&lt;/summary&gt;
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/13aacd865c20de90d75de3b17ebe84f7a17d57d2"&gt;&lt;code&gt;13aacd8&lt;/code&gt;&lt;/a&gt;
+    Merge pull request &lt;a
+    href="https://redirect.github.com/actions/cache/issues/1242"&gt;#1242&lt;/a&gt;
+    from to-s/main&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/53b35c543921fe2e8b288765ff817de9de8d906f"&gt;&lt;code&gt;53b35c5&lt;/code&gt;&lt;/a&gt;
+    Merge branch 'main' into main&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/65b8989fab3bb394817bdb845a453dff480c2b51"&gt;&lt;code&gt;65b8989&lt;/code&gt;&lt;/a&gt;
+    Merge pull request &lt;a
+    href="https://redirect.github.com/actions/cache/issues/1284"&gt;#1284&lt;/a&gt;
+    from takost/update-to-node-20&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/d0be34d54485f31ca2ccbe66e6ea3d96544a807b"&gt;&lt;code&gt;d0be34d&lt;/code&gt;&lt;/a&gt;
+    Fix dist&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/66cf064d47313d2cccf392d01bd10925da2bd072"&gt;&lt;code&gt;66cf064&lt;/code&gt;&lt;/a&gt;
+    Merge branch 'main' into update-to-node-20&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/1326563738ddb735c5f2ce85cba8c79f33b728cd"&gt;&lt;code&gt;1326563&lt;/code&gt;&lt;/a&gt;
+    Merge branch 'main' into main&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/e71876755e268d6cc25a5d3e3c46ae447e35290a"&gt;&lt;code&gt;e718767&lt;/code&gt;&lt;/a&gt;
+    Fix format&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/01229828ffa049a8dee4db27bcb23ed33f2b451f"&gt;&lt;code&gt;0122982&lt;/code&gt;&lt;/a&gt;
+    Apply workaround for earlyExit&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/3185ecfd6135856ca6d904ae032cff4f39b8b365"&gt;&lt;code&gt;3185ecf&lt;/code&gt;&lt;/a&gt;
+    Update &amp;quot;only-&amp;quot; actions to node20&lt;/li&gt;
+    &lt;li&gt;&lt;a
+    href="https://github.com/actions/cache/commit/25618a0a675e8447e5ffc8ed9b7ddb2aaf927f65"&gt;&lt;code&gt;25618a0&lt;/code&gt;&lt;/a&gt;
+    Bump version&lt;/li&gt;
+    &lt;li&gt;Additional commits viewable in &lt;a
+    href="https://github.com/actions/cache/compare/v3...v4"&gt;compare
+    view&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/details&gt;
+    &lt;br /&gt;
+
+    [![Dependabot compatibility
+    score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/cache&amp;package-manager=github_actions&amp;previous-version=3&amp;new-version=4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+    Dependabot will resolve any conflicts with this PR as long as you don't
+    alter it yourself. You can also trigger a rebase manually by commenting
+    `@dependabot rebase`.
+
+    [//]: # (dependabot-automerge-start)
+    [//]: # (dependabot-automerge-end)
+
+    ---
+
+    &lt;details&gt;
+    &lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+    &lt;br /&gt;
+
+    You can trigger Dependabot actions by commenting on this PR:
+    - `@dependabot rebase` will rebase this PR
+    - `@dependabot recreate` will recreate this PR, overwriting any edits
+    that have been made to it
+    - `@dependabot merge` will merge this PR after your CI passes on it
+    - `@dependabot squash and merge` will squash and merge this PR after
+    your CI passes on it
+    - `@dependabot cancel merge` will cancel a previously requested merge
+    and block automerging
+    - `@dependabot reopen` will reopen this PR if it is closed
+    - `@dependabot close` will close this PR and stop Dependabot recreating
+    it. You can achieve the same result by closing it manually
+    - `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+    of the ignore conditions of the specified dependency
+    - `@dependabot ignore this major version` will close this PR and stop
+    Dependabot creating any more for this major version (unless you reopen
+    the PR or upgrade to it yourself)
+    - `@dependabot ignore this minor version` will close this PR and stop
+    Dependabot creating any more for this minor version (unless you reopen
+    the PR or upgrade to it yourself)
+    - `@dependabot ignore this dependency` will close this PR and stop
+    Dependabot creating any more for this dependency (unless you reopen the
+    PR or upgrade to it yourself)
+
+    &lt;/details&gt;
+
+    Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+    Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+
+commit f16817632fb604c76f1bbbfeb9c3b33c7507050e
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Wed Jan 31 08:24:39 2024 +0100
+
+    lib/api: Improve folder summary event, verbose service (#9370)
+
+    This makes a couple of small improvements to the folder summary
+    mechanism:
+
+    - The folder summary includes the local and remote sequence numbers in
+    clear text, rather than some odd sum that I'm not sure what it was
+    intended to represent.
+    - The folder summary event is generated when appropriate, regardless of
+    whether there is an event listener. We did this before because
+    generating it was expensive, and we wanted to avoid doing it
+    unnecessarily. Nowadays, however, it's mostly just reading out
+    pre-calculated metadata, and anyway, it's nice if it shows up reliably
+    when running with -verbose.
+
+    The point of all this is to make it easier to use these events to judge
+    when devices are, in fact, in sync. As-is, if I'm looking at two
+    devices, it's very difficult to reliably determine if they are in sync
+    or not. The reason is that while we can ask device A if it thinks it's
+    in sync, we can't see if the answer is "yes" because it has processed
+    all changes from B, or if it just doesn't know about the changes from B
+    yet. With proper sequence numbers in the event we can compare the two
+    and determine the truth. This makes testing a lot easier.
+
+commit bda4016109a7492110ce8231d751521101af52f8
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Wed Jan 31 08:18:27 2024 +0100
+
+    lib/protocol: Refactor interface (#9375)
+
+    This is a refactor of the protocol/model interface to take the actual
+    message as the parameter, instead of the broken-out fields:
+
+    ```diff
+    type Model interface {
+            // An index was received from the peer device
+    -       Index(conn Connection, folder string, files []FileInfo) error
+    +       Index(conn Connection, idx *Index) error
+            // An index update was received from the peer device
+    -       IndexUpdate(conn Connection, folder string, files []FileInfo) error
+    +       IndexUpdate(conn Connection, idxUp *IndexUpdate) error
+            // A request was made by the peer device
+    -       Request(conn Connection, folder, name string, blockNo, size int32, offset int64, hash []byte, weakHash uint32, fromTemporary bool) (RequestResponse, error)
+    +       Request(conn Connection, req *Request) (RequestResponse, error)
+            // A cluster configuration message was received
+    -       ClusterConfig(conn Connection, config ClusterConfig) error
+    +       ClusterConfig(conn Connection, config *ClusterConfig) error
+            // The peer device closed the connection or an error occurred
+            Closed(conn Connection, err error)
+            // The peer device sent progress updates for the files it is currently downloading
+    -       DownloadProgress(conn Connection, folder string, updates []FileDownloadProgressUpdate) error
+    +       DownloadProgress(conn Connection, p *DownloadProgress) error
+     }
+    ```
+
+    (and changing the `ClusterConfig` to `*ClusterConfig` for symmetry;
+    we'll be forced to use all pointers everywhere at some point anyway...)
+
+    The reason for this is that I have another thing cooking which is a
+    small troubleshooting change to check index consistency during transfer.
+    This required adding a field or two to the index/indexupdate messages,
+    and plumbing the extra parameters in umpteen changes is almost as big a
+    diff as this is. I figured let's do it once and avoid having to do that
+    in the future again...
+
+    The rest of the diff falls out of the change above, much of it being in
+    test code where we run these methods manually...
+
+commit 8f5d07bd092990ceeb5d7f6b496e67ed5680a82f
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jan 29 03:45:37 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 302b352d78692bed09ca2b050d0abd9fc3932e74
+Author: kylosus &lt;33132401+kylosus@users.noreply.github.com&gt;
+Date:   Sun Jan 28 21:50:26 2024 +0300
+
+    lib/fs: Add invalid UTF-8 guards to watcher (fixes #9369) (#9372)
+
+    Add invalid UTF-8 guards to fix #9369. Probably not a permanent fix, but
+    putting it up here in case someone else encounters the same panic.
+
+commit 45beb28fa5b051d14a10f102a05ec46d36ecaa75
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Tue Jan 23 12:07:58 2024 +0100
+
+    lib/api: Remove remnants of CSRF tokens file mentions (ref #9284)
+
+commit ee9b20e47af48b7e6e0f5124248da5a9318176b1
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jan 22 03:45:30 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors
+
+commit 0f55d5fc3e5a1a0d7db095af378dad701239d239
+Author: tomasz1986 &lt;twilczynski@naver.com&gt;
+Date:   Sat Jan 20 22:11:42 2024 +0100
+
+    gui: Remove non-functional HTML from External Versioning tooltip (ref #8923) (#9358)
+
+    gui: Remove non-functional HTML from External Versioning tooltip (ref
+    #8923)
+
+    Since [1], it is no longer possible to use HTML in tooltips. This was
+    addressed in [2], however the commit missed one instance of HTML that
+    was used to change the font type of the External versioning command
+    tooltip. This remaining HTML is removed in this commit.
+
+    [1] f5e5af391a6583047c64ef8c51642003a79b75cf
+    [2] 73c52eafb6566435dffd979c3c49562b6d5a4238
+
+    Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;
+
+    ### Screenshots
+
+    ![image](https://github.com/syncthing/syncthing/assets/5626656/d5f6c553-35cb-48c2-b654-809d8bbe93b8)
+
+    Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;
+
+commit 35e153625ce5139e2d30b36a0557b5e7a1e81ba0
+Author: bt90 &lt;btom1990@googlemail.com&gt;
+Date:   Tue Jan 16 17:14:12 2024 +0100
+
+    cmd/ursrv: Add FreeBSD detection  (#9351)
+
+    ### Purpose
+
+    Classify `ports@freebsd` as `FreeBSD (3rd party)`
+
+commit d5e1b99e6c89a80bd8b8147b1f510c7d2679d978
+Author: bt90 &lt;btom1990@googlemail.com&gt;
+Date:   Tue Jan 16 17:13:34 2024 +0100
+
+    cmd/ursrv: Fix Arch detection (#9350)
+
+    ### Purpose
+
+    Classify `syncthing@archlinux` as `Arch (3rd party)`
+
+commit 3297624037b4f944366f7f9a7fb9b884f02fa13d
+Author: Jakob Borg &lt;jakob@kastelo.net&gt;
+Date:   Mon Jan 15 11:13:22 2024 +0100
+
+    lib/ignore: Optimise ignoring directories for filesystem watcher (fixes #9339) (#9340)
+
+    This improves the ignore handling so that directories can be fully
+    ignored (skipped in the watcher) in more cases. Specifically, where the
+    previous rule was that any complex `!`-pattern would disable skipping
+    directories, the new rule is that only matches on patterns *after* such
+    a `!`-pattern disable skipping. That is, the following now does the
+    intuitive thing:
+
+    ```
+    /foo
+    /bar
+    !whatever
+    *
+    ```
+
+    - `/foo/**` and `/bar/**` are completely skipped, since there is no
+    chance anything underneath them could ever be not-ignored
+    - `!whatever` toggles the "can't skip directories any more" flag
+    - Anything that matches `*` can't skip directories, because it's
+    possible we can have `whatever` match something deeper.
+
+    To enable this, some refactoring was necessary:
+
+    - The "can skip dirs" flag is now a property of the match result, not of
+    the pattern set as a whole.
+    - That meant returning a boolean is not good enough, we need to actually
+    return the entire `Result` (or, like, two booleans but that seemed
+    uglier and more annoying to use)
+    - `ShouldIgnore(string) boolean` went away with
+    `Match(string).IsIgnored()` being the obvious replacement (API
+    simplification!)
+    - The watcher then needed to import the `ignore` package (for the
+    `Result` type), but `fs` imports the watcher and `ignore` imports `fs`.
+    That's a cycle, so I broke out `Result` into a package of its own so
+    that it can be safely imported everywhere in things like `type Matcher
+    interface { Match(string) result.Result }`. There's a fair amount of
+    stuttering in `result.Result` and maybe we should go with something like
+    `ignoreresult.R` or so, leaving this open for discussion.
+
+    Tests refactored to suit, I think this change is in fact quite well
+    covered by the existing ones...
+
+    Also some noise because a few of the changed files were quite old and
+    got the `gofumpt` treatment by my editor. Sorry not sorry.
+
+    ---------
+
+    Co-authored-by: Simon Frei &lt;freisim93@gmail.com&gt;
+
+commit 445e8cc532767f554c40f523611ac74ad3389d74
+Author: Syncthing Release Automation &lt;release@syncthing.net&gt;
+Date:   Mon Jan 15 03:45:19 2024 +0000
+
+    gui, man, authors: Update docs, translations, and contributors</div>
                                     </div>
                                 </div>
                             </section>
@@ -1430,14 +3040,14 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.9818181818181815 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.2075471698113205 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="248.24545454545455 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="245.19811320754715 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
@@ -1450,35 +3060,35 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.9909090909090907 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.1037735849056602 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.9818181818181815 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.2075471698113205 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.963636363636363 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.415094339622641 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.90909090909091 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.037735849056606 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.927272727272726 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.830188679245282 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                 </div>
@@ -1827,7 +3437,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="213.69333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="213.89999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1849,7 +3459,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3068 times</div>
+                                <div class="text">Repositories have been deployed 3070 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1862,7 +3472,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.29158110882956 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.3764544832307 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1923,7 +3533,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 47.5k out of 139m users</span>
+                                    <span class="gh">ranked 47.5k out of 140m users</span>
                                 </div>
                                 <div class="text">Published 211 public repositories</div>
                             </div>
@@ -1938,7 +3548,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.90866666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.99133333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1963,7 +3573,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     maintainer
                                     <span class="gh">ranked 1.31k out of 213m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 20346 stars</div>
+                                <div class="text">Maintaining a repository with 20354 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2200,7 +3810,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 77k out of 139m users</span>
+                                    <span class="gh">ranked 77k out of 140m users</span>
                                 </div>
                                 <div class="text">Followed by 137 users</div>
                             </div>
@@ -2454,7 +4064,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jul 2024, 17:25:01 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2024, 17:23:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
