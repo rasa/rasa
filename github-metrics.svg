@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2081" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1605" class="columns">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.regex,.token.string{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .body,.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px}.stackoverflow .infos{display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.stackoverflow .body{overflow:hidden;text-overflow:ellipsis;border-left:3px solid #777777b2;padding-left:6px;width:400px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.stackoverflow .body{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,16 +31,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            95 Pull requests opened
+                            96 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -736,7 +736,8 @@
                                 <g transform="translate(615, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1228,13 +1229,8 @@
                             <div class="entry">
                                 <span class="value">2.20k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                3
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 4
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1296,6 +1292,11 @@
                                 <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 16
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                17
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1304,13 +1305,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                3
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 4
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1371,6 +1367,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                17
                             </div>
                         </div>
                     </section>
@@ -1446,12 +1447,28 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1186 feat: add avidemux-{cli,qt}</span>
+                                        <span class="issue">#1189 feat: Add Ubuntu oracular (24.10) support</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">wimpysworld/deb-get</span></div>
-                                    <div>3 files changed <span class="code">++14 --0</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">patch-1</span>
+                                        in
+                                        <span class="repo">rasa/deb-get</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1464,7 +1481,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feat-add-avidemux</span>
+                                        <span class="code">rasa/feat-add-ubuntu-24.10</span>
                                         in
                                         <span class="repo">rasa/deb-get</span>
                                     </div>
@@ -1478,94 +1495,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 17 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">rasa/deb-get</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">patch-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6970a28</div>
-                                        <div class="message">fix: deprecate nala-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99ab088</div>
-                                        <div class="message">fix(whalebird): revert breakage by 1174
-
-Replace fix for upstream release rename that will still work if they change back and
-correct derivation of versioning that were lost in merge of #1174.
-
-Also retains and extends grep improvements from #1174 and removes a surplus head
-Supcercedes and closes
-Closes #1177
-
-Co-authored-by: Ross Smith II  &lt;rasa@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d923967</div>
-                                        <div class="message">chore: bump version to 0.4.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fc0609</div>
-                                        <div class="message">feat: add mullvad-browser (#1149)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#614d7d7</div>
-                                        <div class="message">feat: add pet (#1151)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9f9a52</div>
-                                        <div class="message">feat: add Ente Auth (#1155)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a23f065</div>
-                                        <div class="message">feat: add fedistar (#1167)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a350cc</div>
-                                        <div class="message">fix(whalebird): s/x64/amd64/ (#1174)
-
-Co-authored-by: Martin Wimpress &lt;304639+flexiondotorg@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4139d5d</div>
-                                        <div class="message">feat(bottom): add arm support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05f63c6</div>
-                                        <div class="message">fix(bottom): match standard bottom instead of musl version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82eb444</div>
-                                        <div class="message">feat: move battery-monitor from PPA to github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6fd343</div>
-                                        <div class="message">fewer execs
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fda42c</div>
-                                        <div class="message">headless mode grep
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fac42d4</div>
-                                        <div class="message">feat: add oculante</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b99345</div>
-                                        <div class="message">fix: reflect changed release naming of whalebird</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c554884</div>
-                                        <div class="message">fix: extend deltachat-desktop ARCH support to arm64 and filter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0038773</div>
-                                        <div class="message">fix: get nala key from gitlab</div>
+                                        <div class="sha">#a891b7b</div>
+                                        <div class="message">feat: Add Ubuntu oracular (24.10) support</div>
                                     </div>
                                 </div>
                             </section>
@@ -1574,264 +1512,16 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">rasa/workflows</span>
+                                        Opened
+                                        <span class="issue">#1186 feat: add avidemux-{cli,qt}</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a8ebada</div>
-                                        <div class="message">🔄 synced local '.github/workflows/pydeps.yml' with remote '.github/workflows/pydeps.yml'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2caaafc</div>
-                                        <div class="message">🔄 synced local '.github/workflows/toc.yml' with remote '.github/workflows/toc.yml'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3b67ad</div>
-                                        <div class="message">🔄 synced local '.github/workflows/mega-linter.yml' with remote '.github/workflows/mega-linter.yml'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b43d0a3</div>
-                                        <div class="message">🔄 synced local '.github/workflows/debug-matrix.yml' with remote '.github/workflows/debug-matrix.yml'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6c68b4</div>
-                                        <div class="message">🔄 synced local '.github/workflows/codeql.yml' with remote '.github/workflows/codeql.yml'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 77 commits in
-                                        <span class="repo">rasa/syncthing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ac8b334</div>
-                                        <div class="message">chore(fs): only cache the cache for case FS, not the entire FS (#9701)
-
-This would have addressed a recent issue that arose when re-ordering our
-"filesystem layers". Specifically moving the caseFilesystem to the
-outermost layer. The previous cache included the filesystem, and as such
-all the layers below. This isn't desirable (to put it mildly), as you
-can create different variants of filesystems with different layers for
-the same path and options. Concretely this did happen with the mtime
-layer, which isn't always present. A test for the mtime related breakage
-was added in #9687, and I intend to redo the caseFilesystem reordering
-after this.
-
-Ref: #9677
-Followup to: #9687</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ea90dd</div>
-                                        <div class="message">build: add generating compat.json (#9700)
-
-This is to add the generation of `compat.json` as a release artifact. It
-describes the runtime requirements of the release in question. The next
-step is to have the upgrade server use this information to filter
-releases provided to clients. This is per the discussion in #9656
-
----------
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#718b1ce</div>
-                                        <div class="message">chore(discovery,upgrade): use regular TLS certificate verification (#9673)
-
-This changes the two remaining instances where we use insecure HTTPS to
-use standard HTTPS certificate verification.
-
-When we introduced these things, almost a decade ago, HTTPS certificates
-were expensive and annoying to get, much of the web was still HTTP, and
-many devices seemed to not have up-to-date CA bundles.
-
-Nowadays _all_ of the web is HTTPS and I'm skeptical that any device can
-work well without understanding LetsEncrypt certificates in particular.
-
-Our current discovery servers use hardcoded certificates which has
-several issues:
-- Not great for security if it leaks as there is no way to rotate it
-- Not great for infrastructure flexibility as we can't use many load
-balancer or TLS termination services
-- The certificate is a very oddball ECDSA-SHA384 type certificate which
-has higher CPU cost than a more regular certificate, which has real
-effects on our infrastructure
-
-Using normal TLS certificates here improves these things.
-
-I expect there will be some very few devices out there for which this
-doesn't work. For the foreseeable future they can simply change the
-config to use the old URLs and parameters -- it'll be years before we
-can retire those entirely.
-
-For the upgrade client this simply seems like better hygiene. While our
-releases are signed anyway, protecting the metadata exchange is _better_
-and, again, I doubt many clients will fail this today.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29f7510</div>
-                                        <div class="message">lib/fs: Add test reproducing missing mtimefs issue (ref #9677) (#9687)
-
-The test is quite odd and specific, but it does reproduce the issue that
-caused #9677, so I'd propose to add it to have a simple regression test
-for the basic scenario. Also the option to the fakefs might come handy
-for other scenarios where you want to quickly test some behaviour on a
-filesystem without nanosecond precision, without actually needing access
-to one.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7f9ed4</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1baefea</div>
-                                        <div class="message">gui: Actually filter scope ID out of IPv6 address when using Remote GUI (ref #8084) (#9688)
-
-gui: Actually filter scope ID out of IPv6 address when using Remote GUI
-(ref #8084)
-
-The current code does not work, because it uses a string in the
-replace() method instead of regex. Thus, change it to a proper regex.
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#563cec8</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3c340e</div>
-                                        <div class="message">Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"
-
-This reverts commit 7517d18fbbf34b42aa3d4b231018d2ee704a159d.
-
-Fixes #9677</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb24638</div>
-                                        <div class="message">lib/api: Correct ordering of Accept-Language codes by weight (fixes #9670) (#9671)
-
-The preference for languages in the Accept-Language header field
-should not be deduced from the listed order, but from the passed
-"quality values", according to the HTTP specification:
-https://httpwg.org/specs/rfc9110.html#field.accept-language
-
-This implements the parsing of q=values and ordering within the API
-backend, to not complicate things further in the GUI code.  Entries
-with invalid (unparseable) quality values are discarded completely.
-
-* gui: Fix API endpoint in comment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb24dc</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aa2d2c</div>
-                                        <div class="message">gui: Fix incorrect UI language auto detection (fixes #9668) (#9669)
-
-gui: Fix incorrect UI language auto detection (fixes #9668)
-
-Currently, the code only checks whether the detected language partially
-matches one of the available languages. This means that if the detected
-language is "fi" but among the available languages there is only "fil"
-and no "fi", then it will match "fi" with "fil", even though the two are
-completely different languages.
-
-With this change, the matching is only done when there is a hyphen in
-the language code, e.g. "en" will match with "en-US".
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c5100</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  lib/upgrade: Send OS version header to upgrade server (#9663)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42e677c</div>
-                                        <div class="message">lib/model, lib/protocol: Index sending/receiving debugging (#9657)
-
-This adds guardrails to the index sending and receiving, to verify that
-what we thinks is happening is what actually happens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27bba2c</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feff334</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#713cf35</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5342bec</div>
-                                        <div class="message">lib/protocol: Further interface refactor (#9396)
-
-This is a symmetric change to #9375 -- where that PR changed the
-protocol-&gt;model interface, this changes the model-&gt;protocol one.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7df75e6</div>
-                                        <div class="message">gui: Replace global "Panel padding decrease" style with targeted class (#9659)
-
-Transplanted from https://github.com/emlun/syncthing/pull/8 (meta-PR
-into https://github.com/syncthing/syncthing/pull/9175) by request of
-@acolomb (see:
-https://github.com/emlun/syncthing/pull/8#discussion_r1724470574).
-
-This padding decrease currently applies to _all_ collapsible panels, but
-this padding decrease may not be appropriate for all collapsible panels.
-In particular, it will not be appropriate for the collapsible panels
-introduced in https://github.com/emlun/syncthing/pull/8.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dc826b</div>
-                                        <div class="message">build: use Go 1.23, require minimum 1.22 (#9651)
-
-🥳
-
----------
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ef37e1</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
+                                    <div> in <span class="repo">wimpysworld/deb-get</span></div>
+                                    <div>3 files changed <span class="code">++14 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2249,7 +1939,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="234.5666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="234.7733333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2271,7 +1961,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3270 times</div>
+                                <div class="text">Repositories have been deployed 3272 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2284,7 +1974,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.50924024640656 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.59411362080768 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2345,7 +2035,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 47.1k out of 146m users</span>
+                                    <span class="gh">ranked 47.2k out of 146m users</span>
                                 </div>
                                 <div class="text">Published 216 public repositories</div>
                             </div>
@@ -2360,7 +2050,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.58633333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.67933333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2383,9 +2073,9 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 1.30k out of 224m repositories</span>
+                                    <span class="gh">ranked 1.30k out of 221m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 21089 stars</div>
+                                <div class="text">Maintaining a repository with 21098 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2463,7 +2153,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.34 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.65 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2491,7 +2181,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     <span class="prefix">Super</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 914 pull requests</div>
+                                <div class="text">Opened 915 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2570,7 +2260,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 64k out of 224m repositories</span>
+                                    <span class="gh">ranked 64k out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 198 times</div>
                             </div>
@@ -2876,7 +2566,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2024, 17:26:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2024, 17:26:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
