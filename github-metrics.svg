@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1605" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1696" class="columns">
     <defs>
         <style/>
     </defs>
@@ -30,16 +30,16 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2894 issue comments
+                            2896 issue comments
                         </div>
                     </section>
                     <section>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 5 users
+                            Following 6 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,11 +222,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="79.79274611398964" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="79.79274611398964" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="79.79274611398964" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="79.79274611398964" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="79.79274611398964" y="0" width="140.20725388601036" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="78.65284974093264" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="78.65284974093264" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="78.65284974093264" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="78.65284974093264" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="78.65284974093264" y="0" width="141.34715025906735" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -237,14 +237,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">70 <small>open</small></span>
+                                <span class="no-wrap">69 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">123 <small>closed</small></span>
+                                <span class="no-wrap">124 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -758,6 +758,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1249,74 +1250,74 @@
                             <div class="entry">
                                 <span class="value">2.21k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                20
+                                21
                                 <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
-                                <span class="value">2.21k</span>
-                                <div class="bar" style="height: 9.285714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                21
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 9.285714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">2.21k</span>
-                                <div class="bar" style="height: 16.07142857142857px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 16.07142857142857px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 16.07142857142857px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
                                 <span class="value">2.21k</span>
-                                <div class="bar" style="height: 22.857142857142854px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
                                 <span class="value">2.21k</span>
-                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26.249999999999996px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
                                 <span class="value">2.21k</span>
-                                <div class="bar" style="height: 36.42857142857143px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 28
                             </div>
                             <div class="entry">
                                 <span class="value">2.21k</span>
-                                <div class="bar" style="height: 43.21428571428571px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 29
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 43.21428571428571px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 30
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 43.21428571428571px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 31
                             </div>
                             <div class="entry">
                                 <span class="value">2.22k</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 1
                                 <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 2
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                3
                             </div>
                         </div>
                     </section>
@@ -1324,15 +1325,10 @@
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                20
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value">+1</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 21
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1394,6 +1390,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 2
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                3
                             </div>
                         </div>
                     </section>
@@ -1440,10 +1441,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    5 followed
+                    6 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAABuUlEQVR4nGOQogFgGDV0wMJUAwyoZqilpWVubm4hGOTl5VlbW5NvqJaW1qRJky5cuPDy5ctr166tWbO2vWZed9n2GW2Hu9JvxlgvV1MwIc1QLS2tu3fv/UUFP3/+On/45dymW8t67neG/6ryeqWuYEqCoZMmTfqLA7x+/mXV5Ltzq183ev+Ps1lNgqEXLlzAZejfv38/ffi+ef7DZr8/Nd5vJSUliTX0Lobf0cC7118nZ3xt9vtPgqFHjhz98+cPfnNPbP5R7fVKUopoQ3t7+iE68Rj96+fv4vDNWLUzYBXNC17988dv/C79+/fvpIlTSDC0wvPx8Y0/CBp66tQpYg2VlJRs8vs1MfXr29df8Bv65PETol0qKVnl9aLJ98/Gefc+ffiGx9Dr16+T4P0Y6+WN3v9nVTxfPun66+efcRk6e/ZsEgxVUzCp8nzVEfZzYdf1mQ0Xzh56+uvnL3S/P3mir69PgqFSUlLqCqZxNqu70m9Pad7dVryhtWb2+nXrb968+fbt2+vXb8yePRuXiVIEiz5JSUkbG5vc3Nw8GLC1taVaIa2tra2jo0OkYgYpGgCGUUOlqB2mAKFNog8xUhhVAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgE/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDBBEhAAUxBhJBUWEHEyJxgZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACAxESIf/aAAwDAQACEQMRAD8AUclG0MbSMpIUDAF73xYfJJA13bp07vW17WlbOkSll7jGVP4ebE+/edH0HTySISR+RI7cYSxGSP2Bqf1CnqY4aagqKuKRp3cCRUAKgAWW3HJOeeNS6XR+S3DEuKxUUFRHu1E8gUJLFh09X8j4wdVNVTgTNm38aOumtjjWPcpuztDMq91gBYA4HzfVDudKsVWygeNLV6Se1fLyaGgpXkcQhCxK47R78aHuudlnqpY4qeL7skLnv7Tw2MW4vfz559aafSdPGu2QyBbySBmZjybXsP1jU962ynavpZVDxy1JKysjG7WAI58/PNsetY0z6RcNPKxYbL0lV0G3CmmdGq5laZ473+2DjFv6+Tc/oI37aJotzlR6fuYebDWiqqKOBJTEiqcLe2SOMnSc6pJfep2bnjHxj/NIV8kFfT2f/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwgDBQb/xAAsEAABBAEDAgUCBwAAAAAAAAABAgMEEQUABhIhQQcIEyMxFIEVIjJRcaHS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAbEQADAQEAAwAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8ApCY8mJEffIJDTZcIHehegeHnZuOw43Qt6c5lPUDsjnL5x3GyulthF1XzVDp00z7yL52xk2YRAmPx3GWCfgOLQQP71GmTzOYxeLk7Smp9tmUfUIUbJ5k1fwRZvRdK/g3KJey3Yj7UqM1IYUFtOpDiSO4IsaycR+2ijy8bm/F9sOYl8uGRjCEBTix1bXfADuKAqv40taTL8lQtKM1mdadfxr6WDT6R6jdd1DqB96r76mvxs2lNyOcRuPDRzMhzm2uSWU81ocqv0D5HQap93U3+J288psTdmSwuA9BMSQkSwXklamnHCtSuHWgL7URo9VOoTEajOz8B9tvbbihzIoLeQnJ9xsge2BZAsd6q9Muiry95SVn9l/X5VSH5qZTjYeUgcq/L/o6VRquacJ6yn//Z" width="28" height="28" alt="" />
@@ -1465,18 +1467,152 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">rasa/scoops</span>
+                                        Commented on
+                                        <span class="issue">#216 IOS Folder Marker Missing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>opened by dar3d3viilx3 in <span class="repo">MobiusSync/MobiusSync</span></div>
+                                    <div class="comment">
+                                        You might try installing an app that allows you to view and create "hidden files", such as the
+                                        <code>.stfolder</code>
+                                        marker directory. Two that might work are Documents by Readdle and FileApp. Please let us know if that works for you.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">rasa/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#af62162</div>
-                                        <div class="message">Update excavator.yml: SCOOP_BRANCH: develop</div>
+                                        <div class="sha">#d51364c</div>
+                                        <div class="message">Merge pull request #920 from rasa/dependabot/pip/ruff-0.7.2
+
+[pip dev] Bump ruff from 0.7.1 to 0.7.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6503820</div>
+                                        <div class="message">[pip dev] Bump ruff from 0.7.1 to 0.7.2
+
+Bumps [ruff](https://github.com/astral-sh/ruff) from 0.7.1 to 0.7.2.
+- [Release notes](https://github.com/astral-sh/ruff/releases)
+- [Changelog](https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/astral-sh/ruff/commits)
+
+---
+updated-dependencies:
+- dependency-name: ruff
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0d8848</div>
+                                        <div class="message">Merge pull request #919 from rasa/dependabot/pip/pyright-1.1.387
+
+[pip dev] Bump pyright from 1.1.386 to 1.1.387</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7196a50</div>
+                                        <div class="message">[pip dev] Bump pyright from 1.1.386 to 1.1.387
+
+Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.386 to 1.1.387.
+- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
+- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.386...v1.1.387)
+
+---
+updated-dependencies:
+- dependency-name: pyright
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e2c49e</div>
+                                        <div class="message">Merge pull request #918 from rasa/dependabot/pip/virtualenv-20.27.1
+
+[pip dev] Bump virtualenv from 20.27.0 to 20.27.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9653fde</div>
+                                        <div class="message">Merge pull request #917 from rasa/dependabot/pip/types-pywin32-308.0.0.20241029
+
+[pip dev] Bump types-pywin32 from 308.0.0.20241025 to 308.0.0.20241029</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#792869b</div>
+                                        <div class="message">[pip dev] Bump virtualenv from 20.27.0 to 20.27.1
+
+Bumps [virtualenv](https://github.com/pypa/virtualenv) from 20.27.0 to 20.27.1.
+- [Release notes](https://github.com/pypa/virtualenv/releases)
+- [Changelog](https://github.com/pypa/virtualenv/blob/main/docs/changelog.rst)
+- [Commits](https://github.com/pypa/virtualenv/compare/20.27.0...20.27.1)
+
+---
+updated-dependencies:
+- dependency-name: virtualenv
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97294b7</div>
+                                        <div class="message">[pip dev] Bump types-pywin32 from 308.0.0.20241025 to 308.0.0.20241029
+
+Bumps [types-pywin32](https://github.com/python/typeshed) from 308.0.0.20241025 to 308.0.0.20241029.
+- [Commits](https://github.com/python/typeshed/commits)
+
+---
+updated-dependencies:
+- dependency-name: types-pywin32
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#708c4a7</div>
+                                        <div class="message">Merge pull request #916 from rasa/dependabot/pip/click-extra-4.11.1
+
+[pip] Bump click-extra from 4.11.0 to 4.11.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#006abec</div>
+                                        <div class="message">[pip] Bump click-extra from 4.11.0 to 4.11.1
+
+Bumps [click-extra](https://github.com/kdeldycke/click-extra) from 4.11.0 to 4.11.1.
+- [Release notes](https://github.com/kdeldycke/click-extra/releases)
+- [Changelog](https://github.com/kdeldycke/click-extra/blob/main/changelog.md)
+- [Commits](https://github.com/kdeldycke/click-extra/compare/v4.11.0...v4.11.1)
+
+---
+updated-dependencies:
+- dependency-name: click-extra
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1489,12 +1625,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#39 chore: Add LICENSE</span>
+                                        <span class="issue">#97 cpdf@v2.7.2: hash check failed</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by chawyehsu in <span class="repo">ScoopInstaller/Nirsoft</span></div>
-                                    <div class="comment">Unlicense is legally insufficient in some jurisdictions, but thanks for the heads up.</div>
+                                    <div>opened by niheaven in <span class="repo">rasa/scoops</span></div>
+                                    <div class="comment">Fixed in https://github.com/rasa/scoops/commit/43443397bae4a297cde4a764ad3fac391ecbbecf . Thanks for the report, tho!</div>
                                 </div>
                             </section>
                         </div>
@@ -1502,16 +1638,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#39 chore: Add LICENSE</span>
+                                        <span class="issue">#97 cpdf@v2.7.2: hash check failed</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by chawyehsu in <span class="repo">ScoopInstaller/Nirsoft</span></div>
-                                    <div>1 file changed <span class="code">++24 --0</span></div>
+                                    <div>opened by niheaven in <span class="repo">rasa/scoops</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1523,30 +1659,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ScoopInstaller/Nirsoft</span>
+                                        <span class="repo">rasa/scoops</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c495135</div>
-                                        <div class="message">Create LICENSE</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">rasa/fix-9775-dir-junctions</span>
-                                        in
-                                        <span class="repo">rasa/syncthing</span>
+                                        <div class="sha">#af62162</div>
+                                        <div class="message">Update excavator.yml: SCOOP_BRANCH: develop</div>
                                     </div>
                                 </div>
                             </section>
@@ -1965,7 +2085,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="238.08 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="238.2866666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1987,7 +2107,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3304 times</div>
+                                <div class="text">Repositories have been deployed 3306 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2000,7 +2120,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.9520876112252 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.03696098562625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2076,7 +2196,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.77466666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.82633333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2099,9 +2219,9 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 1.31k out of 224m repositories</span>
+                                    <span class="gh">ranked 1.31k out of 226m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 21204 stars</div>
+                                <div class="text">Maintaining a repository with 21209 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2286,7 +2406,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 64.3k out of 224m repositories</span>
+                                    <span class="gh">ranked 64.4k out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 198 times</div>
                             </div>
@@ -2459,7 +2579,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.1155778894472363 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.8944723618090453 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2477,7 +2597,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 5 users</div>
+                                <div class="text">Following 6 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2592,7 +2712,7 @@ my_new_database.xxxxxxxxx.us-east-1.rds.amazonaws.com &lt; my_database.sql</code
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2024, 17:26:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2024, 17:29:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
