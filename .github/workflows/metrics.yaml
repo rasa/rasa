@@ -95,8 +95,8 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount, sponsorships
+          plugin_sponsorships: no
+          plugin_sponsorships_sections: '' # amount, sponsorships
           plugin_sponsorships_size: 24
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
