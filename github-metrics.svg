@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5598" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3983" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.track .infos{flex-grow:1}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            14123 Commits
+                            14124 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -101,7 +101,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            157 Issues opened
+                            158 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    6.56 GB used
+                                    6.57 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    674 views in last two weeks
+                                    662 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -588,7 +588,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.7 characters per line of code written</li>
+                        <li>Has approximately 9.9 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -639,8 +639,8 @@
                             07
                         </div>
                         <div class="entry">
-                            <span class="value">23</span>
-                            <div class="bar" style="height: 31.08108108108108px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">29</span>
+                            <div class="bar" style="height: 39.189189189189186px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             08
                         </div>
                         <div class="entry">
@@ -649,23 +649,23 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 4.054054054054054px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 2.7027027027027026px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">15</span>
-                            <div class="bar" style="height: 20.27027027027027px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">14</span>
+                            <div class="bar" style="height: 18.91891891891892px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">9</span>
-                            <div class="bar" style="height: 12.162162162162163px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 4.054054054054054px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 8.108108108108109px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 6.756756756756757px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -674,8 +674,8 @@
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 4.054054054054054px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">11</span>
+                            <div class="bar" style="height: 14.864864864864865px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -684,13 +684,13 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 10.81081081081081px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 1.3513513513513513px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 1.3513513513513513px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 4.054054054054054px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
@@ -730,13 +730,13 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">47</span>
-                                <div class="bar" style="height: 48.95833333333333px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">31</span>
+                                <div class="bar" style="height: 32.29166666666667px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">23</span>
-                                <div class="bar" style="height: 23.958333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39</span>
+                                <div class="bar" style="height: 40.625px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -766,22 +766,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 27.833027859584213%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 28.15320051006889%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">35%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 5.331018163866333%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.392342653027841%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 1.5423114243399214%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.5600531497136363%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.025421468657258455%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.02571390033376413%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -821,12 +821,6 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 20 days
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 47 days
@@ -847,7 +841,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~15.10
+                            Average per day at ~15.04
                         </div>
                     </section>
                 </div>
@@ -1840,10 +1834,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5357142857142856 0,1.5357142857142856 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5357142857142856 1.7,2.5357142857142856 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.625)">
+                            <g transform="translate(-3.4, 7.464285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5357142857142856 0,1.5357142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5357142857142856 1.7,2.5357142857142856 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                     </g>
@@ -1961,6 +1960,7 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2058,7 +2058,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        315
+                                        316
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2212,13 +2212,8 @@
                             <div class="entry">
                                 <span class="value">2.24k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                6
-                                <div class="bottom">Mar.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 7
+                                <div class="bottom">Mar.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2280,21 +2275,21 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 19
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                20
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">+1</span>
-                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                6
-                                <div class="bottom">Mar.</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 7
+                                <div class="bottom">Mar.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2355,6 +2350,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 19
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                20
                             </div>
                         </div>
                     </section>
@@ -2429,226 +2429,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 200 commits in
-                                        <span class="repo">rasa/syncthing</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">rasa/workflows</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/github_actions/docker/build-push-action-6</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0178dbb</div>
-                                        <div class="message">build: use Go 1.23, require minimum 1.22</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7517d18</div>
-                                        <div class="message">lib/fs: Put the caseFS as the outermost layer (#9648)
-
-Reasoning in comments. The main motivation is to avoid all the case
-checks when walking the filesystem.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42d0fee</div>
-                                        <div class="message">gui: Add Irish (ga) translation template (#9646)
-
-Based on user request from Weblate, user `@aindriu80`.
-
-Looks promising based on the profile:
-https://hosted.weblate.org/user/aindriu80/ Not sure whether almost
-30.000 translations in about one month is realistic for a human though.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ca9d3b</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cde068</div>
-                                        <div class="message">lib/syncthing: Add wrapper for access to model (#9627)
-
-### Purpose
-
-Wrap access to Model for users that use the syncthing Go package. See
-discussion:
-https://github.com/syncthing/syncthing/pull/9619#pullrequestreview-2212484910
-
-### Testing
-
-It works with the iOS app. Other than that, there are no current users
-of this API (to my knowledge) as Model was only exposed recently form
-the iOS app.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1243083</div>
-                                        <div class="message">cli: Remove `go-shlex` dependency (#9644)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#356c505</div>
-                                        <div class="message">lib/sha256: Remove it (#9643)
-
-### Purpose
-
-Remove the `lib/sha256` package, because it's no longer necessary. Go's
-standard library now has the same performance and is on par with
-`sha256-simd` since [Since Go
-1.21](https://github.com/golang/go/commit/1a64574f42b95594cf9c8a12e9ca13d75585429c).
-Therefore using `sha256-simd` has no benefits anymore.
-
-ARM already has optimized sha256 assembly code since
-https://github.com/golang/go/commit/7b8a7f8272fd1941a199af1adb334bd9996e8909,
-`sha256-simd` published their results before that optimized assembly was
-implemented,
-https://github.com/minio/sha256-simd/commit/f941fedda826b68a196de2e0a9183e273ec0cb91.
-The assembly looks very similar and the benchmarks in the Go commit
-match that of `sha256-simd`.
-
-This patch removes all of the related code of `lib/sha256` and makes
-`crypto/sha256` the 'default'.
-
-Benchmark of `sha256-simd` and `crypto/sha256`:
-&lt;details&gt;
-
-```
-cpu: AMD Ryzen 5 3600X 6-Core Processor
-                │  simd.txt   │               go.txt                │
-                │   sec/op    │    sec/op     vs base               │
-Hash/8Bytes-12    63.25n ± 1%    73.38n ± 1%  +16.02% (p=0.002 n=6)
-Hash/64Bytes-12   98.73n ± 1%   105.30n ± 1%   +6.65% (p=0.002 n=6)
-Hash/1K-12        567.2n ± 1%    572.8n ± 1%   +0.99% (p=0.002 n=6)
-Hash/8K-12        4.062µ ± 1%    4.062µ ± 1%        ~ (p=0.396 n=6)
-Hash/1M-12        512.1µ ± 0%    510.6µ ± 1%        ~ (p=0.485 n=6)
-Hash/5M-12        2.556m ± 1%    2.564m ± 0%        ~ (p=0.093 n=6)
-Hash/10M-12       5.112m ± 0%    5.127m ± 0%        ~ (p=0.093 n=6)
-geomean           13.82µ         14.27µ        +3.28%
-
-                │   simd.txt   │               go.txt                │
-                │     B/s      │     B/s       vs base               │
-Hash/8Bytes-12    120.6Mi ± 1%   104.0Mi ± 1%  -13.81% (p=0.002 n=6)
-Hash/64Bytes-12   618.2Mi ± 1%   579.8Mi ± 1%   -6.22% (p=0.002 n=6)
-Hash/1K-12        1.682Gi ± 1%   1.665Gi ± 1%   -0.98% (p=0.002 n=6)
-Hash/8K-12        1.878Gi ± 1%   1.878Gi ± 1%        ~ (p=0.310 n=6)
-Hash/1M-12        1.907Gi ± 0%   1.913Gi ± 1%        ~ (p=0.485 n=6)
-Hash/5M-12        1.911Gi ± 1%   1.904Gi ± 0%        ~ (p=0.093 n=6)
-Hash/10M-12       1.910Gi ± 0%   1.905Gi ± 0%        ~ (p=0.093 n=6)
-geomean           1.066Gi        1.032Gi        -3.18%
-```
-
-&lt;/details&gt;
-
-
-### Testing
-
-Compiled and tested on Linux.
-
-### Documentation
-
-https://github.com/syncthing/docs/pull/874</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1969373</div>
-                                        <div class="message">build: Update dependencies (#9640)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17e60b9</div>
-                                        <div class="message">Chmod -x non-executable files (fixes #9629) (#9630)
-
-Fixed via
-```
-git ls-files -s | grep 100755 | grep -E -v '(run|sh)$' | cut -f 2 | xargs git update-index --chmod -x
-```
-See #9629.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d0e6dc</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/rasa/syncthing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022d264</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d69339a</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac22b2d</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de0b427</div>
-                                        <div class="message">all: minimal set of changes for iOS app (#9619)
-
-### Purpose
-
-This PR contains the set of changes needed to make Syncthing work on iOS
-for [my iOS app for
-Syncthing](https://github.com/pixelspark/sushitrain).
-
-Most changes originate from [the Mobius Sync
-fork](http://github.com/MobiusSync/syncthing/tree/ios). I have removed
-the changes from their fork that are not strictly needed for my app
-(i.e. their changes to the GUI and command line utilities, for instance)
-and squashed it all in a single commit.
-
-In summary, the changes are:
-
-* Resolve non-absolute paths to the 'Documents' folder (basically the
-only one an app can/should write user data to by default on iOS)
-* Tweaking of build flags/conditions for iOS (i.e. determine which
-basicfs_watch, ignoreresult variant to build for iOS)
-* Disable upgrade mechanism on iOS
-* Make `RequestGlobal` and `PullerProgress` public symbols
-* Expose syncthing.app's Model instance (app.M)
-* Add no-op stub for SetLowPriority on iOS
-
-I would very much appreciate these changes to be (eventually) merged to
-mainline syncthing, as this would allow my iOS app to track the mainline
-source code directly and removes the need (for me at least) for
-maintaining a separate fork. Perhaps the Mobius folks can also benefit
-from this (although as noted this branch does not contain their changes
-to e.g. the GUI).
-
-### Testing
-
-This branch has been tested with the iOS app and appears to work fine.
-The full set of MobiusSync changes has been used before with success.
-
-### Screenshots
-
-n/a
-
-### Documentation
-
-There should be no visible changes for users due to this set of changes.
-
----------
-
-Co-authored-by: Simon Pickup &lt;simon@pickupinfinity.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#245c696</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a26b0a8</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e738af7</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a28441a</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e31371</div>
-                                        <div class="message">etc: Remove restart on suspend systemd service (ref #8448) (#9611)
-
-The option to do the same in our own monitor process has been removed a
-long time ago.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b5ff1f</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
+                                        <div class="sha">#63fd771</div>
+                                        <div class="message">🔄 synced local '.github/.cspell/' with remote '.github/.cspell/'</div>
                                     </div>
                                 </div>
                             </section>
@@ -2660,165 +2449,15 @@ long time ago.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 184 commits in
-                                        <span class="repo">rasa/syncthing</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">rasa/law-scraper</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/next-gen-gui/url-parse-1.5.10</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1baefea</div>
-                                        <div class="message">gui: Actually filter scope ID out of IPv6 address when using Remote GUI (ref #8084) (#9688)
-
-gui: Actually filter scope ID out of IPv6 address when using Remote GUI
-(ref #8084)
-
-The current code does not work, because it uses a string in the
-replace() method instead of regex. Thus, change it to a proper regex.
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#563cec8</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3c340e</div>
-                                        <div class="message">Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"
-
-This reverts commit 7517d18fbbf34b42aa3d4b231018d2ee704a159d.
-
-Fixes #9677</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb24638</div>
-                                        <div class="message">lib/api: Correct ordering of Accept-Language codes by weight (fixes #9670) (#9671)
-
-The preference for languages in the Accept-Language header field
-should not be deduced from the listed order, but from the passed
-"quality values", according to the HTTP specification:
-https://httpwg.org/specs/rfc9110.html#field.accept-language
-
-This implements the parsing of q=values and ordering within the API
-backend, to not complicate things further in the GUI code.  Entries
-with invalid (unparseable) quality values are discarded completely.
-
-* gui: Fix API endpoint in comment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb24dc</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aa2d2c</div>
-                                        <div class="message">gui: Fix incorrect UI language auto detection (fixes #9668) (#9669)
-
-gui: Fix incorrect UI language auto detection (fixes #9668)
-
-Currently, the code only checks whether the detected language partially
-matches one of the available languages. This means that if the detected
-language is "fi" but among the available languages there is only "fil"
-and no "fi", then it will match "fi" with "fil", even though the two are
-completely different languages.
-
-With this change, the matching is only done when there is a hyphen in
-the language code, e.g. "en" will match with "en-US".
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c5100</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  lib/upgrade: Send OS version header to upgrade server (#9663)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42e677c</div>
-                                        <div class="message">lib/model, lib/protocol: Index sending/receiving debugging (#9657)
-
-This adds guardrails to the index sending and receiving, to verify that
-what we thinks is happening is what actually happens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27bba2c</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feff334</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#713cf35</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5342bec</div>
-                                        <div class="message">lib/protocol: Further interface refactor (#9396)
-
-This is a symmetric change to #9375 -- where that PR changed the
-protocol-&gt;model interface, this changes the model-&gt;protocol one.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7df75e6</div>
-                                        <div class="message">gui: Replace global "Panel padding decrease" style with targeted class (#9659)
-
-Transplanted from https://github.com/emlun/syncthing/pull/8 (meta-PR
-into https://github.com/syncthing/syncthing/pull/9175) by request of
-@acolomb (see:
-https://github.com/emlun/syncthing/pull/8#discussion_r1724470574).
-
-This padding decrease currently applies to _all_ collapsible panels, but
-this padding decrease may not be appropriate for all collapsible panels.
-In particular, it will not be appropriate for the collapsible panels
-introduced in https://github.com/emlun/syncthing/pull/8.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dc826b</div>
-                                        <div class="message">build: use Go 1.23, require minimum 1.22 (#9651)
-
-🥳
-
----------
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ef37e1</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d0e6dc</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/rasa/syncthing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022d264</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d69339a</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#245c696</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a26b0a8</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
+                                        <div class="sha">#52346c7</div>
+                                        <div class="message">🔄 synced local '.github/.cspell/' with remote '.github/.cspell/'</div>
                                     </div>
                                 </div>
                             </section>
@@ -2830,165 +2469,15 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 184 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">rasa/syncthing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/next-gen-gui/decode-uri-component-0.2.2</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1baefea</div>
-                                        <div class="message">gui: Actually filter scope ID out of IPv6 address when using Remote GUI (ref #8084) (#9688)
-
-gui: Actually filter scope ID out of IPv6 address when using Remote GUI
-(ref #8084)
-
-The current code does not work, because it uses a string in the
-replace() method instead of regex. Thus, change it to a proper regex.
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#563cec8</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3c340e</div>
-                                        <div class="message">Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"
-
-This reverts commit 7517d18fbbf34b42aa3d4b231018d2ee704a159d.
-
-Fixes #9677</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb24638</div>
-                                        <div class="message">lib/api: Correct ordering of Accept-Language codes by weight (fixes #9670) (#9671)
-
-The preference for languages in the Accept-Language header field
-should not be deduced from the listed order, but from the passed
-"quality values", according to the HTTP specification:
-https://httpwg.org/specs/rfc9110.html#field.accept-language
-
-This implements the parsing of q=values and ordering within the API
-backend, to not complicate things further in the GUI code.  Entries
-with invalid (unparseable) quality values are discarded completely.
-
-* gui: Fix API endpoint in comment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb24dc</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aa2d2c</div>
-                                        <div class="message">gui: Fix incorrect UI language auto detection (fixes #9668) (#9669)
-
-gui: Fix incorrect UI language auto detection (fixes #9668)
-
-Currently, the code only checks whether the detected language partially
-matches one of the available languages. This means that if the detected
-language is "fi" but among the available languages there is only "fil"
-and no "fi", then it will match "fi" with "fil", even though the two are
-completely different languages.
-
-With this change, the matching is only done when there is a hyphen in
-the language code, e.g. "en" will match with "en-US".
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c5100</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  lib/upgrade: Send OS version header to upgrade server (#9663)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42e677c</div>
-                                        <div class="message">lib/model, lib/protocol: Index sending/receiving debugging (#9657)
-
-This adds guardrails to the index sending and receiving, to verify that
-what we thinks is happening is what actually happens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27bba2c</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feff334</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#713cf35</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5342bec</div>
-                                        <div class="message">lib/protocol: Further interface refactor (#9396)
-
-This is a symmetric change to #9375 -- where that PR changed the
-protocol-&gt;model interface, this changes the model-&gt;protocol one.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7df75e6</div>
-                                        <div class="message">gui: Replace global "Panel padding decrease" style with targeted class (#9659)
-
-Transplanted from https://github.com/emlun/syncthing/pull/8 (meta-PR
-into https://github.com/syncthing/syncthing/pull/9175) by request of
-@acolomb (see:
-https://github.com/emlun/syncthing/pull/8#discussion_r1724470574).
-
-This padding decrease currently applies to _all_ collapsible panels, but
-this padding decrease may not be appropriate for all collapsible panels.
-In particular, it will not be appropriate for the collapsible panels
-introduced in https://github.com/emlun/syncthing/pull/8.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dc826b</div>
-                                        <div class="message">build: use Go 1.23, require minimum 1.22 (#9651)
-
-🥳
-
----------
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ef37e1</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d0e6dc</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/rasa/syncthing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022d264</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d69339a</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#245c696</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a26b0a8</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
+                                        <div class="sha">#fb15b04</div>
+                                        <div class="message">chore(ci): Add concurrency group to build-syncthing.yaml</div>
                                     </div>
                                 </div>
                             </section>
@@ -3000,165 +2489,15 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 184 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">rasa/syncthing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/next-gen-gui/eventsource-1.1.2</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1baefea</div>
-                                        <div class="message">gui: Actually filter scope ID out of IPv6 address when using Remote GUI (ref #8084) (#9688)
-
-gui: Actually filter scope ID out of IPv6 address when using Remote GUI
-(ref #8084)
-
-The current code does not work, because it uses a string in the
-replace() method instead of regex. Thus, change it to a proper regex.
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#563cec8</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3c340e</div>
-                                        <div class="message">Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"
-
-This reverts commit 7517d18fbbf34b42aa3d4b231018d2ee704a159d.
-
-Fixes #9677</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb24638</div>
-                                        <div class="message">lib/api: Correct ordering of Accept-Language codes by weight (fixes #9670) (#9671)
-
-The preference for languages in the Accept-Language header field
-should not be deduced from the listed order, but from the passed
-"quality values", according to the HTTP specification:
-https://httpwg.org/specs/rfc9110.html#field.accept-language
-
-This implements the parsing of q=values and ordering within the API
-backend, to not complicate things further in the GUI code.  Entries
-with invalid (unparseable) quality values are discarded completely.
-
-* gui: Fix API endpoint in comment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb24dc</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aa2d2c</div>
-                                        <div class="message">gui: Fix incorrect UI language auto detection (fixes #9668) (#9669)
-
-gui: Fix incorrect UI language auto detection (fixes #9668)
-
-Currently, the code only checks whether the detected language partially
-matches one of the available languages. This means that if the detected
-language is "fi" but among the available languages there is only "fil"
-and no "fi", then it will match "fi" with "fil", even though the two are
-completely different languages.
-
-With this change, the matching is only done when there is a hyphen in
-the language code, e.g. "en" will match with "en-US".
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c5100</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  lib/upgrade: Send OS version header to upgrade server (#9663)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42e677c</div>
-                                        <div class="message">lib/model, lib/protocol: Index sending/receiving debugging (#9657)
-
-This adds guardrails to the index sending and receiving, to verify that
-what we thinks is happening is what actually happens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27bba2c</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feff334</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#713cf35</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5342bec</div>
-                                        <div class="message">lib/protocol: Further interface refactor (#9396)
-
-This is a symmetric change to #9375 -- where that PR changed the
-protocol-&gt;model interface, this changes the model-&gt;protocol one.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7df75e6</div>
-                                        <div class="message">gui: Replace global "Panel padding decrease" style with targeted class (#9659)
-
-Transplanted from https://github.com/emlun/syncthing/pull/8 (meta-PR
-into https://github.com/syncthing/syncthing/pull/9175) by request of
-@acolomb (see:
-https://github.com/emlun/syncthing/pull/8#discussion_r1724470574).
-
-This padding decrease currently applies to _all_ collapsible panels, but
-this padding decrease may not be appropriate for all collapsible panels.
-In particular, it will not be appropriate for the collapsible panels
-introduced in https://github.com/emlun/syncthing/pull/8.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dc826b</div>
-                                        <div class="message">build: use Go 1.23, require minimum 1.22 (#9651)
-
-🥳
-
----------
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ef37e1</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d0e6dc</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/rasa/syncthing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022d264</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d69339a</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#245c696</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a26b0a8</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
+                                        <div class="sha">#d17ecec</div>
+                                        <div class="message">chore(ci): Fix name in build-nightly.yaml</div>
                                     </div>
                                 </div>
                             </section>
@@ -3170,165 +2509,15 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 184 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">rasa/syncthing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/next-gen-gui/browserify-sign-4.2.3</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1baefea</div>
-                                        <div class="message">gui: Actually filter scope ID out of IPv6 address when using Remote GUI (ref #8084) (#9688)
-
-gui: Actually filter scope ID out of IPv6 address when using Remote GUI
-(ref #8084)
-
-The current code does not work, because it uses a string in the
-replace() method instead of regex. Thus, change it to a proper regex.
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#563cec8</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3c340e</div>
-                                        <div class="message">Revert "lib/fs: Put the caseFS as the outermost layer (#9648)"
-
-This reverts commit 7517d18fbbf34b42aa3d4b231018d2ee704a159d.
-
-Fixes #9677</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb24638</div>
-                                        <div class="message">lib/api: Correct ordering of Accept-Language codes by weight (fixes #9670) (#9671)
-
-The preference for languages in the Accept-Language header field
-should not be deduced from the listed order, but from the passed
-"quality values", according to the HTTP specification:
-https://httpwg.org/specs/rfc9110.html#field.accept-language
-
-This implements the parsing of q=values and ordering within the API
-backend, to not complicate things further in the GUI code.  Entries
-with invalid (unparseable) quality values are discarded completely.
-
-* gui: Fix API endpoint in comment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb24dc</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aa2d2c</div>
-                                        <div class="message">gui: Fix incorrect UI language auto detection (fixes #9668) (#9669)
-
-gui: Fix incorrect UI language auto detection (fixes #9668)
-
-Currently, the code only checks whether the detected language partially
-matches one of the available languages. This means that if the detected
-language is "fi" but among the available languages there is only "fil"
-and no "fi", then it will match "fi" with "fil", even though the two are
-completely different languages.
-
-With this change, the matching is only done when there is a hyphen in
-the language code, e.g. "en" will match with "en-US".
-
-Signed-off-by: Tomasz Wilczyński &lt;twilczynski@naver.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c5100</div>
-                                        <div class="message">Merge branch 'release'
-
-* release:
-  lib/upgrade: Send OS version header to upgrade server (#9663)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42e677c</div>
-                                        <div class="message">lib/model, lib/protocol: Index sending/receiving debugging (#9657)
-
-This adds guardrails to the index sending and receiving, to verify that
-what we thinks is happening is what actually happens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27bba2c</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feff334</div>
-                                        <div class="message">lib/upgrade: Send OS version header to upgrade server (#9663)
-
-This adds a header with the operating system version, verbatim in
-whatever format the operating system reports it, to the upgrade check.
-The intention is that the upgrade server can use this information to
-filter out (or maybe just mark) potentially unsupported upgrades.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#713cf35</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5342bec</div>
-                                        <div class="message">lib/protocol: Further interface refactor (#9396)
-
-This is a symmetric change to #9375 -- where that PR changed the
-protocol-&gt;model interface, this changes the model-&gt;protocol one.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7df75e6</div>
-                                        <div class="message">gui: Replace global "Panel padding decrease" style with targeted class (#9659)
-
-Transplanted from https://github.com/emlun/syncthing/pull/8 (meta-PR
-into https://github.com/syncthing/syncthing/pull/9175) by request of
-@acolomb (see:
-https://github.com/emlun/syncthing/pull/8#discussion_r1724470574).
-
-This padding decrease currently applies to _all_ collapsible panels, but
-this padding decrease may not be appropriate for all collapsible panels.
-In particular, it will not be appropriate for the collapsible panels
-introduced in https://github.com/emlun/syncthing/pull/8.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dc826b</div>
-                                        <div class="message">build: use Go 1.23, require minimum 1.22 (#9651)
-
-🥳
-
----------
-
-Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ef37e1</div>
-                                        <div class="message">gui, man, authors: Update docs, translations, and contributors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d0e6dc</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/rasa/syncthing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022d264</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d69339a</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#245c696</div>
-                                        <div class="message">build-syncthing.yaml: Undo last commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a26b0a8</div>
-                                        <div class="message">build-syncthing.yaml: Build Windows and Mac</div>
+                                        <div class="sha">#c0bb0f1</div>
+                                        <div class="message">chore(ci): Enable build-nightly.yaml</div>
                                     </div>
                                 </div>
                             </section>
@@ -3483,7 +2672,7 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="267.84 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="268.0466666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3505,7 +2694,7 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3592 times</div>
+                                <div class="text">Repositories have been deployed 3594 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3518,7 +2707,7 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="155.59411362080766 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="155.67898699520873 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3594,7 +2783,7 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.53500000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.60733333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3619,7 +2808,7 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
                                     maintainer
                                     <span class="gh">ranked 1.36k out of 244m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 21955 stars</div>
+                                <div class="text">Maintaining a repository with 21962 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4143,7 +3332,7 @@ Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Mar 2025, 17:29:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Mar 2025, 17:28:05 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
