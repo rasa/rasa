@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3205" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4570" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}.label-flex .gemoji{margin-right:.25rem}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,25 +23,25 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 171 users
+                            Followed by 172 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            14200 Commits
+                            14231 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -204,13 +204,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    2256 Stargazers
+                                    2258 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    351 Forkers
+                                    352 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    914 views in last two weeks
+                                    903 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -562,14 +562,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 32 commits)</small>
+                    <small class="h-details">(computed from last 44 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 31.9 characters per line of code written</li>
-                        <li>Mostly pushes code around 07:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly pushes code around 06:00</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -579,12 +579,12 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             00
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             01
                         </div>
                         <div class="entry">
@@ -608,28 +608,28 @@
                             05
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             06
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             07
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             08
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             09
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -644,27 +644,27 @@
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -674,7 +674,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -689,7 +689,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -705,37 +705,37 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">7</span>
-                                <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">8</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">3</span>
-                                <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">12</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">6</span>
-                                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -745,17 +745,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 7.096814821345357%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 27.55814504745162%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.2488948223529266%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 27.345447227546224%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 0.1887809253090475%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.15969974432927364%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.03901008050666664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -797,13 +802,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 63 days
+                            Current streak 64 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 63 days
+                            Best streak 64 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -821,7 +826,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~16.83
+                            Average per day at ~17.29
                         </div>
                     </section>
                 </div>
@@ -842,43 +847,6 @@
                     </filter>
                     <g transform="scale(4) translate(12, 0)">
                         <g transform="translate(0, 0)">
-                            <g transform="translate(0, 5.196428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.803571428571429 0,1.8035714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8035714285714286 1.7,2.803571428571429 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 6.892857142857142)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 7.892857142857142)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -915,31 +883,31 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(3.4, 2)">
+                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.357142857142858)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.303571428571429)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.696428571428571 0,1.6964285714285714 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6964285714285714 1.7,2.696428571428571 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.696428571428571 0,1.6964285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6964285714285714 1.7,2.696428571428571 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.821428571428571)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.089285714285715)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9107142857142856 0,1.9107142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9107142857142856 1.7,2.9107142857142856 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9107142857142856 0,1.9107142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9107142857142856 1.7,2.9107142857142856 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.785714285714285)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -952,7 +920,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                         </g>
-                        <g transform="translate(5.1, 3)">
+                        <g transform="translate(3.4, 2)">
                             <g transform="translate(0, 5.946428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0535714285714284 0,1.0535714285714286 z"/>
@@ -969,9 +937,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.285714285714286)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.678571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -979,17 +947,17 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.517857142857142)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.482142857142857 0,1.4821428571428572 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4821428571428572 1.7,2.482142857142857 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.482142857142857 0,1.4821428571428572 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4821428571428572 1.7,2.482142857142857 z"/>
                             </g>
                             <g transform="translate(-10.2, 9)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
                             </g>
                         </g>
-                        <g transform="translate(6.8, 4)">
+                        <g transform="translate(5.1, 3)">
                             <g transform="translate(0, 3.75)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
@@ -1005,15 +973,15 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
-                            <g transform="translate(-5.1, 5.464285714285714)">
+                            <g transform="translate(-5.1, 5.517857142857142)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.535714285714286 0,4.535714285714286 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.535714285714286 1.7,5.535714285714286 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.482142857142858 0,4.482142857142858 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.482142857142858 1.7,5.482142857142858 z"/>
                             </g>
-                            <g transform="translate(-6.8, 5.767857142857142)">
+                            <g transform="translate(-6.8, 5.714285714285714)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.232142857142858 0,5.232142857142858 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.232142857142858 1.7,6.232142857142858 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.285714285714286 0,5.285714285714286 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.285714285714286 1.7,6.285714285714286 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.178571428571429)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1026,26 +994,26 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
                             </g>
                         </g>
-                        <g transform="translate(8.5, 5)">
+                        <g transform="translate(6.8, 4)">
                             <g transform="translate(0, 4.285714285714286)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.660714285714286)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3392857142857144 0,2.3392857142857144 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3392857142857144 1.7,3.3392857142857144 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3392857142857144 0,2.3392857142857144 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3392857142857144 1.7,3.3392857142857144 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.660714285714286)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3392857142857144 0,2.3392857142857144 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3392857142857144 1.7,3.3392857142857144 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3392857142857144 0,2.3392857142857144 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3392857142857144 1.7,3.3392857142857144 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.982142857142857)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.017857142857143 0,2.017857142857143 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.017857142857143 1.7,3.017857142857143 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.017857142857143 0,2.017857142857143 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.017857142857143 1.7,3.017857142857143 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.357142857142858)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1053,36 +1021,36 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.035714285714285)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9642857142857144 0,1.9642857142857144 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9642857142857144 1.7,2.9642857142857144 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9642857142857144 0,1.9642857142857144 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9642857142857144 1.7,2.9642857142857144 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.017857142857142)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.982142857142857 0,2.982142857142857 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.982142857142857 1.7,3.982142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.982142857142857 0,2.982142857142857 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.982142857142857 1.7,3.982142857142857 z"/>
                             </g>
                         </g>
-                        <g transform="translate(10.2, 6)">
+                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 5.25)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.857142857142857)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.142857142857142 0,3.142857142857143 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.142857142857143 1.7,4.142857142857142 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.142857142857142 0,3.142857142857143 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.142857142857143 1.7,4.142857142857142 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.982142857142857)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.017857142857143 0,2.017857142857143 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.017857142857143 1.7,3.017857142857143 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.017857142857143 0,2.017857142857143 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.017857142857143 1.7,3.017857142857143 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.821428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.357142857142858)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1090,9 +1058,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.428571428571429)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.446428571428571)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1100,48 +1068,48 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.553571428571429 1.7,3.553571428571429 z"/>
                             </g>
                         </g>
-                        <g transform="translate(11.9, 7)">
+                        <g transform="translate(10.2, 6)">
                             <g transform="translate(0, 3.6964285714285716)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.303571428571429 0,3.303571428571429 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.303571428571429 1.7,4.303571428571429 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.303571428571429 0,3.303571428571429 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.303571428571429 1.7,4.303571428571429 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.017857142857143)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.982142857142857 0,2.982142857142857 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.982142857142857 1.7,3.982142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.982142857142857 0,2.982142857142857 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.982142857142857 1.7,3.982142857142857 z"/>
                             </g>
                             <g transform="translate(-3.4, 4.839285714285714)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.160714285714286 0,4.160714285714286 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.160714285714286 1.7,5.160714285714286 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.160714285714286 0,4.160714285714286 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.160714285714286 1.7,5.160714285714286 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.964285714285714)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.035714285714286 0,3.0357142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0357142857142856 1.7,4.035714285714286 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.035714285714286 0,3.0357142857142856 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0357142857142856 1.7,4.035714285714286 z"/>
                             </g>
                             <g transform="translate(-6.8, 8.821428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
                             </g>
                             <g transform="translate(-8.5, 7.785714285714286)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.214285714285714 0,4.214285714285714 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.214285714285714 1.7,5.214285714285714 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.214285714285714 0,4.214285714285714 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.214285714285714 1.7,5.214285714285714 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.428571428571429)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                         </g>
-                        <g transform="translate(13.6, 8)">
+                        <g transform="translate(11.9, 7)">
                             <g transform="translate(0, 4.339285714285714)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6607142857142856 0,2.6607142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6607142857142856 1.7,3.6607142857142856 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6607142857142856 0,2.6607142857142856 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6607142857142856 1.7,3.6607142857142856 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.875)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1174,7 +1142,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(15.299999999999999, 9)">
+                        <g transform="translate(13.6, 8)">
                             <g transform="translate(0, 4.446428571428571)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.553571428571429 0,2.553571428571429 z"/>
@@ -1211,7 +1179,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5892857142857144 1.7,2.5892857142857144 z"/>
                             </g>
                         </g>
-                        <g transform="translate(17, 10)">
+                        <g transform="translate(15.299999999999999, 9)">
                             <g transform="translate(0, 5.517857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.482142857142857 0,1.4821428571428572 z"/>
@@ -1248,7 +1216,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                         </g>
-                        <g transform="translate(18.7, 11)">
+                        <g transform="translate(17, 10)">
                             <g transform="translate(0, 5.732142857142858)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
@@ -1285,7 +1253,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
                             </g>
                         </g>
-                        <g transform="translate(20.4, 12)">
+                        <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1322,7 +1290,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                         </g>
-                        <g transform="translate(22.099999999999998, 13)">
+                        <g transform="translate(20.4, 12)">
                             <g transform="translate(0, 5.678571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
@@ -1359,7 +1327,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.357142857142857 1.7,4.357142857142858 z"/>
                             </g>
                         </g>
-                        <g transform="translate(23.8, 14)">
+                        <g transform="translate(22.099999999999998, 13)">
                             <g transform="translate(0, 5.035714285714286)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9642857142857144 0,1.9642857142857144 z"/>
@@ -1396,7 +1364,7 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
                             </g>
                         </g>
-                        <g transform="translate(25.5, 15)">
+                        <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 5.732142857142858)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
@@ -1433,7 +1401,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
                             </g>
                         </g>
-                        <g transform="translate(27.2, 16)">
+                        <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1470,7 +1438,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(28.9, 17)">
+                        <g transform="translate(27.2, 16)">
                             <g transform="translate(0, 5.839285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1607142857142856 0,1.1607142857142856 z"/>
@@ -1507,7 +1475,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
                             </g>
                         </g>
-                        <g transform="translate(30.599999999999998, 18)">
+                        <g transform="translate(28.9, 17)">
                             <g transform="translate(0, 5.892857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
@@ -1544,7 +1512,7 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.446428571428571 1.7,3.446428571428571 z"/>
                             </g>
                         </g>
-                        <g transform="translate(32.3, 19)">
+                        <g transform="translate(30.599999999999998, 18)">
                             <g transform="translate(0, 3.8035714285714284)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.196428571428571 0,3.196428571428571 z"/>
@@ -1581,7 +1549,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                         </g>
-                        <g transform="translate(34, 20)">
+                        <g transform="translate(32.3, 19)">
                             <g transform="translate(0, 5.678571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
@@ -1603,26 +1571,26 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.053571428571429)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.946428571428571 0,3.946428571428571 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.946428571428571 1.7,4.946428571428571 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.946428571428571 0,3.946428571428571 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.946428571428571 1.7,4.946428571428571 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.821428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.178571428571429 0,2.178571428571429 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.178571428571429 1.7,3.178571428571429 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.714285714285715)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                         </g>
-                        <g transform="translate(35.699999999999996, 21)">
+                        <g transform="translate(34, 20)">
                             <g transform="translate(0, 5.732142857142858)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.892857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1640,41 +1608,41 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.678571428571429 1.7,4.678571428571429 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.625)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.464285714285715)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5357142857142856 0,1.5357142857142856 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5357142857142856 1.7,2.5357142857142856 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5357142857142856 0,1.5357142857142856 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5357142857142856 1.7,2.5357142857142856 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.196428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.803571428571429 0,1.8035714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8035714285714286 1.7,2.803571428571429 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.803571428571429 0,1.8035714285714286 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8035714285714286 1.7,2.803571428571429 z"/>
                             </g>
                         </g>
-                        <g transform="translate(37.4, 22)">
+                        <g transform="translate(35.699999999999996, 21)">
                             <g transform="translate(0, 5.839285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1607142857142856 0,1.1607142857142856 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1607142857142856 1.7,2.1607142857142856 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.25)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.678571428571429)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.625)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.892857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1682,17 +1650,17 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.196428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.803571428571429 0,1.8035714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8035714285714286 1.7,2.803571428571429 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.803571428571429 0,1.8035714285714286 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8035714285714286 1.7,2.803571428571429 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(39.1, 23)">
+                        <g transform="translate(37.4, 22)">
                             <g transform="translate(0, 5.785714285714286)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
@@ -1704,9 +1672,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1607142857142856 1.7,2.1607142857142856 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.732142857142858)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.892857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1719,26 +1687,26 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1607142857142856 1.7,2.1607142857142856 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.517857142857142)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.482142857142857 0,1.4821428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4821428571428572 1.7,2.482142857142857 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.482142857142857 0,1.4821428571428572 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4821428571428572 1.7,2.482142857142857 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.035714285714285)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9642857142857144 0,1.9642857142857144 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9642857142857144 1.7,2.9642857142857144 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9642857142857144 0,1.9642857142857144 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9642857142857144 1.7,2.9642857142857144 z"/>
                             </g>
                         </g>
-                        <g transform="translate(40.8, 24)">
+                        <g transform="translate(39.1, 23)">
                             <g transform="translate(0, 5.732142857142858)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.267857142857143 0,1.2678571428571428 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2678571428571428 1.7,2.267857142857143 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.089285714285714)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9107142857142856 0,1.9107142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9107142857142856 1.7,2.9107142857142856 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9107142857142856 0,1.9107142857142856 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9107142857142856 1.7,2.9107142857142856 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.625)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1746,9 +1714,9 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.196428571428571)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.803571428571429 0,1.8035714285714286 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8035714285714286 1.7,2.803571428571429 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.803571428571429 0,1.8035714285714286 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8035714285714286 1.7,2.803571428571429 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.625)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1766,7 +1734,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1607142857142856 1.7,2.1607142857142856 z"/>
                             </g>
                         </g>
-                        <g transform="translate(42.5, 25)">
+                        <g transform="translate(40.8, 24)">
                             <g transform="translate(0, 5.785714285714286)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
@@ -1803,7 +1771,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1607142857142856 1.7,2.1607142857142856 z"/>
                             </g>
                         </g>
-                        <g transform="translate(44.199999999999996, 26)">
+                        <g transform="translate(42.5, 25)">
                             <g transform="translate(0, 5.839285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1607142857142856 0,1.1607142857142856 z"/>
@@ -1820,6 +1788,11 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.446428571428571 1.7,3.446428571428571 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.946428571428571)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0535714285714284 0,1.0535714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0535714285714286 1.7,2.0535714285714284 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 9.946428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0535714285714284 0,1.0535714285714286 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0535714285714286 1.7,2.0535714285714284 z"/>
@@ -1995,6 +1968,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2092,7 +2066,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        406
+                                        407
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2205,7 +2179,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        166
+                                        167
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2246,74 +2220,74 @@
                             <div class="entry">
                                 <span class="value">2.25k</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                18
+                                19
                                 <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
-                                <span class="value">2.25k</span>
-                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                19
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">2.25k</span>
-                                <div class="bar" style="height: 26.249999999999996px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 16.07142857142857px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">2.25k</span>
-                                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 22.857142857142854px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value">2.25k</span>
-                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 28
                             </div>
                             <div class="entry">
                                 <span class="value">2.26k</span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 36.42857142857143px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 29
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 36.42857142857143px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 30
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">2.26k</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 1
                                 <div class="bottom">May</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                2
                             </div>
                         </div>
                     </section>
@@ -2321,15 +2295,10 @@
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                18
-                                <div class="bottom">Apr.</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value">+1</span>
                                 <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 19
+                                <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2387,10 +2356,15 @@
                                 30
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">+2</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 1
                                 <div class="bottom">May</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                2
                             </div>
                         </div>
                     </section>
@@ -2401,10 +2375,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    171 followers
+                    172 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAACXBIWXMAAAsTAAALEwEAmpwYAAAQj0lEQVR4nO3b0a0kNwxE0Q2T+W4OiqNDcAKGAQsDsqt5LvTvRbF4pXkN/3kAYAF/pv8BANAB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVgB2QFYAdkBWAHZAVhBn+zq73Hen8DzLcbzdOo1rSM7dSQ7HTgbrliyU3Sy04FDdr/Eez4igedbjOfp1Gta52WnjmSnA2fDFUt2ik52OnDI7pd4z0ck8HyL8Tydek3rvOzUkex04Gy4YslO0clOBw7Z/RLv+YgEnm8xnqdTr2mdl506kp0OnA1XLNkpOtnpwCG7X+I9H5HA8y3G83TqNa3zslNHstOBs+GKJTtFJzsdOGT3S7znIxJ4vsV4nk69pnVedupIdjqw4oolO0UnOx04ZPdLvOcjEni+xXieTr2mdV526kh2OnA2XLFkp+hkpwOH7H6J93xEAs+3GM/Tqde0zstOHclOB86GK5bsFJ3sdOCQ3S/xno9I4PkW43k69ZrWedmpI9npwNlwxZKdopOdDhyy+yXe8xEJPN9iPE+nXtM6Lzt1JDsdOBuuWLJTdLLTgUN2v8R7PiKB51uM5+nUa1rnZaeOZKcDZ8MVS3aKTnY6cMjul3jPRyTwfIvxPJ16Teu87NSR7HTgbLhiyU7RyU4HDtn9Eu/5iASebzGep1OvaZ2XnTqSnQ6cDVcs2Sk62enAIbtf4j0fkcDzLcbzdOo1rfOyU0ey04Gz4YolO0UnOx04ZPdLvOcjEni+xXieznta52WnjmSnA2fDFUt2ik52OnDI7pd4z0ck8HyL8Tydek3rvOzUkex04Gy4YslO0clOBw7Z/RLv+YgEnm8xnqdTr2mdl506kp0OnA1XLNkpOtnpwCG7X+I9H5HA8y3G83TqNa3zslNHstOBs+GKJTtFJzsdOGT3S7znIxJ4vsV4nk69pnVedupIdjpwNlyxZKfoZKcDh+x+ifd8RALPtxjP06nXtM7LTh3JTgfOhiuW7BSd7HTgkN0v8Z6PSOD5FuN5OvWa1nnZqSPZ6cDZcMWSnaKTnQ4csvsl3vMRCTzfYjxPp17TOi87dSQ7HTgbrliyU3Sy04FDdr/Eez4igedbjOfp1Gta52WnjmSnA2fDFUt2ik52OkB2P8V7PiKB51uM5+nUa1rnZaeOEpDA2XDFkp2iS0ACh+x+ife8BCQggfKyUwIJSGBtAk8LfsbOT9qRwPIEHrIbn4EjAQkU2f1flEYCEpBAedkpgQQksDaBx8/Y8Rk4EpBAkZ2fsdZAAhIoLzt/s7MGEpBA+RmrBBKQgATK3+yUQAISWJXA4wPF+AwcCUigyM4HCmsgAQmUl50PFNZAAhIoP2OVQAISkED5m50SSEACqxJ4fKAYn4EjAQkU2flAYQ0kIIHysvOBwhpIQALlZ6wSSEACEih/s1MCCUhgVQKPDxTjM3AkIIEiOx8orIEEJOBl5wOFNZCABI6fsUogAQlI4PibnRJIQAK7Enh8oBifgSMBCRTZ+UBhDSQggfKy839QWAMJSKD8jFUCCUhAAuVvdkogAQmsSuDxgWJ8Bo4EJFBk5wOFNZCABMrLzgcKayABCZSfsUogAQlIoPzNTgkkIIFVCTw+UIzPwJGABIrsfKCwBhKQQHnZ+UBhDSQggfIzVgkkIAEJlL/ZKYEEJLAqgccHivEZOBKQQJGdDxTWQAISKC87HyisgQQkUH7GKoEEJCCB8jc7JZCABFYl8PhAMT4DRwISKLLzgcIaSEAC5WXnA4U1kIAE/IxVAglIQALH3+yUQAIS2JXA4wPF+AwcCUigyM4HCmsgAQmUl50PFNZAAhIoP2OVQAISkED5m50SSEACqxJ4fKAYn4EjAQkU2flAYQ0kIIHysvOBwhpIQALlZ6wSSEACEih/s1MCCUhgVQKPDxTjM3AkIIEiOx8orIEEJFBedj5QWAMJSKD8jFUCCUhAAuVvdkogAQmsSuDxgWJ8Bo4EJFBk5wOFNZCABMrLzgcKayABCZSfsUqw/K8nbYzn6dRrWven5z+jdimlf77FeJ5OvaZ1ZKeOZKcDZ8MVS3aKTnY6cMjul3jPRyTwfIvxPJ16Teu87NSR7HRgxRVLdopOdjpwyO6XeM9HJPB8i/E8nXpN67zs1JHsdOBsuGLJTtHJTgcO2f0S7/mIBJ5vMZ6nU69pnZedOpKdDpwNVyzZKTrZ6cAhu1/iPR+RwPMtxvN06jWt87JTR7LTgbPhiiU7RSc7HThk90u85yMSeL7FeJ5OvaZ1XnbqSHY6cDZcsWSn6GSnA4fsfon3fEQCz7cYz9Op17TOy04dyU4HzoYrluwUnex04JDdL/Gej0jg+RbjeTr1mtZ52akj2enA2XDFkp2ik50OHLL7Jd7zEQk832I8T6de0zovO3UkOx04G65YslN0stOBQ3a/xHs+IoHnW4zn6dRrWudlp45kpwNnwxVLdopOdjpwyO6XeM9HJPB8i/E8nXpN67zs1JHsdOBsuGLJTtHJTgcO2f0S7/mIBJ5vMZ6nU69pnZedOpKdDpwNVyzZKTrZ6cAhu1/iPR+RwPMtxvN06jWt87JTR7LTgbPhiiU7RSc7HThk90u85yMSeL7FeJ5OvaZ1XnbqSHY6cDZcsWSn6GSnA4fsfon3fEQCz7cYz9Op17TOy04dyU4HzoYrluwUnex04JDdL/Gej0jg+RbjeTr1mtZ52akj2enA2XDFkp2ik50OHLL7Jd7zEQk832I8T6de0zovO3UkOx04G65YslN0stOBQ3a/xHs+IoHnW4zn6dRrWudlp45kpwNnwxVLdopOdjpwyO6XeM9HJPB8i/E8nXpN67zs1JHsdOBsuGLJTtHJTgfI7qd4z0ck8HyL8Tydek3rvOzUkex04Gy4YslO0clOBw7Z/RLv+YgEnm8xnqdTr2mdl506kp0OnA1XLNkpOtnpwCG7X+I9H5HA8y3G83TqNa3zslNHstOBs+GKJTtFJzsdOGT3S7znIxJ4vsV4nk69pnVedupIdjpwNlyxZKfoEpDAITv8F36hSODD76Dv0fey+x5WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QZDdPVZdAmQXBNndY9UlQHZBkN09Vl0CZBcE2d1j1SVAdkGQ3T1WXQJkFwTZ3WPVJUB2QfTJzmJIQAISqL//cnoURHYBQ2rjk6v4fIvxPCt2RmQXMKQ2xkufu0htjOdZsTMiu4AhtTFe+txFamM8z4qdEdkFDKmN8dLnLlIb43lW7IzILmBIbYyXPneR2hjPs2JnRHYBQ2pjvPS5i9TGeJ4VOyOyCxhSG+Olz12kNsbzrNgZkV3AkNoYL33uIrUxnmfFzojsAobUxnjpcxepjfE8K3ZGZBcwpDbGS5+7SG2M51mxMyK7gCG1MV763EVqYzzPip0R2QUMqY3x0ucuUhvjeVbsjMguYEhtjJc+d5HaGM+zYmdEdgFDamO89LmL1MZ4nhU7I7ILGFIb46XPXaQ2xvOs2BmRXcCQ2hgvfe4itTGeZ8XOiOwChtTGeOlzF6mN8TwrdkZkFzCkNsZLn7tIbYznWbEzIruAIbUxXvrcRWpjPM+KnRHZBQypjfHS5y5SG+N5VuyMyC5gSG2Mlz53kdoYz7NiZ0R2AUNqY7z0uYvUxnieFTsjsgsYUhvjpc9dpDbG86zYGZFdwJDaGC997iK1MZ5nxc6I7AKG1MZ46XMXqY3xPCt2RmQXMKQ2xkufu0htjOdZsTMiu4AhtTFe+txFamM8z4qdEdkFDKmN8dLnLlIb43lW7IzILmBIbYyXPneR2hjPs2JnRHYBQ2pjvPS5i9TGeJ4VOyOyCxhSG+Olz12kNsbzrNgZkV3AkNoYL33uIrUxnmfFzojsAobUxnjpcxepjfE8K3ZGZBcwpDbGS5+7SG2M51mxMyK7gCG1MV763EVqYzzPip0R2QUMqY3x0ucuUhvjeVbsjMguYEhtjJc+d5HaGM+zYmdEdgFDamO89LmL1MZ4nhU7I7ILGFIb46XPXaQ2xvOs2BmRXcCQ2hgvfe4itTGeZ8XOiOwChtTGeOlzF6mN8TwrdkZkFzCkNsZLn7tIbYznWbEzIruAIbUxXvrcRWpjPM+KnRHZBQypjfHS5y5SG+N5VuyMyC5gSG2Mlz53kdoYz7NiZ0R2AUNqY7z0uYvUxnieFTsjsgsYUhvjpc9dpDbG86zYGZFdwJDaGC997iK1MZ5nxc6I7AKG1MZ46XMXqY3xPCt2RmQXMKQ2xkufu0htjOdZsTMiu4AhtTFe+txFamM8z4qdEdkFDKmN8dLnLlIb43lW7IzILmBIbYyXPneR2hjPs2JnRHYBQ2pjvPS5i9TGeJ4VOyOyCxhSG+Olz12kNsbzrNgZkV3AkNoYL33uIrUxnmfFzojsAobUxnjpcxepjfE8K3ZGZBcwpDbGS5+7SG2M51mxMyK7gCG1MV763EVqYzzPip0R2QUMqY3x0ucuUhvjeVbsjMguYEhtjJc+d5HaGM+zYmdEdgFDamO89LmL1MZ4nhU7I7ILGFIb46XPXaQ2xvOs2BmRXcCQ2hgvfe4itTGeZ8XOiOwChtTGeOlzF6mN8TwrdkZkFzCkNsZLn7tIbYznWbEzIruAIbUxXvrcRWpjPM+KnRHZBQypjfHS5y5SG+N5VuyMyC5gSG2Mlz53kdoYz7NiZ0R2AUNqY7z0uYvUxnieFTujPtkBwCBkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQHYAVkB2AFZAdgBWQH4NnAP92ehFKNXSzsAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAADDklEQVR4nLXVXUhTYRgH8P+Ols0Ekel0oIKSInPWUjBNsBVlgdgM9GJCoKLZhQiKoEMkxSIwUYoiMy81NCKCqWWYXykq4oXzQk0yUYz8muLHvpw8cXY2XbnpXPRwLp5zzvv+eJ/zvOcc0H8IuDJpYYF6emh9nXp7qb2dhof/Ga2o2AsLqweWPDx+8nhfAAUwUlhIOp3r6KxYfBOWcLMmHsDH7GzX0XyRCPaCD3xvbnYRLfHxsYsCuCQS7a6tuYK+CApyhAJQVVe7gk7L5Ueg2amprqAmpdLfMXolLOw4dHWVpqdpY+OPi1qtKiGBb1VqFYqtmponkZHcqVgotIfqdDQxQdvbu+XlV3m804A/w3zOyKCpqYMxDQ3PzEQZQHw+1dYSn88tP0IgOISaTPkyWRKw5u1tBPbbfBcwSKXswrno6qoDpIA+KGg2IsIwOUltbWJPTwCXJZJDqNF4RyIBcAOgtLQhhmGA98AYMBMQQI2NlmEdHTvAO4BUKkNSkkkgIK1WGhIC4KlSaad8/dKSKjT0vkBAJhOlp7cA/QBlZtLu7sGgri4C2GNujnJyqKyMdLpYoRDAp5YWB41qbaXKSjbZ26PlZVKrD25xTVtctKATE7S5yXWi2MsLgLqz04kt1ddH8/OWfGeHcnNJr2fzhAQWbWtj8/5+0mh+FBREBwebtrYco3o9jY6SRqNPSZlxcyOFgsbH2QdSWkoCAcXGkq8vi8bFUVMTVVWxU4aH945+91cDA/OBROA8YABuA28AysqyVG172G41a8AuOlJUtP+SMNbkq431y7zPHgAkkzmLrg4N7aNeVrfUBpWar6QBJJU6i5LReM7bmxOfW4lTwCNADby2VvAYoJgYp1GiwcTEwCM+R0A0t+qmphOgH6KizppbdMsBegEghmF/gs6jD5OTrwFT5v/a4WCAGYDkcrtz4Qj9Ul/vqHAeUMfVPjh4MpQMhnvx8XbRDE6016LjUCL9ysqrkpKXxcXVeXnXw8Mvmj9uZ4C3ALm709iYK+jfMTAwAnwDyM+PuruPGPgbkmJMOR1Gr/cAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAgQGBwgAAQP/xAApEAABAwMCBgICAwAAAAAAAAABAgMRAAQFBhITISIxQXEHURRhc4HB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUDBAf/xAAjEQACAgIBAgcAAAAAAAAAAAABAgMRAAQiBSESE0FRYaHB/9oADAMBAAIRAxEAPwCztU71Hn9W5jWGpVjP5Vk4t91Fu1alQQSlyAgAEAcvPf3ViMdnsu62tpbXFWDO6Ng9TNRprjEXunhksjZtP3VlduuXDzdvyLLq4lXcdM+4+qSN13WDCJW5H0yzBreYeQ7ZLXxXqBWptBYnI3G/8stcK44gg8Vs7Vz7In+6dZANQ38fs5N/SGKWlAtCFOOltxJQSviHr/ZV35/7TwTmcokQu4aJ/jo165qFiofkOxGRPC6GqxS2lLW1tA5RXDLZKyxdqbjIvpZZBgqIJjz49UpdABCvMVp1lt0bXEhSVdwfNY7rNDJL4tgtR9qv7xvJarxzLdTbrYeaVuQ4AsKmZBokobjqaSo/dElpDfSgECI70M0LbBglYwMa+QL/AHCAsd8//9k=" width="28" height="28" alt="" />
@@ -2428,7 +2403,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAX/xAAvEAABAwIEBQIEBwAAAAAAAAADAQIEBREABhIhEyIxQWEUUQcjgaEzQ3GRscHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREBAAICAgMAAAAAAAAAAAAAAQACAxEEEiEiMf/aAAwDAQACEQMRAD8AMx1aPLkU8QRMDIKVEPJIqMYxVXrZE6JfthDouaqbR6qQEekDkxhoqkkkvxSe713s1L/11wXhynV/UsQYXcTqm2+3f/e2GDJESkvcRxocdhHhQBE4P4d+2/nB2dRMFS7pnJznXaTUKhAZSoQxSOKx6EtYSD51VNvPjFKlZsjhLoPGjyXJ+Yy9lS+JMlKfVK3JEk8alEfQVRusMiJdPl/TEqTlvLYno30tUNypzsW6L98BbqPtAum5dRDdCE+RInxvkJxHNH2Tt1/fBfnLM1OOxWUOdIEQivSQUKvsROyb287JthPrVMjOgviq1yjksVhV1Lqcmn3+q4zaETXXvfG+NUTcSlymMA+yz/DrLsuv5sjMgAMSIFyPOTVoQaeX9EuqY02zJVTCETeA2RyIvECTlX7YN/gtGBFyw2cAQ2yXPIj36U1O09Lu67frh+pQiEgBd6k7dujXJb+MWYLvmPbjlqCz/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYCAwQHCP/EACkQAAICAQMCBQQDAAAAAAAAAAECAwQRAAUhBhITMUFhcQcVgdEiI1H/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMRBCEiBSP/2gAMAwEAAhEDEQA/AOpl4AGgvVMNqSrBLUhWwa8plauX7fGHYwA7vTkg/jVtDfa92wIokl58iRojaCGu4lfw0I5buxj3zpQIkbybRUWnaTPp5akt3d4b7X9vhRokKi2LHdLgl+R5EZUH408aT9pv7ds1maB7Ty+K5kawU4dj74wT8aIP1ZtisRmRvcAfvWc5sHJK4Lk2Al/pA9ss9xye2FcAD1Y8AaLS0N1tJMRJC0otl8TkhewR4GMe5B/GsfpGFEq2FAyG8Njn/c6b1H9Tcn11P53MdI8jbqWk+uhuFLcNqNixHLXWUpKIUwFL8A++pmJ885P50y3dvrbhapNeiWeN507opACh/i7eXyo0LvIsU5VBgD96k9Vn1TsU2xf/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUGAwj/xAArEAABAwMBBwQCAwAAAAAAAAABAgMEAAURIQYHEhMxQVEiIzJxYZGh0vH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAyFBERIx/9oADAMBAAIRAxEAPwAy2ciP3GW/BQeU1lRLjrZGn11z+K539ldvuciKxb5UeGz7jSpI9zlkgZyMAgrNbSZb2LXepMaFNbmNtPc8upcAW4D2AGcgDvkVqLzFZvtlkWsR0SHwyTE5wyQ6BpgnprpmkprNhLaj3MoVRuNm8NxUfYaa8xwB3DaQSPLiBRTHdW40FLUkqPXCa3tyg7SbQ2owLsbZFhrKFFcbmLcyCD30qarZ923qVHjSJDrYOeNLehP7q6jiZiYfIeVGdasq0oQwHwVNpBCODJIx/lTN0M2RN3ky7XNkCU3BSvlKbAAIQsesnz8P5q1Dukm6Q4IkqHCmUjCU5wPSvzUfZgmFv3dcjkpLsP1jsdB/UUtTYJlrl6EBsz0VMdAY0OBiiZW8S7sHlLiJXw/EtQzjh6j5OpOdfFIbslam8EJ6+KP7lb44nyFBKwVrKzhxQGT9GpOx1BWoPs//2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2462,33 +2436,280 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#7970 Consider switching to new `embed` functionality</span>
+                                        Pushed 52 commits in
+                                        <span class="repo">rasa/syncthing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by calmh in <span class="repo">syncthing/syncthing</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#9290 Disable auto upgrades on known unsupported systems</span>
+                                    <div>on branch <span class="code">dependabot/github_actions/docker/build-push-action-6</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e48be98</div>
+                                        <div class="message">build: push artifacts to Azure (#10044)
+
+Provider migration</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by calmh in <span class="repo">syncthing/syncthing</span></div>
-                                    <div class="comment">@calmh This has been implemented to your requirements, correct?</div>
+                                    <div class="commit">
+                                        <div class="sha">#e9a2ff3</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2301f72</div>
+                                        <div class="message">fix(config): zero filesystemtype is "basic" (#10038)
+
+For legacy purposes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7c8efd</div>
+                                        <div class="message">fix(config): properly apply defaults when reading folder configuration (#10034)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e7ccf7</div>
+                                        <div class="message">chore(model): add metric for total number of conflicts (#10037)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bc2784</div>
+                                        <div class="message">build: replace underscore in Debian version (#10032)
+
+The workflow building Debian packages chokes on branches containing
+underscores:
+
+```
+{:timestamp=&gt;"2025-04-03T10:31:46.749835+0000", :message=&gt;"Invalid package configuration: The version looks invalid for Debian packages. Debian version field must contain only alphanumerics and . (period), + (plus), - (hyphen) or ~ (tilde). I have '1.29.5~dev.13.ga38df11f~srv_stun' which which isn't valid.", :level=&gt;:error}
+```
+
+This replaces the offending `_` with a `~` which should yield a valid
+version.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f15d50c</div>
+                                        <div class="message">feat(fs, config): add support for custom filesystem type construction (#9887)
+
+For Synctrain I would like to create a virtual filesystem that exposes
+iOS' photo library. This can only be accessed through APIs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9007ed</div>
+                                        <div class="message">build(deps): update dependencies (#10020)
+
+deps deps deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05cc6b0</div>
+                                        <div class="message">
+                                            chore(fs): speed up case normalization (#10013)
+
+### Purpose
+
+Resurrecting https://github.com/syncthing/syncthing/pull/9365
+
+### Testing
+
+Current benchmark results:
+
+```
+goos: linux
+goarch: amd64
+pkg: github.com/syncthing/syncthing/lib/fs
+cpu: AMD EPYC 7763 64-Core Processor                
+                                           │  ../old.txt  │             ../new.txt              │
+                                           │    sec/op    │   sec/op     vs base                │
+UnicodeLowercase/ASCII_lowercase-4            43.68n ± 4%   12.19n ± 1%  -72.09% (p=0.000 n=10)
+UnicodeLowercase/ASCII_mixedcase_start-4     200.65n ± 2%   59.49n ± 3%  -70.35% (p=0.000 n=10)
+UnicodeLowercase/ASCII_mixedcase_end-4        95.50n ± 2%   59.10n ± 2%  -38.12% (p=0.000 n=10)
+UnicodeLowercase/Latin1_lowercase-4           122.5n ± 1%   131.4n ± 1%   +7.27% (p=0.000 n=10)
+UnicodeLowercase/Latin1_mixedcase_start-4     339.9n ± 2%   309.2n ± 1%   -9.05% (p=0.000 n=10)
+UnicodeLowercase/Latin1_mixedcase_end-4       183.6n ± 2%   174.3n ± 1%   -5.04% (p=0.000 n=10)
+UnicodeLowercase/Unicode_lowercase-4          456.6n ± 1%   440.5n ± 1%   -3.53% (p=0.000 n=10)
+UnicodeLowercase/Unicode_mixedcase_start-4    625.9n ± 1%   595.6n ± 1%   -4.83% (p=0.000 n=10)
+UnicodeLowercase/Unicode_mixedcase_end-4      516.2n ± 1%   495.5n ± 1%   -4.02% (p=0.000 n=10)
+geomean                                       214.1n        150.4n       -29.72%
+
+                                           │  ../old.txt  │             ../new.txt              │
+                                           │     B/op     │    B/op     vs base                 │
+UnicodeLowercase/ASCII_lowercase-4           0.000 ± 0%     0.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/ASCII_mixedcase_start-4     24.00 ± 0%     24.00 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/ASCII_mixedcase_end-4       24.00 ± 0%     24.00 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Latin1_lowercase-4          0.000 ± 0%     0.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Latin1_mixedcase_start-4    32.00 ± 0%     32.00 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Latin1_mixedcase_end-4      32.00 ± 0%     32.00 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Unicode_lowercase-4         0.000 ± 0%     0.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Unicode_mixedcase_start-4   48.00 ± 0%     48.00 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Unicode_mixedcase_end-4     48.00 ± 0%     48.00 ± 0%       ~ (p=1.000 n=10) ¹
+geomean                                                 ²               +0.00%                ²
+¹ all samples are equal
+² summaries must be &gt;0 to compute geomean
+
+                                           │  ../old.txt  │             ../new.txt              │
+                                           │  allocs/op   │ allocs/op   vs base                 │
+UnicodeLowercase/ASCII_lowercase-4           0.000 ± 0%     0.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/ASCII_mixedcase_start-4     1.000 ± 0%     1.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/ASCII_mixedcase_end-4       1.000 ± 0%     1.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Latin1_lowercase-4          0.000 ± 0%     0.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Latin1_mixedcase_start-4    1.000 ± 0%     1.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Latin1_mixedcase_end-4      1.000 ± 0%     1.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Unicode_lowercase-4         0.000 ± 0%     0.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Unicode_mixedcase_start-4   1.000 ± 0%     1.000 ± 0%       ~ (p=1.000 n=10) ¹
+UnicodeLowercase/Unicode_mixedcase_end-4     1.000 ± 0%     1.000 ± 0%       ~ (p=1.000 n=10) ¹
+geomean                                                 ²               +0.00%                ²
+¹ all samples are equal
+² summaries must be &gt;0 to compute geomean
+```
+
+I think the `+7%` for the lowercase Latin1 testcase is easily outweighed
+by the ASCII and unicode improvements
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1efcfeb</div>
+                                        <div class="message">chore(config): remove discontinued secondary STUN servers (fixes #10011) (#10012)
+
+Similarly to #10009, we will remove some discontinued STUN servers,
+except instead of being the official primary server, it's some
+unofficial secondary STUN servers.
+
+### Testing
+
+Use a STUN client (like [`pystun3`](https://pypi.org/project/pystun3))
+to probe that the removed STUN servers are inactive.
+
+### Documentation
+
+syncthing/docs#902</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9319591</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6085e3a</div>
+                                        <div class="message">fix(stun): better error handling (ref #10008) (#10010)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5b72da</div>
+                                        <div class="message">fix(config): remove discontinued primary STUN server (fixes #10008) (#10009)
+
+The mechanism for primary STUN servers, is still intact, in case this
+gets retried with a different domain.
+
+### Purpose
+
+As seen in [stun.syncthing.net doesn’t resolve
+anymore](https://forum.syncthing.net/t/stun-syncthing-net-doesnt-resolve-anymore/24075/2?u=marbens)
+on the forums, stun.syncthing.net has been shut down, so I think it's
+probably a good idea to remove it.
+
+### Testing
+
+1. Have two or more devices
+2. Disable Relaying
+3. Have no Internet ports open on either end for incoming connections
+trigger STUN)
+4. Enable the `stun` debugging facility in the Actions -&gt; Logs -&gt;
+Debugging Facilities
+5. Verify that it doesn't output something like this within a few
+seconds:
+```
+2025-03-30 05:51:32 Enabled debug data for "stun"
+2025-03-30 05:51:47 Starting stun for Stun@udp://[::]:22000
+2025-03-30 05:51:47 Running stun for Stun@udp://[::]:22000 via stun.syncthing.net:3478
+2025-03-30 05:51:47 Stun@udp://[::]:22000 stun addr resolution on stun.syncthing.net:3478: lookup stun.syncthing.net: no such host
+```
+
+---------
+
+Co-authored-by: Jakob Borg &lt;jakob@kastelo.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d6117d</div>
+                                        <div class="message">fix(gui): validate device ID in canonical form (fixes #7291) (#10006)
+
+### Purpose
+
+In the GUI, the device ID validation was case-sensitive and didn’t
+account for dash variations, which allowed users to enter an existing
+device ID without receiving proper feedback.
+
+This fix ensures the ID is validated in its canonical form, thus
+preventing the user from submitting the request if the device ID already
+exists.
+
+### Testing
+
+To test this change, try adding a new device with an ID that matches an
+existing device, but with a different case or dashes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6299716</div>
+                                        <div class="message">feat(gui): explanation to options enabled or disabled per folder type (#9367)
+
+Currently, some options are automatically enabled or disabled depending
+on the folder type. However, there is no explanation in the GUI on why
+the options are like that. Thus, add short explanatory notes to each
+case, where the option is either disabled or enabled according to the
+current folder type.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c955a9</div>
+                                        <div class="message">chore(lib): expose model methods to obtain progress (#9886)
+
+### Purpose
+
+This exposes four methods from `Model` through `Internals`. It allows
+apps like Synctrain to obtain information about local/remote need and
+sync progress.
+
+### Testing
+
+No testing seems necessary, functions are exported verbatim.
+
+### Screenshots
+
+N/a
+
+### Documentation
+
+Not public API, I am aware this interface may change at any time.
+
+## Authorship
+
+OK.
+
+Co-authored-by: Ross Smith II &lt;ross@smithii.com&gt;
+Co-authored-by: Jakob Borg &lt;jakob@kastelo.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f3c8db</div>
+                                        <div class="message">build: move nightly build schedule to separate workflow (#10000)
+
+This allows users to easily disable nightly builds in their forks,
+simply by disabling the
+build-nightly action.
+
+### Testing
+
+I tested it in my fork, and it works.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7762e39</div>
+                                        <div class="message">chore(syncthing): use file lock on certificate to prevent multiple instances (#10003)
+
+This adds the locking from the SQLite branch, in preparation, so that we
+do not inadvertently permit running an instance of each.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4235b2c</div>
+                                        <div class="message">chore(ur): add RSS to reported stats (#10002)
+
+For easier comparison in the future.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fd090b</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2499,33 +2720,162 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">rasa/editorconfig-checker</span>
+                                        Pushed 27 commits in
+                                        <span class="repo">rasa/syncthing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">rs/support-charset-setting</span></div>
+                                    <div>on branch <span class="code">dependabot/go_modules/github.com/quic-go/quic-go-0.51.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1fed588</div>
-                                        <div class="message">Merge branch 'main' into rs/support-charset-setting</div>
+                                        <div class="sha">#93ae30d</div>
+                                        <div class="message">chore(gui): update dependency copyrights, add script for periodic maintenance (#10067)
+
+### Purpose
+
+This PR parses the output of `go mod graph` and updates the copyright
+list in our [about
+modal](https://github.com/syncthing/syncthing/blob/486eebc4ac911b86b3d110dd0f7a955edd0f5106/gui/default/syncthing/core/aboutModalView.html#L38).
+
+If there are no changes, the program is silent. Otherwise, it reports
+what additions, and deletions it made. It does not rewrite existing
+copyright notices, but it does remove notices that we no longer use, as
+well as add new ones.
+
+It uses a GitHub API to try to determine the copyright string in the
+license file. If one is not found, it defaults to `Copyright &amp;copy;
+&lt;this_year&gt; the &lt;owner/repo&gt; authors`. If a proper copyright is found,
+simply update the notice in `aboutModalView.html`, and it will be used.</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#462 Updated default ignore</span>
+                                    <div class="commit">
+                                        <div class="sha">#486eebc</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Okeanos in <span class="repo">editorconfig-checker/editorconfig-checker</span></div>
-                                    <div class="comment">@Okeanos If this PR is accepted, the readme will need to be updated too. Perhaps do that in this PR?</div>
+                                    <div class="commit">
+                                        <div class="sha">#ff33d97</div>
+                                        <div class="message">chore(syncthing): remove support for TLS 1.2 sync connections (#10064)
+
+This cleans up the option to allow old TLS 1.2 sync connections. The
+flag existed for compatibility with old Syncthing versions that don't
+support TLS 1.3, which is approximately Syncthing 1.2.2 (September 2019)
+and older. ("Approximately" because it depends on the Go version it's
+built with and that's when we switched to building with Go 1.13.)
+
+Ref #10062 because it reminded me this exists.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69890b4</div>
+                                        <div class="message">fix(osutil): give threads same I/O priority on Linux (#10063)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#533c9a6</div>
+                                        <div class="message">chore(stun): switch lookup warning to debug level</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9521bb3</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e46a0f9</div>
+                                        <div class="message">chore: add missing copyright in new files from infra branch (#10055)
+
+Let's see if it passes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed97e36</div>
+                                        <div class="message">Merge branch 'infrastructure'
+
+* infrastructure:
+  feat(stdiscosrv): configurable desired not-found rate
+  chore(blobs): generalised blob storage
+  chore(stdiscosrv): path style s3
+  feat(ursv): add os/arch/distribution metric
+  chore(strelaypoolsrv): limit number of returned relays
+  build(infra): run in Docker environment for pushes
+  chore(stupgrades): expose latest release as a metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4776ea</div>
+                                        <div class="message">feat(stdiscosrv): configurable desired not-found rate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5ffd0a</div>
+                                        <div class="message">chore(blobs): generalised blob storage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c74299b</div>
+                                        <div class="message">chore(stdiscosrv): path style s3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b6d837</div>
+                                        <div class="message">feat(ursv): add os/arch/distribution metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e74b3d</div>
+                                        <div class="message">chore(strelaypoolsrv): limit number of returned relays
+
+Avoid unnecessarily enormous responses by returning a random subset of
+relays.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2902da9</div>
+                                        <div class="message">build(infra): run in Docker environment for pushes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6f144b</div>
+                                        <div class="message">chore(stupgrades): expose latest release as a metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab5c42f</div>
+                                        <div class="message">feat(api, gui): allow authentication bypass for metrics (#10045)
+
+### Purpose
+
+Give the ability to skip authentication for prometheus metrics
+("/metrics").
+
+### Testing
+
+When authentication is enabled and "Metrics Without Auth" is checked
+(not the default), the "/metrics" path remains accessible even when
+disconnected.
+
+### Screenshots
+
+
+![image](https://github.com/user-attachments/assets/144b696b-dd72-46f4-94d5-cd21848e4a4c)
+
+### Documentation
+
+https://github.com/syncthing/docs/pull/906</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7db3f7e</div>
+                                        <div class="message">Merge branch 'release-1.29.5'
+
+* release-1.29.5:
+  build: push artifacts to Azure (#10044)
+  fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0b6662</div>
+                                        <div class="message">build: push artifacts to Azure (#10044)
+
+Provider migration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#190a598</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40888c1</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2536,67 +2886,493 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">rasa/scoops</span>
+                                        Pushed 27 commits in
+                                        <span class="repo">rasa/syncthing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dependabot/go_modules/github.com/prometheus/client_golang-1.22.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b529ca</div>
-                                        <div class="message">🔄 synced local '.github/workflows/toc.yml' with remote '.github/workflows/toc.yml'</div>
+                                        <div class="sha">#93ae30d</div>
+                                        <div class="message">chore(gui): update dependency copyrights, add script for periodic maintenance (#10067)
+
+### Purpose
+
+This PR parses the output of `go mod graph` and updates the copyright
+list in our [about
+modal](https://github.com/syncthing/syncthing/blob/486eebc4ac911b86b3d110dd0f7a955edd0f5106/gui/default/syncthing/core/aboutModalView.html#L38).
+
+If there are no changes, the program is silent. Otherwise, it reports
+what additions, and deletions it made. It does not rewrite existing
+copyright notices, but it does remove notices that we no longer use, as
+well as add new ones.
+
+It uses a GitHub API to try to determine the copyright string in the
+license file. If one is not found, it defaults to `Copyright &amp;copy;
+&lt;this_year&gt; the &lt;owner/repo&gt; authors`. If a proper copyright is found,
+simply update the notice in `aboutModalView.html`, and it will be used.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9b97c74</div>
-                                        <div class="message">🔄 synced local '.github/workflows/mega-linter.yml' with remote '.github/workflows/mega-linter.yml'</div>
+                                        <div class="sha">#486eebc</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#211c88b</div>
-                                        <div class="message">🔄 synced local '.github/workflows/dependabot.yml' with remote '.github/workflows/dependabot.yml'</div>
+                                        <div class="sha">#ff33d97</div>
+                                        <div class="message">chore(syncthing): remove support for TLS 1.2 sync connections (#10064)
+
+This cleans up the option to allow old TLS 1.2 sync connections. The
+flag existed for compatibility with old Syncthing versions that don't
+support TLS 1.3, which is approximately Syncthing 1.2.2 (September 2019)
+and older. ("Approximately" because it depends on the Go version it's
+built with and that's when we switched to building with Go 1.13.)
+
+Ref #10062 because it reminded me this exists.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e123ea3</div>
-                                        <div class="message">🔄 synced local '.github/workflows/debug-rasa.yml' with remote '.github/workflows/debug-rasa.yml'</div>
+                                        <div class="sha">#69890b4</div>
+                                        <div class="message">fix(osutil): give threads same I/O priority on Linux (#10063)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b3dcf2d</div>
-                                        <div class="message">🔄 synced local '.github/workflows/debug-matrix.yml' with remote '.github/workflows/debug-matrix.yml'</div>
+                                        <div class="sha">#533c9a6</div>
+                                        <div class="message">chore(stun): switch lookup warning to debug level</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d2f8e5b</div>
-                                        <div class="message">🔄 synced local '.github/workflows/codeql.yml' with remote '.github/workflows/codeql.yml'</div>
+                                        <div class="sha">#9521bb3</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ce93e57</div>
-                                        <div class="message">🔄 synced local '.github/workflows/clean-logs.yml' with remote '.github/workflows/clean-logs.yml'</div>
+                                        <div class="sha">#e46a0f9</div>
+                                        <div class="message">chore: add missing copyright in new files from infra branch (#10055)
+
+Let's see if it passes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e741ca2</div>
-                                        <div class="message">🔄 synced local '.github/linters/' with remote '.github/linters/'</div>
+                                        <div class="sha">#ed97e36</div>
+                                        <div class="message">Merge branch 'infrastructure'
+
+* infrastructure:
+  feat(stdiscosrv): configurable desired not-found rate
+  chore(blobs): generalised blob storage
+  chore(stdiscosrv): path style s3
+  feat(ursv): add os/arch/distribution metric
+  chore(strelaypoolsrv): limit number of returned relays
+  build(infra): run in Docker environment for pushes
+  chore(stupgrades): expose latest release as a metric</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#499e1c6</div>
-                                        <div class="message">🔄 synced local '.github/.cspell/' with remote '.github/.cspell/'</div>
+                                        <div class="sha">#b4776ea</div>
+                                        <div class="message">feat(stdiscosrv): configurable desired not-found rate</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fde63dc</div>
-                                        <div class="message">🔄 synced local '.github/mega-linter-shared.yml' with remote '.github/mega-linter-shared.yml'</div>
+                                        <div class="sha">#b5ffd0a</div>
+                                        <div class="message">chore(blobs): generalised blob storage</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e65c635</div>
-                                        <div class="message">🔄 synced local '.github/dependabot.yml' with remote '.github/dependabot.yml'</div>
+                                        <div class="sha">#c74299b</div>
+                                        <div class="message">chore(stdiscosrv): path style s3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3cc5f7b</div>
-                                        <div class="message">🔄 synced local '.editorconfig' with remote '.editorconfig'</div>
+                                        <div class="sha">#8b6d837</div>
+                                        <div class="message">feat(ursv): add os/arch/distribution metric</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5b7e03b</div>
-                                        <div class="message">🔄 synced local '.cspell/cspell.config.yml' with remote '.cspell/cspell.config.yml'</div>
+                                        <div class="sha">#3e74b3d</div>
+                                        <div class="message">chore(strelaypoolsrv): limit number of returned relays
+
+Avoid unnecessarily enormous responses by returning a random subset of
+relays.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#461d23f</div>
-                                        <div class="message">🔄 synced local '.cspell/common-settings.yml' with remote '.cspell/common-settings.yml'</div>
+                                        <div class="sha">#2902da9</div>
+                                        <div class="message">build(infra): run in Docker environment for pushes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6f144b</div>
+                                        <div class="message">chore(stupgrades): expose latest release as a metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab5c42f</div>
+                                        <div class="message">feat(api, gui): allow authentication bypass for metrics (#10045)
+
+### Purpose
+
+Give the ability to skip authentication for prometheus metrics
+("/metrics").
+
+### Testing
+
+When authentication is enabled and "Metrics Without Auth" is checked
+(not the default), the "/metrics" path remains accessible even when
+disconnected.
+
+### Screenshots
+
+
+![image](https://github.com/user-attachments/assets/144b696b-dd72-46f4-94d5-cd21848e4a4c)
+
+### Documentation
+
+https://github.com/syncthing/docs/pull/906</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7db3f7e</div>
+                                        <div class="message">Merge branch 'release-1.29.5'
+
+* release-1.29.5:
+  build: push artifacts to Azure (#10044)
+  fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0b6662</div>
+                                        <div class="message">build: push artifacts to Azure (#10044)
+
+Provider migration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#190a598</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40888c1</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 27 commits in
+                                        <span class="repo">rasa/syncthing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/go_modules/golang.org/x/tools-0.32.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#93ae30d</div>
+                                        <div class="message">chore(gui): update dependency copyrights, add script for periodic maintenance (#10067)
+
+### Purpose
+
+This PR parses the output of `go mod graph` and updates the copyright
+list in our [about
+modal](https://github.com/syncthing/syncthing/blob/486eebc4ac911b86b3d110dd0f7a955edd0f5106/gui/default/syncthing/core/aboutModalView.html#L38).
+
+If there are no changes, the program is silent. Otherwise, it reports
+what additions, and deletions it made. It does not rewrite existing
+copyright notices, but it does remove notices that we no longer use, as
+well as add new ones.
+
+It uses a GitHub API to try to determine the copyright string in the
+license file. If one is not found, it defaults to `Copyright &amp;copy;
+&lt;this_year&gt; the &lt;owner/repo&gt; authors`. If a proper copyright is found,
+simply update the notice in `aboutModalView.html`, and it will be used.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#486eebc</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff33d97</div>
+                                        <div class="message">chore(syncthing): remove support for TLS 1.2 sync connections (#10064)
+
+This cleans up the option to allow old TLS 1.2 sync connections. The
+flag existed for compatibility with old Syncthing versions that don't
+support TLS 1.3, which is approximately Syncthing 1.2.2 (September 2019)
+and older. ("Approximately" because it depends on the Go version it's
+built with and that's when we switched to building with Go 1.13.)
+
+Ref #10062 because it reminded me this exists.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69890b4</div>
+                                        <div class="message">fix(osutil): give threads same I/O priority on Linux (#10063)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#533c9a6</div>
+                                        <div class="message">chore(stun): switch lookup warning to debug level</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9521bb3</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e46a0f9</div>
+                                        <div class="message">chore: add missing copyright in new files from infra branch (#10055)
+
+Let's see if it passes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed97e36</div>
+                                        <div class="message">Merge branch 'infrastructure'
+
+* infrastructure:
+  feat(stdiscosrv): configurable desired not-found rate
+  chore(blobs): generalised blob storage
+  chore(stdiscosrv): path style s3
+  feat(ursv): add os/arch/distribution metric
+  chore(strelaypoolsrv): limit number of returned relays
+  build(infra): run in Docker environment for pushes
+  chore(stupgrades): expose latest release as a metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4776ea</div>
+                                        <div class="message">feat(stdiscosrv): configurable desired not-found rate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5ffd0a</div>
+                                        <div class="message">chore(blobs): generalised blob storage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c74299b</div>
+                                        <div class="message">chore(stdiscosrv): path style s3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b6d837</div>
+                                        <div class="message">feat(ursv): add os/arch/distribution metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e74b3d</div>
+                                        <div class="message">chore(strelaypoolsrv): limit number of returned relays
+
+Avoid unnecessarily enormous responses by returning a random subset of
+relays.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2902da9</div>
+                                        <div class="message">build(infra): run in Docker environment for pushes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6f144b</div>
+                                        <div class="message">chore(stupgrades): expose latest release as a metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab5c42f</div>
+                                        <div class="message">feat(api, gui): allow authentication bypass for metrics (#10045)
+
+### Purpose
+
+Give the ability to skip authentication for prometheus metrics
+("/metrics").
+
+### Testing
+
+When authentication is enabled and "Metrics Without Auth" is checked
+(not the default), the "/metrics" path remains accessible even when
+disconnected.
+
+### Screenshots
+
+
+![image](https://github.com/user-attachments/assets/144b696b-dd72-46f4-94d5-cd21848e4a4c)
+
+### Documentation
+
+https://github.com/syncthing/docs/pull/906</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7db3f7e</div>
+                                        <div class="message">Merge branch 'release-1.29.5'
+
+* release-1.29.5:
+  build: push artifacts to Azure (#10044)
+  fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0b6662</div>
+                                        <div class="message">build: push artifacts to Azure (#10044)
+
+Provider migration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#190a598</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40888c1</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 27 commits in
+                                        <span class="repo">rasa/syncthing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/go_modules/golang.org/x/net-0.39.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#93ae30d</div>
+                                        <div class="message">chore(gui): update dependency copyrights, add script for periodic maintenance (#10067)
+
+### Purpose
+
+This PR parses the output of `go mod graph` and updates the copyright
+list in our [about
+modal](https://github.com/syncthing/syncthing/blob/486eebc4ac911b86b3d110dd0f7a955edd0f5106/gui/default/syncthing/core/aboutModalView.html#L38).
+
+If there are no changes, the program is silent. Otherwise, it reports
+what additions, and deletions it made. It does not rewrite existing
+copyright notices, but it does remove notices that we no longer use, as
+well as add new ones.
+
+It uses a GitHub API to try to determine the copyright string in the
+license file. If one is not found, it defaults to `Copyright &amp;copy;
+&lt;this_year&gt; the &lt;owner/repo&gt; authors`. If a proper copyright is found,
+simply update the notice in `aboutModalView.html`, and it will be used.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#486eebc</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff33d97</div>
+                                        <div class="message">chore(syncthing): remove support for TLS 1.2 sync connections (#10064)
+
+This cleans up the option to allow old TLS 1.2 sync connections. The
+flag existed for compatibility with old Syncthing versions that don't
+support TLS 1.3, which is approximately Syncthing 1.2.2 (September 2019)
+and older. ("Approximately" because it depends on the Go version it's
+built with and that's when we switched to building with Go 1.13.)
+
+Ref #10062 because it reminded me this exists.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69890b4</div>
+                                        <div class="message">fix(osutil): give threads same I/O priority on Linux (#10063)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#533c9a6</div>
+                                        <div class="message">chore(stun): switch lookup warning to debug level</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9521bb3</div>
+                                        <div class="message">chore(gui, man, authors): update docs, translations, and contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e46a0f9</div>
+                                        <div class="message">chore: add missing copyright in new files from infra branch (#10055)
+
+Let's see if it passes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed97e36</div>
+                                        <div class="message">Merge branch 'infrastructure'
+
+* infrastructure:
+  feat(stdiscosrv): configurable desired not-found rate
+  chore(blobs): generalised blob storage
+  chore(stdiscosrv): path style s3
+  feat(ursv): add os/arch/distribution metric
+  chore(strelaypoolsrv): limit number of returned relays
+  build(infra): run in Docker environment for pushes
+  chore(stupgrades): expose latest release as a metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4776ea</div>
+                                        <div class="message">feat(stdiscosrv): configurable desired not-found rate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5ffd0a</div>
+                                        <div class="message">chore(blobs): generalised blob storage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c74299b</div>
+                                        <div class="message">chore(stdiscosrv): path style s3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b6d837</div>
+                                        <div class="message">feat(ursv): add os/arch/distribution metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e74b3d</div>
+                                        <div class="message">chore(strelaypoolsrv): limit number of returned relays
+
+Avoid unnecessarily enormous responses by returning a random subset of
+relays.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2902da9</div>
+                                        <div class="message">build(infra): run in Docker environment for pushes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6f144b</div>
+                                        <div class="message">chore(stupgrades): expose latest release as a metric</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab5c42f</div>
+                                        <div class="message">feat(api, gui): allow authentication bypass for metrics (#10045)
+
+### Purpose
+
+Give the ability to skip authentication for prometheus metrics
+("/metrics").
+
+### Testing
+
+When authentication is enabled and "Metrics Without Auth" is checked
+(not the default), the "/metrics" path remains accessible even when
+disconnected.
+
+### Screenshots
+
+
+![image](https://github.com/user-attachments/assets/144b696b-dd72-46f4-94d5-cd21848e4a4c)
+
+### Documentation
+
+https://github.com/syncthing/docs/pull/906</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7db3f7e</div>
+                                        <div class="message">Merge branch 'release-1.29.5'
+
+* release-1.29.5:
+  build: push artifacts to Azure (#10044)
+  fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0b6662</div>
+                                        <div class="message">build: push artifacts to Azure (#10044)
+
+Provider migration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#190a598</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40888c1</div>
+                                        <div class="message">fix(syncthing): use separate lock file instead of locking the certificate (fixes #10053) (#10054)
+
+Apparently that nukes the cert under some circumstances on some Windows
+🤷</div>
                                     </div>
                                 </div>
                             </section>
@@ -2713,7 +3489,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Apr 2025, 17:34:01 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2025, 17:30:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
