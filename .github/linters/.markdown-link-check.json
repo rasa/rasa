@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json.schemastore.org/markdown-link-check.json",
+  "aliveStatusCodes": [
+    200,
+    206,
+    405
+  ],
+  "ignorePatterns": [
+    {
+      "pattern": "^https?://0+\\."
+    },
+    {
+      "pattern": "^https?://10\\."
+    },
+    {
+      "pattern": "^https?://127\\."
+    },
+    {
+      "pattern": "^https?://169\\.254\\."
+    },
+    {
+      "pattern": "^https?://172\\.(1[6-9]|2[0-9]|3[01])\\."
+    },
+    {
+      "pattern": "^https?://192\\.168\\."
+    },
+    {
+      "pattern": "^https?://100\\.(6[4-9]|[789][0-9]|1[01][0-9]|12[0-7])\\."
+    },
+    {
+      "pattern": "^https://github\\.com/rasa/"
+    },
+    {
+      "pattern": "^https://sysupgrade.openwrt.org/?"
+    }
+  ],
+  "retryCount": 5,
+  "retryOn429": true
+}
