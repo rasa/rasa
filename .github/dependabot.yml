@@ -1,18 +1,49 @@
+---
+# Copied from: rasa/dotfiles/.github/dependabot.yml
+# EDIT THE ABOVE FILE OR YOUR CHANGES WILL BE LOST!
+# yamllint disable rule:line-length
+# Docs: https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 version: 2
 updates:
-  - package-ecosystem: "pip"
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "daily"
-    labels:
-      - "dependencies"
-    reviewers:
-      - "rasa"
   - package-ecosystem: "github-actions"
-    directory: "/"
+    directories:
+      - "/**/*"
     schedule:
       interval: "daily"
-    labels:
-      - "dependencies"
-    reviewers:
-      - "rasa"
+      time: "08:00"
+      timezone: "America/Los_Angeles"
+    commit-message:
+      prefix: "[action] "
+
+  - package-ecosystem: "pip"
+    directories:
+      - "/**/*"
+    schedule:
+      interval: "daily"
+      time: "08:00"
+      timezone: "America/Los_Angeles"
+    commit-message:
+      prefix: "[pip] "
+      prefix-development: "[pip dev] "
+
+  - package-ecosystem: "docker"
+    directories:
+      - "/**/*"
+    schedule:
+      interval: "daily"
+      time: "08:00"
+      timezone: "America/Los_Angeles"
+    commit-message:
+      prefix: "[docker] "
+
+  - package-ecosystem: "gomod"
+    directories:
+      - "/**/*"
+    schedule:
+      interval: "daily"
+      time: "08:00"
+      timezone: "America/Los_Angeles"
+    commit-message:
+      prefix: "[gomod] "
+
+  # - package-ecosystem: "gitsubmodule"
